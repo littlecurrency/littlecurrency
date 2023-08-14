@@ -1,0 +1,5585 @@
+ {
+    "20 Microns Limited (20MICRONS)": {
+        "code": "20MICRONS"
+    },
+    "21st Century Management Services Limited (21STCENMGM)": {
+        "code": "21STCENMGM"
+    },
+    "360 ONE WAM LIMITED (360ONE)": {
+        "code": "360ONE"
+    },
+    "3i Infotech Limited (3IINFOLTD)": {
+        "code": "3IINFOLTD"
+    },
+    "3M India Limited (3MINDIA)": {
+        "code": "3MINDIA"
+    },
+    "3P Land Holdings Limited (3PLAND)": {
+        "code": "3PLAND"
+    },
+    "Fourth Dimension Solutions Limited (4THDIM)": {
+        "code": "4THDIM"
+    },
+    "5Paisa Capital Limited (5PAISA)": {
+        "code": "5PAISA"
+    },
+    "63 moons technologies limited (63MOONS)": {
+        "code": "63MOONS"
+    },
+    "A2Z Infra Engineering Limited (A2ZINFRA)": {
+        "code": "A2ZINFRA"
+    },
+    "AAA Technologies Limited (AAATECH)": {
+        "code": "AAATECH"
+    },
+    "Aakash Exploration Services Limited (AAKASH)": {
+        "code": "AAKASH"
+    },
+    "Aarey Drugs & Pharmaceuticals Limited (AAREYDRUGS)": {
+        "code": "AAREYDRUGS"
+    },
+    "Aaron Industries Limited (AARON)": {
+        "code": "AARON"
+    },
+    "Aarti Drugs Limited (AARTIDRUGS)": {
+        "code": "AARTIDRUGS"
+    },
+    "Aarti Industries Limited (AARTIIND)": {
+        "code": "AARTIIND"
+    },
+    "Aarti Pharmalabs Limited (AARTIPHARM)": {
+        "code": "AARTIPHARM"
+    },
+    "Aarti Surfactants Limited (AARTISURF)": {
+        "code": "AARTISURF"
+    },
+    "Aarvee Denims & Exports Limited (AARVEEDEN)": {
+        "code": "AARVEEDEN"
+    },
+    "Aarvi Encon Limited (AARVI)": {
+        "code": "AARVI"
+    },
+    "Aavas Financiers Limited (AAVAS)": {
+        "code": "AAVAS"
+    },
+    "Aban Offshore Limited (ABAN)": {
+        "code": "ABAN"
+    },
+    "ABB India Limited (ABB)": {
+        "code": "ABB"
+    },
+    "Abbott India Limited (ABBOTINDIA)": {
+        "code": "ABBOTINDIA"
+    },
+    "Aditya Birla Capital Limited (ABCAPITAL)": {
+        "code": "ABCAPITAL"
+    },
+    "Aditya Birla Fashion and Retail Limited (ABFRL)": {
+        "code": "ABFRL"
+    },
+    "ABM International Limited (ABMINTLLTD)": {
+        "code": "ABMINTLLTD"
+    },
+    "Aditya Birla Sun Life AMC Limited (ABSLAMC)": {
+        "code": "ABSLAMC"
+    },
+    "ACC Limited (ACC)": {
+        "code": "ACC"
+    },
+    "Accelya Solutions India Limited (ACCELYA)": {
+        "code": "ACCELYA"
+    },
+    "Accuracy Shipping Limited (ACCURACY)": {
+        "code": "ACCURACY"
+    },
+    "Action Construction Equipment Limited (ACE)": {
+        "code": "ACE"
+    },
+    "Ace Integrated Solutions Limited (ACEINTEG)": {
+        "code": "ACEINTEG"
+    },
+    "Archean Chemical Industries Limited (ACI)": {
+        "code": "ACI"
+    },
+    "Adani Enterprises Limited (ADANIENT)": {
+        "code": "ADANIENT"
+    },
+    "Adani Green Energy Limited (ADANIGREEN)": {
+        "code": "ADANIGREEN"
+    },
+    "Adani Ports and Special Economic Zone Limited (ADANIPORTS)": {
+        "code": "ADANIPORTS"
+    },
+    "Adani Power Limited (ADANIPOWER)": {
+        "code": "ADANIPOWER"
+    },
+    "Adani Transmission Limited (ADANITRANS)": {
+        "code": "ADANITRANS"
+    },
+    "ADF Foods Limited (ADFFOODS)": {
+        "code": "ADFFOODS"
+    },
+    "Archidply Decor Limited (ADL)": {
+        "code": "ADL"
+    },
+    "Ador Welding Limited (ADORWELD)": {
+        "code": "ADORWELD"
+    },
+    "Adroit Infotech Limited (ADROITINFO)": {
+        "code": "ADROITINFO"
+    },
+    "Allied Digital Services Limited (ADSL)": {
+        "code": "ADSL"
+    },
+    "Advani Hotels & Resorts (India) Limited (ADVANIHOTR)": {
+        "code": "ADVANIHOTR"
+    },
+    "Advanced Enzyme Technologies Limited (ADVENZYMES)": {
+        "code": "ADVENZYMES"
+    },
+    "Aegis Logistics Limited (AEGISCHEM)": {
+        "code": "AEGISCHEM"
+    },
+    "Aether Industries Limited (AETHER)": {
+        "code": "AETHER"
+    },
+    "Affle (India) Limited (AFFLE)": {
+        "code": "AFFLE"
+    },
+    "Agarwal Industrial Corporation Limited (AGARIND)": {
+        "code": "AGARIND"
+    },
+    "AGI Greenpac Limited (AGI)": {
+        "code": "AGI"
+    },
+    "Agri-Tech (India) Limited (AGRITECH)": {
+        "code": "AGRITECH"
+    },
+    "Agro Phos India Limited (AGROPHOS)": {
+        "code": "AGROPHOS"
+    },
+    "AGS Transact Technologies Limited (AGSTRA)": {
+        "code": "AGSTRA"
+    },
+    "Abans Holdings Limited (AHL)": {
+        "code": "AHL"
+    },
+    "Ahlada Engineers Limited (AHLADA)": {
+        "code": "AHLADA"
+    },
+    "Asian Hotels (East) Limited (AHLEAST)": {
+        "code": "AHLEAST"
+    },
+    "Ahluwalia Contracts (India) Limited (AHLUCONT)": {
+        "code": "AHLUCONT"
+    },
+    "AIA Engineering Limited (AIAENG)": {
+        "code": "AIAENG"
+    },
+    "Airan Limited (AIRAN)": {
+        "code": "AIRAN"
+    },
+    "Airo Lam limited (AIROLAM)": {
+        "code": "AIROLAM"
+    },
+    "Ajanta Pharma Limited (AJANTPHARM)": {
+        "code": "AJANTPHARM"
+    },
+    "Ajmera Realty & Infra India Limited (AJMERA)": {
+        "code": "AJMERA"
+    },
+    "Ajooni Biotech Limited (AJOONI)": {
+        "code": "AJOONI"
+    },
+    "Akash Infra-Projects Limited (AKASH)": {
+        "code": "AKASH"
+    },
+    "Akg Exim Limited (AKG)": {
+        "code": "AKG"
+    },
+    "Akshar Spintex Limited (AKSHAR)": {
+        "code": "AKSHAR"
+    },
+    "AksharChem India Limited (AKSHARCHEM)": {
+        "code": "AKSHARCHEM"
+    },
+    "Aksh Optifibre Limited (AKSHOPTFBR)": {
+        "code": "AKSHOPTFBR"
+    },
+    "Akzo Nobel India Limited (AKZOINDIA)": {
+        "code": "AKZOINDIA"
+    },
+    "Alankit Limited (ALANKIT)": {
+        "code": "ALANKIT"
+    },
+    "Albert David Limited (ALBERTDAVD)": {
+        "code": "ALBERTDAVD"
+    },
+    "Alembic Limited (ALEMBICLTD)": {
+        "code": "ALEMBICLTD"
+    },
+    "Alicon Castalloy Limited (ALICON)": {
+        "code": "ALICON"
+    },
+    "Alkali Metals Limited (ALKALI)": {
+        "code": "ALKALI"
+    },
+    "Alkem Laboratories Limited (ALKEM)": {
+        "code": "ALKEM"
+    },
+    "Alkyl Amines Chemicals Limited (ALKYLAMINE)": {
+        "code": "ALKYLAMINE"
+    },
+    "Allcargo Logistics Limited (ALLCARGO)": {
+        "code": "ALLCARGO"
+    },
+    "Allsec Technologies Limited (ALLSEC)": {
+        "code": "ALLSEC"
+    },
+    "Almondz Global Securities Limited (ALMONDZ)": {
+        "code": "ALMONDZ"
+    },
+    "Alok Industries Limited (ALOKINDS)": {
+        "code": "ALOKINDS"
+    },
+    "Alpa Laboratories Limited (ALPA)": {
+        "code": "ALPA"
+    },
+    "Alphageo (India) Limited (ALPHAGEO)": {
+        "code": "ALPHAGEO"
+    },
+    "Amara Raja Batteries Limited (AMARAJABAT)": {
+        "code": "AMARAJABAT"
+    },
+    "Amber Enterprises India Limited (AMBER)": {
+        "code": "AMBER"
+    },
+    "Ambica Agarbathies & Aroma industries Limited (AMBICAAGAR)": {
+        "code": "AMBICAAGAR"
+    },
+    "Ambika Cotton Mills Limited (AMBIKCO)": {
+        "code": "AMBIKCO"
+    },
+    "Ambuja Cements Limited (AMBUJACEM)": {
+        "code": "AMBUJACEM"
+    },
+    "AMD Industries Limited (AMDIND)": {
+        "code": "AMDIND"
+    },
+    "Ami Organics Limited (AMIORG)": {
+        "code": "AMIORG"
+    },
+    "Amj Land Holdings Limited (AMJLAND)": {
+        "code": "AMJLAND"
+    },
+    "Amrutanjan Health Care Limited (AMRUTANJAN)": {
+        "code": "AMRUTANJAN"
+    },
+    "Anand Rathi Wealth Limited (ANANDRATHI)": {
+        "code": "ANANDRATHI"
+    },
+    "Anant Raj Limited (ANANTRAJ)": {
+        "code": "ANANTRAJ"
+    },
+    "ANDHRA PAPER LIMITED (ANDHRAPAP)": {
+        "code": "ANDHRAPAP"
+    },
+    "The Andhra Sugars Limited (ANDHRSUGAR)": {
+        "code": "ANDHRSUGAR"
+    },
+    "Andrew Yule & Company Limited (ANDREWYU)": {
+        "code": "ANDREWYU"
+    },
+    "Angel One Limited (ANGELONE)": {
+        "code": "ANGELONE"
+    },
+    "Anik Industries Limited (ANIKINDS)": {
+        "code": "ANIKINDS"
+    },
+    "Ankit Metal & Power Limited (ANKITMETAL)": {
+        "code": "ANKITMETAL"
+    },
+    "Anmol India Limited (ANMOL)": {
+        "code": "ANMOL"
+    },
+    "Antarctica Limited (ANTGRAPHIC)": {
+        "code": "ANTGRAPHIC"
+    },
+    "The Anup Engineering Limited (ANUP)": {
+        "code": "ANUP"
+    },
+    "Anupam Rasayan India Limited (ANURAS)": {
+        "code": "ANURAS"
+    },
+    "Apar Industries Limited (APARINDS)": {
+        "code": "APARINDS"
+    },
+    "Anjani Portland Cement Limited (APCL)": {
+        "code": "APCL"
+    },
+    "Apcotex Industries Limited (APCOTEXIND)": {
+        "code": "APCOTEXIND"
+    },
+    "Apex Frozen Foods Limited (APEX)": {
+        "code": "APEX"
+    },
+    "APL Apollo Tubes Limited (APLAPOLLO)": {
+        "code": "APLAPOLLO"
+    },
+    "Alembic Pharmaceuticals Limited (APLLTD)": {
+        "code": "APLLTD"
+    },
+    "Apollo Micro Systems Limited (APOLLO)": {
+        "code": "APOLLO"
+    },
+    "Apollo Hospitals Enterprise Limited (APOLLOHOSP)": {
+        "code": "APOLLOHOSP"
+    },
+    "Apollo Pipes Limited (APOLLOPIPE)": {
+        "code": "APOLLOPIPE"
+    },
+    "Apollo Tyres Limited (APOLLOTYRE)": {
+        "code": "APOLLOTYRE"
+    },
+    "Apollo Sindoori Hotels Limited (APOLSINHOT)": {
+        "code": "APOLSINHOT"
+    },
+    "Aptech Limited (APTECHT)": {
+        "code": "APTECHT"
+    },
+    "Aptus Value Housing Finance India Limited (APTUS)": {
+        "code": "APTUS"
+    },
+    "Archidply Industries Limited (ARCHIDPLY)": {
+        "code": "ARCHIDPLY"
+    },
+    "Archies Limited (ARCHIES)": {
+        "code": "ARCHIES"
+    },
+    "Rajdarshan Industries Limited (ARENTERP)": {
+        "code": "ARENTERP"
+    },
+    "Aries Agro Limited (ARIES)": {
+        "code": "ARIES"
+    },
+    "Arihant Capital Markets Limited (ARIHANTCAP)": {
+        "code": "ARIHANTCAP"
+    },
+    "Arihant Superstructures Limited (ARIHANTSUP)": {
+        "code": "ARIHANTSUP"
+    },
+    "Arman Financial Services Limited (ARMANFIN)": {
+        "code": "ARMANFIN"
+    },
+    "Aro Granite Industries Limited (AROGRANITE)": {
+        "code": "AROGRANITE"
+    },
+    "Arrow Greentech Limited (ARROWGREEN)": {
+        "code": "ARROWGREEN"
+    },
+    "Arshiya Limited (ARSHIYA)": {
+        "code": "ARSHIYA"
+    },
+    "Artemis Medicare Services Limited (ARTEMISMED)": {
+        "code": "ARTEMISMED"
+    },
+    "Art Nirman Limited (ARTNIRMAN)": {
+        "code": "ARTNIRMAN"
+    },
+    "Arvee Laboratories (India) Limited (ARVEE)": {
+        "code": "ARVEE"
+    },
+    "Arvind Limited (ARVIND)": {
+        "code": "ARVIND"
+    },
+    "Arvind Fashions Limited (ARVINDFASN)": {
+        "code": "ARVINDFASN"
+    },
+    "Arvind SmartSpaces Limited (ARVSMART)": {
+        "code": "ARVSMART"
+    },
+    "Asahi India Glass Limited (ASAHIINDIA)": {
+        "code": "ASAHIINDIA"
+    },
+    "Asahi Songwon Colors Limited (ASAHISONG)": {
+        "code": "ASAHISONG"
+    },
+    "Automotive Stampings and Assemblies Limited (ASAL)": {
+        "code": "ASAL"
+    },
+    "Associated Alcohols & Breweries Ltd. (ASALCBR)": {
+        "code": "ASALCBR"
+    },
+    "Ashapura Minechem Limited (ASHAPURMIN)": {
+        "code": "ASHAPURMIN"
+    },
+    "Ashiana Housing Limited (ASHIANA)": {
+        "code": "ASHIANA"
+    },
+    "Ashima Limited (ASHIMASYN)": {
+        "code": "ASHIMASYN"
+    },
+    "Ashoka Buildcon Limited (ASHOKA)": {
+        "code": "ASHOKA"
+    },
+    "Ashok Leyland Limited (ASHOKLEY)": {
+        "code": "ASHOKLEY"
+    },
+    "Asian Energy Services Limited (ASIANENE)": {
+        "code": "ASIANENE"
+    },
+    "Asian Hotels (North) Limited (ASIANHOTNR)": {
+        "code": "ASIANHOTNR"
+    },
+    "Asian Paints Limited (ASIANPAINT)": {
+        "code": "ASIANPAINT"
+    },
+    "Asian Granito India Limited (ASIANTILES)": {
+        "code": "ASIANTILES"
+    },
+    "Bartronics India Limited (ASMS)": {
+        "code": "ASMS"
+    },
+    "Aspinwall and Company Limited (ASPINWALL)": {
+        "code": "ASPINWALL"
+    },
+    "Astec LifeSciences Limited (ASTEC)": {
+        "code": "ASTEC"
+    },
+    "Aster DM Healthcare Limited (ASTERDM)": {
+        "code": "ASTERDM"
+    },
+    "Astral Limited (ASTRAL)": {
+        "code": "ASTRAL"
+    },
+    "Astra Microwave Products Limited (ASTRAMICRO)": {
+        "code": "ASTRAMICRO"
+    },
+    "AstraZeneca Pharma India Limited (ASTRAZEN)": {
+        "code": "ASTRAZEN"
+    },
+    "Astron Paper & Board Mill Limited (ASTRON)": {
+        "code": "ASTRON"
+    },
+    "Agro Tech Foods Limited (ATFL)": {
+        "code": "ATFL"
+    },
+    "Adani Total Gas Limited (ATGL)": {
+        "code": "ATGL"
+    },
+    "Atlanta  Limited (ATLANTA)": {
+        "code": "ATLANTA"
+    },
+    "Atul Limited (ATUL)": {
+        "code": "ATUL"
+    },
+    "Atul Auto Limited (ATULAUTO)": {
+        "code": "ATULAUTO"
+    },
+    "AU Small Finance Bank Limited (AUBANK)": {
+        "code": "AUBANK"
+    },
+    "Aurionpro Solutions Limited (AURIONPRO)": {
+        "code": "AURIONPRO"
+    },
+    "Aurobindo Pharma Limited (AUROPHARMA)": {
+        "code": "AUROPHARMA"
+    },
+    "Aurum PropTech Limited (AURUM)": {
+        "code": "AURUM"
+    },
+    "Ausom Enterprise Limited (AUSOMENT)": {
+        "code": "AUSOMENT"
+    },
+    "Automotive Axles Limited (AUTOAXLES)": {
+        "code": "AUTOAXLES"
+    },
+    "Autoline Industries Limited (AUTOIND)": {
+        "code": "AUTOIND"
+    },
+    "Avadh Sugar & Energy Limited (AVADHSUGAR)": {
+        "code": "AVADHSUGAR"
+    },
+    "Avanti Feeds Limited (AVANTIFEED)": {
+        "code": "AVANTIFEED"
+    },
+    "Avonmore Capital & Management Services Limited (AVONMORE)": {
+        "code": "AVONMORE"
+    },
+    "AVRO INDIA LIMITED (AVROIND)": {
+        "code": "AVROIND"
+    },
+    "AVT Natural Products Limited (AVTNPL)": {
+        "code": "AVTNPL"
+    },
+    "Antony Waste Handling Cell Limited (AWHCL)": {
+        "code": "AWHCL"
+    },
+    "Adani Wilmar Limited (AWL)": {
+        "code": "AWL"
+    },
+    "Axis Bank Limited (AXISBANK)": {
+        "code": "AXISBANK"
+    },
+    "AXISCADES Technologies Limited (AXISCADES)": {
+        "code": "AXISCADES"
+    },
+    "Axita Cotton Limited (AXITA)": {
+        "code": "AXITA"
+    },
+    "AYM Syntex Limited (AYMSYNTEX)": {
+        "code": "AYMSYNTEX"
+    },
+    "Bafna Pharmaceuticals Limited (BAFNAPH)": {
+        "code": "BAFNAPH"
+    },
+    "B.A.G Films and Media Limited (BAGFILMS)": {
+        "code": "BAGFILMS"
+    },
+    "Baid Finserv Limited (BAIDFIN)": {
+        "code": "BAIDFIN"
+    },
+    "Bajaj Auto Limited (BAJAJ-AUTO)": {
+        "code": "BAJAJ-AUTO"
+    },
+    "Bajaj Consumer Care Limited (BAJAJCON)": {
+        "code": "BAJAJCON"
+    },
+    "Bajaj Electricals Limited (BAJAJELEC)": {
+        "code": "BAJAJELEC"
+    },
+    "Bajaj Finserv Limited (BAJAJFINSV)": {
+        "code": "BAJAJFINSV"
+    },
+    "Bajaj Healthcare Limited (BAJAJHCARE)": {
+        "code": "BAJAJHCARE"
+    },
+    "Bajaj Hindusthan Sugar Limited (BAJAJHIND)": {
+        "code": "BAJAJHIND"
+    },
+    "Bajaj Holdings & Investment Limited (BAJAJHLDNG)": {
+        "code": "BAJAJHLDNG"
+    },
+    "Bajaj Finance Limited (BAJFINANCE)": {
+        "code": "BAJFINANCE"
+    },
+    "Balaji Telefilms Limited (BALAJITELE)": {
+        "code": "BALAJITELE"
+    },
+    "Balaji Amines Limited (BALAMINES)": {
+        "code": "BALAMINES"
+    },
+    "BALAXI PHARMACEUTICALS LIMITED (BALAXI)": {
+        "code": "BALAXI"
+    },
+    "Balkrishna Paper Mills Limited (BALKRISHNA)": {
+        "code": "BALKRISHNA"
+    },
+    "Balkrishna Industries Limited (BALKRISIND)": {
+        "code": "BALKRISIND"
+    },
+    "Ballarpur Industries Limited (BALLARPUR)": {
+        "code": "BALLARPUR"
+    },
+    "Balmer Lawrie & Company Limited (BALMLAWRIE)": {
+        "code": "BALMLAWRIE"
+    },
+    "Bal Pharma Limited (BALPHARMA)": {
+        "code": "BALPHARMA"
+    },
+    "Balrampur Chini Mills Limited (BALRAMCHIN)": {
+        "code": "BALRAMCHIN"
+    },
+    "Banaras Beads Limited (BANARBEADS)": {
+        "code": "BANARBEADS"
+    },
+    "Bannari Amman Sugars Limited (BANARISUG)": {
+        "code": "BANARISUG"
+    },
+    "Banco Products (I) Limited (BANCOINDIA)": {
+        "code": "BANCOINDIA"
+    },
+    "Bandhan Bank Limited (BANDHANBNK)": {
+        "code": "BANDHANBNK"
+    },
+    "Bang Overseas Limited (BANG)": {
+        "code": "BANG"
+    },
+    "Banka BioLoo Limited (BANKA)": {
+        "code": "BANKA"
+    },
+    "Bank of Baroda (BANKBARODA)": {
+        "code": "BANKBARODA"
+    },
+    "Bank of India (BANKINDIA)": {
+        "code": "BANKINDIA"
+    },
+    "Banswara Syntex Limited (BANSWRAS)": {
+        "code": "BANSWRAS"
+    },
+    "Barbeque Nation Hospitality Limited (BARBEQUE)": {
+        "code": "BARBEQUE"
+    },
+    "BASF India Limited (BASF)": {
+        "code": "BASF"
+    },
+    "Bannari Amman Spinning Mills Limited (BASML)": {
+        "code": "BASML"
+    },
+    "Bata India Limited (BATAINDIA)": {
+        "code": "BATAINDIA"
+    },
+    "Bayer Cropscience Limited (BAYERCROP)": {
+        "code": "BAYERCROP"
+    },
+    "Bharat Bijlee Limited (BBL)": {
+        "code": "BBL"
+    },
+    "Black Box Limited (BBOX)": {
+        "code": "BBOX"
+    },
+    "Bombay Burmah Trading Corporation Limited (BBTC)": {
+        "code": "BBTC"
+    },
+    "B&B Triplewall Containers Limited (BBTCL)": {
+        "code": "BBTCL"
+    },
+    "Brightcom Group Limited (BCG)": {
+        "code": "BCG"
+    },
+    "Bcl Industries Limited (BCLIND)": {
+        "code": "BCLIND"
+    },
+    "Brand Concepts Limited (BCONCEPTS)": {
+        "code": "BCONCEPTS"
+    },
+    "B.C. Power Controls Ltd (BCP)": {
+        "code": "BCP"
+    },
+    "Bharat Dynamics Limited (BDL)": {
+        "code": "BDL"
+    },
+    "Beardsell Limited (BEARDSELL)": {
+        "code": "BEARDSELL"
+    },
+    "Mrs. Bectors Food Specialities Limited (BECTORFOOD)": {
+        "code": "BECTORFOOD"
+    },
+    "Bedmutha Industries Limited (BEDMUTHA)": {
+        "code": "BEDMUTHA"
+    },
+    "Bharat Electronics Limited (BEL)": {
+        "code": "BEL"
+    },
+    "BEML Limited (BEML)": {
+        "code": "BEML"
+    },
+    "Bhansali Engineering Polymers Limited (BEPL)": {
+        "code": "BEPL"
+    },
+    "Berger Paints (I) Limited (BERGEPAINT)": {
+        "code": "BERGEPAINT"
+    },
+    "Best Agrolife Limited (BESTAGRO)": {
+        "code": "BESTAGRO"
+    },
+    "BF Investment Limited (BFINVEST)": {
+        "code": "BFINVEST"
+    },
+    "BF Utilities Limited (BFUTILITIE)": {
+        "code": "BFUTILITIE"
+    },
+    "BGR Energy Systems Limited (BGRENERGY)": {
+        "code": "BGRENERGY"
+    },
+    "Bhagiradha Chemicals & Industries Limited (BHAGCHEM)": {
+        "code": "BHAGCHEM"
+    },
+    "Bhageria Industries Limited (BHAGERIA)": {
+        "code": "BHAGERIA"
+    },
+    "Bhagyanagar India Limited (BHAGYANGR)": {
+        "code": "BHAGYANGR"
+    },
+    "Bhandari Hosiery Exports Limited (BHANDARI)": {
+        "code": "BHANDARI"
+    },
+    "Bharat Forge Limited (BHARATFORG)": {
+        "code": "BHARATFORG"
+    },
+    "Bharat Gears Limited (BHARATGEAR)": {
+        "code": "BHARATGEAR"
+    },
+    "Bharat Rasayan Limited (BHARATRAS)": {
+        "code": "BHARATRAS"
+    },
+    "Bharat Wire Ropes Limited (BHARATWIRE)": {
+        "code": "BHARATWIRE"
+    },
+    "Bharti Airtel Limited (BHARTIARTL)": {
+        "code": "BHARTIARTL"
+    },
+    "Bharat Heavy Electricals Limited (BHEL)": {
+        "code": "BHEL"
+    },
+    "Bigbloc Construction Limited (BIGBLOC)": {
+        "code": "BIGBLOC"
+    },
+    "Bikaji Foods International Limited (BIKAJI)": {
+        "code": "BIKAJI"
+    },
+    "Bhartiya International Limited (BIL)": {
+        "code": "BIL"
+    },
+    "Binani Industries Limited (BINANIIND)": {
+        "code": "BINANIIND"
+    },
+    "Oswal Chemicals & Fertilizers Limited (BINDALAGRO)": {
+        "code": "BINDALAGRO"
+    },
+    "Biocon Limited (BIOCON)": {
+        "code": "BIOCON"
+    },
+    "Biofil Chemicals & Pharmaceuticals Limited (BIOFILCHEM)": {
+        "code": "BIOFILCHEM"
+    },
+    "Birla Cable Limited (BIRLACABLE)": {
+        "code": "BIRLACABLE"
+    },
+    "Birla Corporation Limited (BIRLACORPN)": {
+        "code": "BIRLACORPN"
+    },
+    "Aditya Birla Money Limited (BIRLAMONEY)": {
+        "code": "BIRLAMONEY"
+    },
+    "Bkm Industries Limited (BKMINDST)": {
+        "code": "BKMINDST"
+    },
+    "BLB Limited (BLBLIMITED)": {
+        "code": "BLBLIMITED"
+    },
+    "Bliss GVS Pharma Limited (BLISSGVS)": {
+        "code": "BLISSGVS"
+    },
+    "B. L. Kashyap and Sons Limited (BLKASHYAP)": {
+        "code": "BLKASHYAP"
+    },
+    "BLS International Services Limited (BLS)": {
+        "code": "BLS"
+    },
+    "Blue Dart Express Limited (BLUEDART)": {
+        "code": "BLUEDART"
+    },
+    "Blue Star Limited (BLUESTARCO)": {
+        "code": "BLUESTARCO"
+    },
+    "Bodal Chemicals Limited (BODALCHEM)": {
+        "code": "BODALCHEM"
+    },
+    "Bohra Industries Limited (BOHRAIND)": {
+        "code": "BOHRAIND"
+    },
+    "Bombay Dyeing & Mfg Company Limited (BOMDYEING)": {
+        "code": "BOMDYEING"
+    },
+    "Borosil Limited (BOROLTD)": {
+        "code": "BOROLTD"
+    },
+    "BOROSIL RENEWABLES LIMITED (BORORENEW)": {
+        "code": "BORORENEW"
+    },
+    "Bosch Limited (BOSCHLTD)": {
+        "code": "BOSCHLTD"
+    },
+    "Bharat Petroleum Corporation Limited (BPCL)": {
+        "code": "BPCL"
+    },
+    "BPL Limited (BPL)": {
+        "code": "BPL"
+    },
+    "Brigade Enterprises Limited (BRIGADE)": {
+        "code": "BRIGADE"
+    },
+    "Britannia Industries Limited (BRITANNIA)": {
+        "code": "BRITANNIA"
+    },
+    "Bharat Road Network Limited (BRNL)": {
+        "code": "BRNL"
+    },
+    "Brooks Laboratories Limited (BROOKS)": {
+        "code": "BROOKS"
+    },
+    "BSE Limited (BSE)": {
+        "code": "BSE"
+    },
+    "Bombay Super Hybrid Seeds Limited (BSHSL)": {
+        "code": "BSHSL"
+    },
+    "BSL Limited (BSL)": {
+        "code": "BSL"
+    },
+    "BIRLASOFT LIMITED (BSOFT)": {
+        "code": "BSOFT"
+    },
+    "Bodhi Tree Multimedia Limited (BTML)": {
+        "code": "BTML"
+    },
+    "Burnpur Cement Limited (BURNPUR)": {
+        "code": "BURNPUR"
+    },
+    "Butterfly Gandhimathi Appliances Limited (BUTTERFLY)": {
+        "code": "BUTTERFLY"
+    },
+    "Barak Valley Cements Limited (BVCL)": {
+        "code": "BVCL"
+    },
+    "The Byke Hospitality Ltd (BYKE)": {
+        "code": "BYKE"
+    },
+    "California Software Company Limited (CALSOFT)": {
+        "code": "CALSOFT"
+    },
+    "Camlin Fine Sciences Limited (CAMLINFINE)": {
+        "code": "CAMLINFINE"
+    },
+    "Campus Activewear Limited (CAMPUS)": {
+        "code": "CAMPUS"
+    },
+    "Computer Age Management Services Limited (CAMS)": {
+        "code": "CAMS"
+    },
+    "Canara Bank (CANBK)": {
+        "code": "CANBK"
+    },
+    "Can Fin Homes Limited (CANFINHOME)": {
+        "code": "CANFINHOME"
+    },
+    "Cantabil Retail India Limited (CANTABIL)": {
+        "code": "CANTABIL"
+    },
+    "Capacit'e Infraprojects Limited (CAPACITE)": {
+        "code": "CAPACITE"
+    },
+    "Caplin Point Laboratories Limited (CAPLIPOINT)": {
+        "code": "CAPLIPOINT"
+    },
+    "Capital Trust Limited (CAPTRUST)": {
+        "code": "CAPTRUST"
+    },
+    "Carborundum Universal Limited (CARBORUNIV)": {
+        "code": "CARBORUNIV"
+    },
+    "Career Point Limited (CAREERP)": {
+        "code": "CAREERP"
+    },
+    "CARE Ratings Limited (CARERATING)": {
+        "code": "CARERATING"
+    },
+    "Cartrade Tech Limited (CARTRADE)": {
+        "code": "CARTRADE"
+    },
+    "CARYSIL LIMITED (CARYSIL)": {
+        "code": "CARYSIL"
+    },
+    "Castrol India Limited (CASTROLIND)": {
+        "code": "CASTROLIND"
+    },
+    "Country Club Hospitality & Holidays Limited (CCHHL)": {
+        "code": "CCHHL"
+    },
+    "CCL Products (India) Limited (CCL)": {
+        "code": "CCL"
+    },
+    "Central Depository Services (India) Limited (CDSL)": {
+        "code": "CDSL"
+    },
+    "CEAT Limited (CEATLTD)": {
+        "code": "CEATLTD"
+    },
+    "Celebrity Fashions Limited (CELEBRITY)": {
+        "code": "CELEBRITY"
+    },
+    "Century Enka Limited (CENTENKA)": {
+        "code": "CENTENKA"
+    },
+    "Century Extrusions Limited (CENTEXT)": {
+        "code": "CENTEXT"
+    },
+    "Central Bank of India (CENTRALBK)": {
+        "code": "CENTRALBK"
+    },
+    "Centrum Capital Limited (CENTRUM)": {
+        "code": "CENTRUM"
+    },
+    "Centum Electronics Limited (CENTUM)": {
+        "code": "CENTUM"
+    },
+    "Century Plyboards (India) Limited (CENTURYPLY)": {
+        "code": "CENTURYPLY"
+    },
+    "Century Textiles & Industries Limited (CENTURYTEX)": {
+        "code": "CENTURYTEX"
+    },
+    "Cera Sanitaryware Limited (CERA)": {
+        "code": "CERA"
+    },
+    "Cerebra Integrated Technologies Limited (CEREBRAINT)": {
+        "code": "CEREBRAINT"
+    },
+    "CESC Limited (CESC)": {
+        "code": "CESC"
+    },
+    "Capri Global Capital Limited (CGCL)": {
+        "code": "CGCL"
+    },
+    "CG Power and Industrial Solutions Limited (CGPOWER)": {
+        "code": "CGPOWER"
+    },
+    "Chalet Hotels Limited (CHALET)": {
+        "code": "CHALET"
+    },
+    "Chambal Fertilizers & Chemicals Limited (CHAMBLFERT)": {
+        "code": "CHAMBLFERT"
+    },
+    "Chembond Chemicals Ltd (CHEMBOND)": {
+        "code": "CHEMBOND"
+    },
+    "Chemcon Speciality Chemicals Limited (CHEMCON)": {
+        "code": "CHEMCON"
+    },
+    "Chemfab Alkalis Limited (CHEMFAB)": {
+        "code": "CHEMFAB"
+    },
+    "Chemplast Sanmar Limited (CHEMPLASTS)": {
+        "code": "CHEMPLASTS"
+    },
+    "Chennai Petroleum Corporation Limited (CHENNPETRO)": {
+        "code": "CHENNPETRO"
+    },
+    "Cheviot Company Limited (CHEVIOT)": {
+        "code": "CHEVIOT"
+    },
+    "Choice International Limited (CHOICEIN)": {
+        "code": "CHOICEIN"
+    },
+    "Cholamandalam Investment and Finance Company Limited (CHOLAFIN)": {
+        "code": "CHOLAFIN"
+    },
+    "Cholamandalam Financial Holdings Limited (CHOLAHLDNG)": {
+        "code": "CHOLAHLDNG"
+    },
+    "Cigniti Technologies Limited (CIGNITITEC)": {
+        "code": "CIGNITITEC"
+    },
+    "Cineline India Limited (CINELINE)": {
+        "code": "CINELINE"
+    },
+    "Cinevista Limited (CINEVISTA)": {
+        "code": "CINEVISTA"
+    },
+    "Cipla Limited (CIPLA)": {
+        "code": "CIPLA"
+    },
+    "Clean Science and Technology Limited (CLEAN)": {
+        "code": "CLEAN"
+    },
+    "CL Educate Limited (CLEDUCATE)": {
+        "code": "CLEDUCATE"
+    },
+    "Chaman Lal Setia Exports Limited (CLSEL)": {
+        "code": "CLSEL"
+    },
+    "CMI Limited (CMICABLES)": {
+        "code": "CMICABLES"
+    },
+    "CMS Info Systems Limited (CMSINFO)": {
+        "code": "CMSINFO"
+    },
+    "Coal India Limited (COALINDIA)": {
+        "code": "COALINDIA"
+    },
+    "Coastal Corporation Limited (COASTCORP)": {
+        "code": "COASTCORP"
+    },
+    "Cochin Shipyard Limited (COCHINSHIP)": {
+        "code": "COCHINSHIP"
+    },
+    "Coffee Day Enterprises Limited (COFFEEDAY)": {
+        "code": "COFFEEDAY"
+    },
+    "Coforge Limited (COFORGE)": {
+        "code": "COFORGE"
+    },
+    "Colgate Palmolive (India) Limited (COLPAL)": {
+        "code": "COLPAL"
+    },
+    "Compuage Infocom Limited (COMPINFO)": {
+        "code": "COMPINFO"
+    },
+    "Compucom Software Limited (COMPUSOFT)": {
+        "code": "COMPUSOFT"
+    },
+    "Container Corporation of India Limited (CONCOR)": {
+        "code": "CONCOR"
+    },
+    "Confidence Petroleum India Limited (CONFIPET)": {
+        "code": "CONFIPET"
+    },
+    "Consolidated Finvest & Holdings Limited (CONSOFINVT)": {
+        "code": "CONSOFINVT"
+    },
+    "Control Print Limited (CONTROLPR)": {
+        "code": "CONTROLPR"
+    },
+    "Coral India Finance & Housing Limited (CORALFINAC)": {
+        "code": "CORALFINAC"
+    },
+    "Cords Cable Industries Limited (CORDSCABLE)": {
+        "code": "CORDSCABLE"
+    },
+    "Coromandel International Limited (COROMANDEL)": {
+        "code": "COROMANDEL"
+    },
+    "COSMO FIRST LIMITED (COSMOFIRST)": {
+        "code": "COSMOFIRST"
+    },
+    "Country Condo's Limited (COUNCODOS)": {
+        "code": "COUNCODOS"
+    },
+    "Craftsman Automation Limited (CRAFTSMAN)": {
+        "code": "CRAFTSMAN"
+    },
+    "Creative Newtech Limited (CREATIVE)": {
+        "code": "CREATIVE"
+    },
+    "CREDITACCESS GRAMEEN LIMITED (CREDITACC)": {
+        "code": "CREDITACC"
+    },
+    "Crest Ventures Limited (CREST)": {
+        "code": "CREST"
+    },
+    "CRISIL Limited (CRISIL)": {
+        "code": "CRISIL"
+    },
+    "Crompton Greaves Consumer Electricals Limited (CROMPTON)": {
+        "code": "CROMPTON"
+    },
+    "Crown Lifters Limited (CROWN)": {
+        "code": "CROWN"
+    },
+    "CSB Bank Limited (CSBBANK)": {
+        "code": "CSBBANK"
+    },
+    "CSL Finance Limited (CSLFINANCE)": {
+        "code": "CSLFINANCE"
+    },
+    "Cambridge Technology Enterprises Limited (CTE)": {
+        "code": "CTE"
+    },
+    "City Union Bank Limited (CUB)": {
+        "code": "CUB"
+    },
+    "Cubex Tubings Limited (CUBEXTUB)": {
+        "code": "CUBEXTUB"
+    },
+    "Cummins India Limited (CUMMINSIND)": {
+        "code": "CUMMINSIND"
+    },
+    "Cupid Limited (CUPID)": {
+        "code": "CUPID"
+    },
+    "Cyber Media (India) Limited (CYBERMEDIA)": {
+        "code": "CYBERMEDIA"
+    },
+    "Cybertech Systems And Software Limited (CYBERTECH)": {
+        "code": "CYBERTECH"
+    },
+    "Cyient Limited (CYIENT)": {
+        "code": "CYIENT"
+    },
+    "LT Foods Limited (DAAWAT)": {
+        "code": "DAAWAT"
+    },
+    "Dabur India Limited (DABUR)": {
+        "code": "DABUR"
+    },
+    "Dalmia Bharat Limited (DALBHARAT)": {
+        "code": "DALBHARAT"
+    },
+    "Dalmia Bharat Sugar and Industries Limited (DALMIASUG)": {
+        "code": "DALMIASUG"
+    },
+    "Damodar Industries Limited (DAMODARIND)": {
+        "code": "DAMODARIND"
+    },
+    "Dangee Dums Limited (DANGEE)": {
+        "code": "DANGEE"
+    },
+    "Datamatics Global Services Limited (DATAMATICS)": {
+        "code": "DATAMATICS"
+    },
+    "Data Patterns (India) Limited (DATAPATTNS)": {
+        "code": "DATAPATTNS"
+    },
+    "D.B.Corp Limited (DBCORP)": {
+        "code": "DBCORP"
+    },
+    "Dilip Buildcon Limited (DBL)": {
+        "code": "DBL"
+    },
+    "Dhampur Bio Organics Limited (DBOL)": {
+        "code": "DBOL"
+    },
+    "D B Realty Limited (DBREALTY)": {
+        "code": "DBREALTY"
+    },
+    "DB (International) Stock Brokers Limited (DBSTOCKBRO)": {
+        "code": "DBSTOCKBRO"
+    },
+    "Dishman Carbogen Amcis Limited (DCAL)": {
+        "code": "DCAL"
+    },
+    "DCB Bank Limited (DCBBANK)": {
+        "code": "DCBBANK"
+    },
+    "Dc Infotech And Communication Limited (DCI)": {
+        "code": "DCI"
+    },
+    "DCM  Limited (DCM)": {
+        "code": "DCM"
+    },
+    "DCM Financial Services Limited (DCMFINSERV)": {
+        "code": "DCMFINSERV"
+    },
+    "DCM Nouvelle Limited (DCMNVL)": {
+        "code": "DCMNVL"
+    },
+    "DCM Shriram Limited (DCMSHRIRAM)": {
+        "code": "DCMSHRIRAM"
+    },
+    "DCM Shriram Industries Limited (DCMSRIND)": {
+        "code": "DCMSRIND"
+    },
+    "DCW Limited (DCW)": {
+        "code": "DCW"
+    },
+    "DCX Systems Limited (DCXINDIA)": {
+        "code": "DCXINDIA"
+    },
+    "Deccan Cements Limited (DECCANCE)": {
+        "code": "DECCANCE"
+    },
+    "Deepak Fertilizers and Petrochemicals Corporation Limited (DEEPAKFERT)": {
+        "code": "DEEPAKFERT"
+    },
+    "Deepak Nitrite Limited (DEEPAKNTR)": {
+        "code": "DEEPAKNTR"
+    },
+    "DEEP ENERGY RESOURCES LIMITED (DEEPENR)": {
+        "code": "DEEPENR"
+    },
+    "Deep Industries Limited (DEEPINDS)": {
+        "code": "DEEPINDS"
+    },
+    "Delhivery Limited (DELHIVERY)": {
+        "code": "DELHIVERY"
+    },
+    "DELPHI WORLD MONEY LIMITED (DELPHIFX)": {
+        "code": "DELPHIFX"
+    },
+    "Delta Corp Limited (DELTACORP)": {
+        "code": "DELTACORP"
+    },
+    "Delta Manufacturing Limited (DELTAMAGNT)": {
+        "code": "DELTAMAGNT"
+    },
+    "Den Networks Limited (DEN)": {
+        "code": "DEN"
+    },
+    "De Nora India Limited (DENORA)": {
+        "code": "DENORA"
+    },
+    "Dev Information Technology Limited (DEVIT)": {
+        "code": "DEVIT"
+    },
+    "Devyani International Limited (DEVYANI)": {
+        "code": "DEVYANI"
+    },
+    "DFM Foods Limited (DFMFOODS)": {
+        "code": "DFMFOODS"
+    },
+    "Digicontent Limited (DGCONTENT)": {
+        "code": "DGCONTENT"
+    },
+    "Dhampur Sugar Mills Limited (DHAMPURSUG)": {
+        "code": "DHAMPURSUG"
+    },
+    "Dhanlaxmi Bank Limited (DHANBANK)": {
+        "code": "DHANBANK"
+    },
+    "Dhani Services Limited (DHANI)": {
+        "code": "DHANI"
+    },
+    "Dhanuka Agritech Limited (DHANUKA)": {
+        "code": "DHANUKA"
+    },
+    "Dharmaj Crop Guard Limited (DHARMAJ)": {
+        "code": "DHARMAJ"
+    },
+    "Dharani Sugars&Chemicals Limited (DHARSUGAR)": {
+        "code": "DHARSUGAR"
+    },
+    "Dhruv Consultancy Services Limited (DHRUV)": {
+        "code": "DHRUV"
+    },
+    "Dhunseri Investments Limited (DHUNINV)": {
+        "code": "DHUNINV"
+    },
+    "Prataap Snacks Limited (DIAMONDYD)": {
+        "code": "DIAMONDYD"
+    },
+    "DIC India Limited (DICIND)": {
+        "code": "DICIND"
+    },
+    "DiGiSPICE Technologies Limited (DIGISPICE)": {
+        "code": "DIGISPICE"
+    },
+    "Digjam Limited (DIGJAMLMTD)": {
+        "code": "DIGJAMLMTD"
+    },
+    "Debock Industries Limited (DIL)": {
+        "code": "DIL"
+    },
+    "Dish TV India Limited (DISHTV)": {
+        "code": "DISHTV"
+    },
+    "Divgi Torqtransfer Systems Limited (DIVGIITTS)": {
+        "code": "DIVGIITTS"
+    },
+    "Divi's Laboratories Limited (DIVISLAB)": {
+        "code": "DIVISLAB"
+    },
+    "Dixon Technologies (India) Limited (DIXON)": {
+        "code": "DIXON"
+    },
+    "DJ Mediaprint & Logistics Limited (DJML)": {
+        "code": "DJML"
+    },
+    "DLF Limited (DLF)": {
+        "code": "DLF"
+    },
+    "D-Link (India) Limited (DLINKINDIA)": {
+        "code": "DLINKINDIA"
+    },
+    "Avenue Supermarts Limited (DMART)": {
+        "code": "DMART"
+    },
+    "DMCC SPECIALITY CHEMICALS LIMITED (DMCC)": {
+        "code": "DMCC"
+    },
+    "Diligent Media Corporation Limited (DNAMEDIA)": {
+        "code": "DNAMEDIA"
+    },
+    "Dodla Dairy Limited (DODLA)": {
+        "code": "DODLA"
+    },
+    "Dolat Algotech Limited (DOLATALGO)": {
+        "code": "DOLATALGO"
+    },
+    "Dollar Industries Limited (DOLLAR)": {
+        "code": "DOLLAR"
+    },
+    "Donear Industries Limited (DONEAR)": {
+        "code": "DONEAR"
+    },
+    "D. P. Abhushan Limited (DPABHUSHAN)": {
+        "code": "DPABHUSHAN"
+    },
+    "DPSC Limited (DPSCLTD)": {
+        "code": "DPSCLTD"
+    },
+    "D P Wires Limited (DPWIRES)": {
+        "code": "DPWIRES"
+    },
+    "DRC Systems India Limited (DRCSYSTEMS)": {
+        "code": "DRCSYSTEMS"
+    },
+    "Dreamfolks Services Limited (DREAMFOLKS)": {
+        "code": "DREAMFOLKS"
+    },
+    "Dredging Corporation of India Limited (DREDGECORP)": {
+        "code": "DREDGECORP"
+    },
+    "Dr. Reddy's Laboratories Limited (DRREDDY)": {
+        "code": "DRREDDY"
+    },
+    "Dynacons Systems & Solutions Limited (DSSL)": {
+        "code": "DSSL"
+    },
+    "Dhunseri Tea & Industries Limited (DTIL)": {
+        "code": "DTIL"
+    },
+    "Ducon Infratechnologies Limited (DUCON)": {
+        "code": "DUCON"
+    },
+    "Dhunseri Ventures Limited (DVL)": {
+        "code": "DVL"
+    },
+    "Dwarikesh Sugar Industries Limited (DWARKESH)": {
+        "code": "DWARKESH"
+    },
+    "Dynamic Cables Limited (DYCL)": {
+        "code": "DYCL"
+    },
+    "Dynamatic Technologies Limited (DYNAMATECH)": {
+        "code": "DYNAMATECH"
+    },
+    "Dynemic Products Limited (DYNPRO)": {
+        "code": "DYNPRO"
+    },
+    "E2E Networks Limited (E2E)": {
+        "code": "E2E"
+    },
+    "Easy Trip Planners Limited (EASEMYTRIP)": {
+        "code": "EASEMYTRIP"
+    },
+    "Eastern Silk Industries Limited (EASTSILK)": {
+        "code": "EASTSILK"
+    },
+    "eClerx Services Limited (ECLERX)": {
+        "code": "ECLERX"
+    },
+    "Edelweiss Financial Services Limited (EDELWEISS)": {
+        "code": "EDELWEISS"
+    },
+    "Educomp Solutions Limited (EDUCOMP)": {
+        "code": "EDUCOMP"
+    },
+    "Eicher Motors Limited (EICHERMOT)": {
+        "code": "EICHERMOT"
+    },
+    "EID Parry India Limited (EIDPARRY)": {
+        "code": "EIDPARRY"
+    },
+    "Euro India Fresh Foods Limited (EIFFL)": {
+        "code": "EIFFL"
+    },
+    "EIH Associated Hotels Limited (EIHAHOTELS)": {
+        "code": "EIHAHOTELS"
+    },
+    "EIH Limited (EIHOTEL)": {
+        "code": "EIHOTEL"
+    },
+    "Eimco Elecon (India) Limited (EIMCOELECO)": {
+        "code": "EIMCOELECO"
+    },
+    "Everest Kanto Cylinder Limited (EKC)": {
+        "code": "EKC"
+    },
+    "Eldeco Housing And Industries Limited (ELDEHSG)": {
+        "code": "ELDEHSG"
+    },
+    "Elecon Engineering Company Limited (ELECON)": {
+        "code": "ELECON"
+    },
+    "Electrosteel Castings Limited (ELECTCAST)": {
+        "code": "ELECTCAST"
+    },
+    "Electrotherm (India) Limited (ELECTHERM)": {
+        "code": "ELECTHERM"
+    },
+    "Elgi Equipments Limited (ELGIEQUIP)": {
+        "code": "ELGIEQUIP"
+    },
+    "Elgi Rubber Company Limited (ELGIRUBCO)": {
+        "code": "ELGIRUBCO"
+    },
+    "Elin Electronics Limited (ELIN)": {
+        "code": "ELIN"
+    },
+    "Emami Limited (EMAMILTD)": {
+        "code": "EMAMILTD"
+    },
+    "Emami Paper Mills Limited (EMAMIPAP)": {
+        "code": "EMAMIPAP"
+    },
+    "Emami Realty Limited (EMAMIREAL)": {
+        "code": "EMAMIREAL"
+    },
+    "Electronics Mart India Limited (EMIL)": {
+        "code": "EMIL"
+    },
+    "Emkay Global Financial Services Limited (EMKAY)": {
+        "code": "EMKAY"
+    },
+    "Emmbi Industries Limited (EMMBI)": {
+        "code": "EMMBI"
+    },
+    "eMudhra Limited (EMUDHRA)": {
+        "code": "EMUDHRA"
+    },
+    "Endurance Technologies Limited (ENDURANCE)": {
+        "code": "ENDURANCE"
+    },
+    "Energy Development Company Limited (ENERGYDEV)": {
+        "code": "ENERGYDEV"
+    },
+    "Engineers India Limited (ENGINERSIN)": {
+        "code": "ENGINERSIN"
+    },
+    "Entertainment Network (India) Limited (ENIL)": {
+        "code": "ENIL"
+    },
+    "EPL Limited (EPL)": {
+        "code": "EPL"
+    },
+    "Equippp Social Impact Technologies Limited (EQUIPPP)": {
+        "code": "EQUIPPP"
+    },
+    "Equitas Small Finance Bank Limited (EQUITASBNK)": {
+        "code": "EQUITASBNK"
+    },
+    "Eris Lifesciences Limited (ERIS)": {
+        "code": "ERIS"
+    },
+    "Eros International Media Limited (EROSMEDIA)": {
+        "code": "EROSMEDIA"
+    },
+    "Esab India Limited (ESABINDIA)": {
+        "code": "ESABINDIA"
+    },
+    "Escorts Kubota Limited (ESCORTS)": {
+        "code": "ESCORTS"
+    },
+    "Essar Shipping Limited (ESSARSHPNG)": {
+        "code": "ESSARSHPNG"
+    },
+    "Integra Essentia Limited (ESSENTIA)": {
+        "code": "ESSENTIA"
+    },
+    "Ester Industries Limited (ESTER)": {
+        "code": "ESTER"
+    },
+    "Ethos Limited (ETHOSLTD)": {
+        "code": "ETHOSLTD"
+    },
+    "Eveready Industries India Limited (EVEREADY)": {
+        "code": "EVEREADY"
+    },
+    "Everest Industries Limited (EVERESTIND)": {
+        "code": "EVERESTIND"
+    },
+    "Excel Realty N Infra Limited (EXCEL)": {
+        "code": "EXCEL"
+    },
+    "Excel Industries Limited (EXCELINDUS)": {
+        "code": "EXCELINDUS"
+    },
+    "Exide Industries Limited (EXIDEIND)": {
+        "code": "EXIDEIND"
+    },
+    "Expleo Solutions Limited (EXPLEOSOL)": {
+        "code": "EXPLEOSOL"
+    },
+    "Exxaro Tiles Limited (EXXARO)": {
+        "code": "EXXARO"
+    },
+    "Fertilizers and Chemicals Travancore Limited (FACT)": {
+        "code": "FACT"
+    },
+    "Fairchem Organics Limited (FAIRCHEMOR)": {
+        "code": "FAIRCHEMOR"
+    },
+    "Faze Three Limited (FAZE3Q)": {
+        "code": "FAZE3Q"
+    },
+    "Fineotex Chemical Limited (FCL)": {
+        "code": "FCL"
+    },
+    "Future Consumer Limited (FCONSUMER)": {
+        "code": "FCONSUMER"
+    },
+    "FCS Software Solutions Limited (FCSSOFT)": {
+        "code": "FCSSOFT"
+    },
+    "FDC Limited (FDC)": {
+        "code": "FDC"
+    },
+    "The Federal Bank  Limited (FEDERALBNK)": {
+        "code": "FEDERALBNK"
+    },
+    "Future Enterprises Limited (FEL)": {
+        "code": "FEL"
+    },
+    "Future Enterprises Limited (FELDVR)": {
+        "code": "FELDVR"
+    },
+    "Fiberweb (India) Limited (FIBERWEB)": {
+        "code": "FIBERWEB"
+    },
+    "Fiem Industries Limited (FIEMIND)": {
+        "code": "FIEMIND"
+    },
+    "Filatex India Limited (FILATEX)": {
+        "code": "FILATEX"
+    },
+    "Finolex Cables Limited (FINCABLES)": {
+        "code": "FINCABLES"
+    },
+    "Fine Organic Industries Limited (FINEORG)": {
+        "code": "FINEORG"
+    },
+    "Fino Payments Bank Limited (FINOPB)": {
+        "code": "FINOPB"
+    },
+    "Finolex Industries Limited (FINPIPE)": {
+        "code": "FINPIPE"
+    },
+    "Five-Star Business Finance Limited (FIVESTAR)": {
+        "code": "FIVESTAR"
+    },
+    "Flexituff Ventures International Limited (FLEXITUFF)": {
+        "code": "FLEXITUFF"
+    },
+    "Future Lifestyle Fashions Limited (FLFL)": {
+        "code": "FLFL"
+    },
+    "Gujarat Fluorochemicals Limited (FLUOROCHEM)": {
+        "code": "FLUOROCHEM"
+    },
+    "Federal-Mogul Goetze (India) Limited. (FMGOETZE)": {
+        "code": "FMGOETZE"
+    },
+    "Future Market Networks Limited (FMNL)": {
+        "code": "FMNL"
+    },
+    "Focus Lighting and Fixtures Limited (FOCUS)": {
+        "code": "FOCUS"
+    },
+    "Foods & Inns Limited (FOODSIN)": {
+        "code": "FOODSIN"
+    },
+    "FORCE MOTORS LTD (FORCEMOT)": {
+        "code": "FORCEMOT"
+    },
+    "Fortis Healthcare Limited (FORTIS)": {
+        "code": "FORTIS"
+    },
+    "Foseco India Limited (FOSECOIND)": {
+        "code": "FOSECOIND"
+    },
+    "Future Retail Limited (FRETAIL)": {
+        "code": "FRETAIL"
+    },
+    "Future Supply Chain Solutions Limited (FSC)": {
+        "code": "FSC"
+    },
+    "Firstsource Solutions Limited (FSL)": {
+        "code": "FSL"
+    },
+    "Fusion Micro Finance Limited (FUSION)": {
+        "code": "FUSION"
+    },
+    "Gabriel India Limited (GABRIEL)": {
+        "code": "GABRIEL"
+    },
+    "Gujarat Ambuja Exports Limited (GAEL)": {
+        "code": "GAEL"
+    },
+    "GAIL (India) Limited (GAIL)": {
+        "code": "GAIL"
+    },
+    "Gyscoal Alloys Limited (GAL)": {
+        "code": "GAL"
+    },
+    "Galaxy Surfactants Limited (GALAXYSURF)": {
+        "code": "GALAXYSURF"
+    },
+    "Gallantt Ispat Limited (GALLANTT)": {
+        "code": "GALLANTT"
+    },
+    "Gandhi Special Tubes Limited (GANDHITUBE)": {
+        "code": "GANDHITUBE"
+    },
+    "Ganesha Ecosphere Limited (GANECOS)": {
+        "code": "GANECOS"
+    },
+    "Ganesh Benzoplast Limited (GANESHBE)": {
+        "code": "GANESHBE"
+    },
+    "Ganesh Housing Corporation Limited (GANESHHOUC)": {
+        "code": "GANESHHOUC"
+    },
+    "Ganga Forging Limited (GANGAFORGE)": {
+        "code": "GANGAFORGE"
+    },
+    "Ganges Securities Limited (GANGESSECU)": {
+        "code": "GANGESSECU"
+    },
+    "Garware Technical Fibres Limited (GARFIBRES)": {
+        "code": "GARFIBRES"
+    },
+    "Gateway Distriparks Limited (GATEWAY)": {
+        "code": "GATEWAY"
+    },
+    "GATI Limited (GATI)": {
+        "code": "GATI"
+    },
+    "Gayatri Highways Limited (GAYAHWS)": {
+        "code": "GAYAHWS"
+    },
+    "Gayatri Projects Limited (GAYAPROJ)": {
+        "code": "GAYAPROJ"
+    },
+    "GeeCee Ventures Limited (GEECEE)": {
+        "code": "GEECEE"
+    },
+    "Geekay Wires Limited (GEEKAYWIRE)": {
+        "code": "GEEKAYWIRE"
+    },
+    "Generic Engineering Construction and Projects Limited (GENCON)": {
+        "code": "GENCON"
+    },
+    "Genesys International Corporation Limited (GENESYS)": {
+        "code": "GENESYS"
+    },
+    "Genus Paper & Boards Limited (GENUSPAPER)": {
+        "code": "GENUSPAPER"
+    },
+    "Genus Power Infrastructures Limited (GENUSPOWER)": {
+        "code": "GENUSPOWER"
+    },
+    "Geojit Financial Services Limited (GEOJITFSL)": {
+        "code": "GEOJITFSL"
+    },
+    "GE Power India Limited (GEPIL)": {
+        "code": "GEPIL"
+    },
+    "The Great Eastern Shipping Company Limited (GESHIP)": {
+        "code": "GESHIP"
+    },
+    "GE T&D India Limited (GET&D)": {
+        "code": "GET&D"
+    },
+    "GFL Limited (GFLLIMITED)": {
+        "code": "GFLLIMITED"
+    },
+    "GHCL Limited (GHCL)": {
+        "code": "GHCL"
+    },
+    "GIC Housing Finance Limited (GICHSGFIN)": {
+        "code": "GICHSGFIN"
+    },
+    "General Insurance Corporation of India (GICRE)": {
+        "code": "GICRE"
+    },
+    "Gillanders Arbuthnot & Company Limited (GILLANDERS)": {
+        "code": "GILLANDERS"
+    },
+    "Gillette India Limited (GILLETTE)": {
+        "code": "GILLETTE"
+    },
+    "Ginni Filaments Limited (GINNIFILA)": {
+        "code": "GINNIFILA"
+    },
+    "Gujarat Industries Power Company Limited (GIPCL)": {
+        "code": "GIPCL"
+    },
+    "GI Engineering Solutions Limited (GISOLUTION)": {
+        "code": "GISOLUTION"
+    },
+    "GKW Limited (GKWLIMITED)": {
+        "code": "GKWLIMITED"
+    },
+    "Gland Pharma Limited (GLAND)": {
+        "code": "GLAND"
+    },
+    "GlaxoSmithKline Pharmaceuticals Limited (GLAXO)": {
+        "code": "GLAXO"
+    },
+    "Glenmark Pharmaceuticals Limited (GLENMARK)": {
+        "code": "GLENMARK"
+    },
+    "Global Education Limited (GLOBAL)": {
+        "code": "GLOBAL"
+    },
+    "Global Vectra Helicorp Limited (GLOBALVECT)": {
+        "code": "GLOBALVECT"
+    },
+    "Globe Textiles (India) Limited (GLOBE)": {
+        "code": "GLOBE"
+    },
+    "Globus Spirits Limited (GLOBUSSPR)": {
+        "code": "GLOBUSSPR"
+    },
+    "Glenmark Life Sciences Limited (GLS)": {
+        "code": "GLS"
+    },
+    "GM Breweries Limited (GMBREW)": {
+        "code": "GMBREW"
+    },
+    "Gujarat Mineral Development Corporation Limited (GMDCLTD)": {
+        "code": "GMDCLTD"
+    },
+    "GMM Pfaudler Limited (GMMPFAUDLR)": {
+        "code": "GMMPFAUDLR"
+    },
+    "GMR Airports Infrastructure Limited (GMRINFRA)": {
+        "code": "GMRINFRA"
+    },
+    "GMR Power and Urban Infra Limited (GMRP&UI)": {
+        "code": "GMRP&UI"
+    },
+    "GNA Axles Limited (GNA)": {
+        "code": "GNA"
+    },
+    "Gujarat Narmada Valley Fertilizers and Chemicals Limited (GNFC)": {
+        "code": "GNFC"
+    },
+    "Goa Carbon Limited (GOACARBON)": {
+        "code": "GOACARBON"
+    },
+    "GOCL Corporation Limited (GOCLCORP)": {
+        "code": "GOCLCORP"
+    },
+    "Go Fashion (India) Limited (GOCOLORS)": {
+        "code": "GOCOLORS"
+    },
+    "Godfrey Phillips India Limited (GODFRYPHLP)": {
+        "code": "GODFRYPHLP"
+    },
+    "Godha Cabcon & Insulation Limited (GODHA)": {
+        "code": "GODHA"
+    },
+    "Godrej Agrovet Limited (GODREJAGRO)": {
+        "code": "GODREJAGRO"
+    },
+    "Godrej Consumer Products Limited (GODREJCP)": {
+        "code": "GODREJCP"
+    },
+    "Godrej Industries Limited (GODREJIND)": {
+        "code": "GODREJIND"
+    },
+    "Godrej Properties Limited (GODREJPROP)": {
+        "code": "GODREJPROP"
+    },
+    "Goenka Diamond and Jewels Limited (GOENKA)": {
+        "code": "GOENKA"
+    },
+    "Gokaldas Exports Limited (GOKEX)": {
+        "code": "GOKEX"
+    },
+    "Gokul Refoils and Solvent Limited (GOKUL)": {
+        "code": "GOKUL"
+    },
+    "Gokul Agro Resources Limited (GOKULAGRO)": {
+        "code": "GOKULAGRO"
+    },
+    "Golden Tobacco Limited (GOLDENTOBC)": {
+        "code": "GOLDENTOBC"
+    },
+    "Goldiam International Limited (GOLDIAM)": {
+        "code": "GOLDIAM"
+    },
+    "Goldstone Technologies Limited (GOLDTECH)": {
+        "code": "GOLDTECH"
+    },
+    "Goodluck India Limited (GOODLUCK)": {
+        "code": "GOODLUCK"
+    },
+    "Goodyear India Limited (GOODYEAR)": {
+        "code": "GOODYEAR"
+    },
+    "Goyal Aluminiums Limited (GOYALALUM)": {
+        "code": "GOYALALUM"
+    },
+    "Godawari Power And Ispat limited (GPIL)": {
+        "code": "GPIL"
+    },
+    "Gujarat Pipavav Port Limited (GPPL)": {
+        "code": "GPPL"
+    },
+    "GPT Infraprojects Limited (GPTINFRA)": {
+        "code": "GPTINFRA"
+    },
+    "Granules India Limited (GRANULES)": {
+        "code": "GRANULES"
+    },
+    "Graphite India Limited (GRAPHITE)": {
+        "code": "GRAPHITE"
+    },
+    "Grasim Industries Limited (GRASIM)": {
+        "code": "GRASIM"
+    },
+    "Grauer & Weil (India) Limited (GRAUWEIL)": {
+        "code": "GRAUWEIL"
+    },
+    "Gravita India Limited (GRAVITA)": {
+        "code": "GRAVITA"
+    },
+    "Greaves Cotton Limited (GREAVESCOT)": {
+        "code": "GREAVESCOT"
+    },
+    "Greenlam Industries Limited (GREENLAM)": {
+        "code": "GREENLAM"
+    },
+    "Greenpanel Industries Limited (GREENPANEL)": {
+        "code": "GREENPANEL"
+    },
+    "Greenply Industries Limited (GREENPLY)": {
+        "code": "GREENPLY"
+    },
+    "Orient Green Power Company Limited (GREENPOWER)": {
+        "code": "GREENPOWER"
+    },
+    "Grindwell Norton Limited (GRINDWELL)": {
+        "code": "GRINDWELL"
+    },
+    "G R Infraprojects Limited (GRINFRA)": {
+        "code": "GRINFRA"
+    },
+    "GRM Overseas Limited (GRMOVER)": {
+        "code": "GRMOVER"
+    },
+    "The Grob Tea Company Limited (GROBTEA)": {
+        "code": "GROBTEA"
+    },
+    "GRP Limited (GRPLTD)": {
+        "code": "GRPLTD"
+    },
+    "Garden Reach Shipbuilders & Engineers Limited (GRSE)": {
+        "code": "GRSE"
+    },
+    "Garware Hi-Tech Films Limited (GRWRHITECH)": {
+        "code": "GRWRHITECH"
+    },
+    "Gujarat Sidhee Cement Limited (GSCLCEMENT)": {
+        "code": "GSCLCEMENT"
+    },
+    "Gujarat State Fertilizers & Chemicals Limited (GSFC)": {
+        "code": "GSFC"
+    },
+    "Gujarat State Petronet Limited (GSPL)": {
+        "code": "GSPL"
+    },
+    "GSS Infotech Limited (GSS)": {
+        "code": "GSS"
+    },
+    "GTL Limited (GTL)": {
+        "code": "GTL"
+    },
+    "GTL Infrastructure Limited (GTLINFRA)": {
+        "code": "GTLINFRA"
+    },
+    "GTPL Hathway Limited (GTPL)": {
+        "code": "GTPL"
+    },
+    "Gufic Biosciences Limited (GUFICBIO)": {
+        "code": "GUFICBIO"
+    },
+    "Gujarat Alkalies and Chemicals Limited (GUJALKALI)": {
+        "code": "GUJALKALI"
+    },
+    "Gujarat Apollo Industries Limited (GUJAPOLLO)": {
+        "code": "GUJAPOLLO"
+    },
+    "Gujarat Gas Limited (GUJGASLTD)": {
+        "code": "GUJGASLTD"
+    },
+    "Gujarat Raffia Industries Limited (GUJRAFFIA)": {
+        "code": "GUJRAFFIA"
+    },
+    "Gulf Oil Lubricants India Limited (GULFOILLUB)": {
+        "code": "GULFOILLUB"
+    },
+    "GP Petroleums Limited (GULFPETRO)": {
+        "code": "GULFPETRO"
+    },
+    "Gulshan Polyols Limited (GULPOLY)": {
+        "code": "GULPOLY"
+    },
+    "GVK Power & Infrastructure Limited (GVKPIL)": {
+        "code": "GVKPIL"
+    },
+    "Hindustan Aeronautics Limited (HAL)": {
+        "code": "HAL"
+    },
+    "Happiest Minds Technologies Limited (HAPPSTMNDS)": {
+        "code": "HAPPSTMNDS"
+    },
+    "Hardwyn India Limited (HARDWYN)": {
+        "code": "HARDWYN"
+    },
+    "Hariom Pipe Industries Limited (HARIOMPIPE)": {
+        "code": "HARIOMPIPE"
+    },
+    "Harrisons  Malayalam Limited (HARRMALAYA)": {
+        "code": "HARRMALAYA"
+    },
+    "Harsha Engineers International Limited (HARSHA)": {
+        "code": "HARSHA"
+    },
+    "Hathway Cable & Datacom Limited (HATHWAY)": {
+        "code": "HATHWAY"
+    },
+    "Hatsun Agro Product Limited (HATSUN)": {
+        "code": "HATSUN"
+    },
+    "Havells India Limited (HAVELLS)": {
+        "code": "HAVELLS"
+    },
+    "Sri Havisha Hospitality and Infrastructure Limited (HAVISHA)": {
+        "code": "HAVISHA"
+    },
+    "HBL Power Systems Limited (HBLPOWER)": {
+        "code": "HBLPOWER"
+    },
+    "HB Stockholdings Limited (HBSL)": {
+        "code": "HBSL"
+    },
+    "Hindustan Construction Company Limited (HCC)": {
+        "code": "HCC"
+    },
+    "Healthcare Global Enterprises Limited (HCG)": {
+        "code": "HCG"
+    },
+    "HCL Infosystems Limited (HCL-INSYS)": {
+        "code": "HCL-INSYS"
+    },
+    "HCL Technologies Limited (HCLTECH)": {
+        "code": "HCLTECH"
+    },
+    "Housing Development Finance Corporation Limited (HDFC)": {
+        "code": "HDFC"
+    },
+    "HDFC Asset Management Company Limited (HDFCAMC)": {
+        "code": "HDFCAMC"
+    },
+    "HDFC Bank Limited (HDFCBANK)": {
+        "code": "HDFCBANK"
+    },
+    "HDFC Life Insurance Company Limited (HDFCLIFE)": {
+        "code": "HDFCLIFE"
+    },
+    "Housing Development and Infrastructure Limited (HDIL)": {
+        "code": "HDIL"
+    },
+    "Heads UP Ventures Limited (HEADSUP)": {
+        "code": "HEADSUP"
+    },
+    "HEC Infra Projects Limited (HECPROJECT)": {
+        "code": "HECPROJECT"
+    },
+    "HEG Limited (HEG)": {
+        "code": "HEG"
+    },
+    "HeidelbergCement India Limited (HEIDELBERG)": {
+        "code": "HEIDELBERG"
+    },
+    "Hemisphere Properties India Limited (HEMIPROP)": {
+        "code": "HEMIPROP"
+    },
+    "Heranba Industries Limited (HERANBA)": {
+        "code": "HERANBA"
+    },
+    "Hercules Hoists Limited (HERCULES)": {
+        "code": "HERCULES"
+    },
+    "Heritage Foods Limited (HERITGFOOD)": {
+        "code": "HERITGFOOD"
+    },
+    "Hero MotoCorp Limited (HEROMOTOCO)": {
+        "code": "HEROMOTOCO"
+    },
+    "Hester Biosciences Limited (HESTERBIO)": {
+        "code": "HESTERBIO"
+    },
+    "Heubach Colorants India Limited (HEUBACHIND)": {
+        "code": "HEUBACHIND"
+    },
+    "Hexa Tradex Limited (HEXATRADEX)": {
+        "code": "HEXATRADEX"
+    },
+    "HFCL Limited (HFCL)": {
+        "code": "HFCL"
+    },
+    "H.G. Infra Engineering Limited (HGINFRA)": {
+        "code": "HGINFRA"
+    },
+    "Hinduja Global Solutions Limited (HGS)": {
+        "code": "HGS"
+    },
+    "Hikal Limited (HIKAL)": {
+        "code": "HIKAL"
+    },
+    "HIL Limited (HIL)": {
+        "code": "HIL"
+    },
+    "Hilton Metal Forging Limited (HILTON)": {
+        "code": "HILTON"
+    },
+    "Himatsingka Seide Limited (HIMATSEIDE)": {
+        "code": "HIMATSEIDE"
+    },
+    "Hindalco Industries Limited (HINDALCO)": {
+        "code": "HINDALCO"
+    },
+    "Hindustan Composites Limited (HINDCOMPOS)": {
+        "code": "HINDCOMPOS"
+    },
+    "Hindcon Chemicals Limited (HINDCON)": {
+        "code": "HINDCON"
+    },
+    "Hindustan Copper Limited (HINDCOPPER)": {
+        "code": "HINDCOPPER"
+    },
+    "Hindustan Motors Limited (HINDMOTORS)": {
+        "code": "HINDMOTORS"
+    },
+    "Hindustan Oil Exploration Company Limited (HINDOILEXP)": {
+        "code": "HINDOILEXP"
+    },
+    "Hindustan Petroleum Corporation Limited (HINDPETRO)": {
+        "code": "HINDPETRO"
+    },
+    "Hindustan Unilever Limited (HINDUNILVR)": {
+        "code": "HINDUNILVR"
+    },
+    "Hindware Home Innovation Limited (HINDWAREAP)": {
+        "code": "HINDWAREAP"
+    },
+    "Hindustan Zinc Limited (HINDZINC)": {
+        "code": "HINDZINC"
+    },
+    "Hind Rectifiers Limited (HIRECT)": {
+        "code": "HIRECT"
+    },
+    "Hisar Metal Industries Limited (HISARMETAL)": {
+        "code": "HISARMETAL"
+    },
+    "Hi-Tech Pipes Limited (HITECH)": {
+        "code": "HITECH"
+    },
+    "Hitech Corporation Limited (HITECHCORP)": {
+        "code": "HITECHCORP"
+    },
+    "The Hi-Tech Gears Limited (HITECHGEAR)": {
+        "code": "HITECHGEAR"
+    },
+    "HLE Glascoat Limited (HLEGLAS)": {
+        "code": "HLEGLAS"
+    },
+    "HLV LIMITED (HLVLTD)": {
+        "code": "HLVLTD"
+    },
+    "HMT Limited (HMT)": {
+        "code": "HMT"
+    },
+    "Hindustan Media Ventures Limited (HMVL)": {
+        "code": "HMVL"
+    },
+    "Hindustan Foods Limited (HNDFDS)": {
+        "code": "HNDFDS"
+    },
+    "Home First Finance Company India Limited (HOMEFIRST)": {
+        "code": "HOMEFIRST"
+    },
+    "Honeywell Automation India Limited (HONAUT)": {
+        "code": "HONAUT"
+    },
+    "Honda India Power Products Limited (HONDAPOWER)": {
+        "code": "HONDAPOWER"
+    },
+    "HOV Services Limited (HOVS)": {
+        "code": "HOVS"
+    },
+    "HP Adhesives Limited (HPAL)": {
+        "code": "HPAL"
+    },
+    "Hindprakash Industries Limited (HPIL)": {
+        "code": "HPIL"
+    },
+    "HPL Electric & Power Limited (HPL)": {
+        "code": "HPL"
+    },
+    "Himadri Speciality Chemical Limited (HSCL)": {
+        "code": "HSCL"
+    },
+    "HT Media Limited (HTMEDIA)": {
+        "code": "HTMEDIA"
+    },
+    "Hubtown Limited (HUBTOWN)": {
+        "code": "HUBTOWN"
+    },
+    "Housing & Urban Development Corporation Limited (HUDCO)": {
+        "code": "HUDCO"
+    },
+    "Huhtamaki India Limited (HUHTAMAKI)": {
+        "code": "HUHTAMAKI"
+    },
+    "Hybrid Financial Services Limited (HYBRIDFIN)": {
+        "code": "HYBRIDFIN"
+    },
+    "Indiabulls Real Estate Limited (IBREALEST)": {
+        "code": "IBREALEST"
+    },
+    "Indiabulls Housing Finance Limited (IBULHSGFIN)": {
+        "code": "IBULHSGFIN"
+    },
+    "ICDS Limited (ICDSLTD)": {
+        "code": "ICDSLTD"
+    },
+    "Ice Make Refrigeration Limited (ICEMAKE)": {
+        "code": "ICEMAKE"
+    },
+    "ICICI Bank Limited (ICICIBANK)": {
+        "code": "ICICIBANK"
+    },
+    "ICICI Lombard General Insurance Company Limited (ICICIGI)": {
+        "code": "ICICIGI"
+    },
+    "ICICI Prudential Life Insurance Company Limited (ICICIPRULI)": {
+        "code": "ICICIPRULI"
+    },
+    "Indo Count Industries Limited (ICIL)": {
+        "code": "ICIL"
+    },
+    "ICRA Limited (ICRA)": {
+        "code": "ICRA"
+    },
+    "IDBI Bank Limited (IDBI)": {
+        "code": "IDBI"
+    },
+    "Vodafone Idea Limited (IDEA)": {
+        "code": "IDEA"
+    },
+    "IDFC Limited (IDFC)": {
+        "code": "IDFC"
+    },
+    "IDFC First Bank Limited (IDFCFIRSTB)": {
+        "code": "IDFCFIRSTB"
+    },
+    "Indiabulls Enterprises Limited (IEL)": {
+        "code": "IEL"
+    },
+    "Indian Energy Exchange Limited (IEX)": {
+        "code": "IEX"
+    },
+    "IFB Agro Industries Limited (IFBAGRO)": {
+        "code": "IFBAGRO"
+    },
+    "IFB Industries Limited (IFBIND)": {
+        "code": "IFBIND"
+    },
+    "IFCI Limited (IFCI)": {
+        "code": "IFCI"
+    },
+    "IFGL Refractories Limited (IFGLEXPOR)": {
+        "code": "IFGLEXPOR"
+    },
+    "Igarashi Motors India Limited (IGARASHI)": {
+        "code": "IGARASHI"
+    },
+    "Indraprastha Gas Limited (IGL)": {
+        "code": "IGL"
+    },
+    "IG Petrochemicals Limited (IGPL)": {
+        "code": "IGPL"
+    },
+    "IIFL Finance Limited (IIFL)": {
+        "code": "IIFL"
+    },
+    "IIFL Securities Limited (IIFLSEC)": {
+        "code": "IIFLSEC"
+    },
+    "Industrial Investment Trust Limited (IITL)": {
+        "code": "IITL"
+    },
+    "IL&FS Engineering and Construction Company Limited (IL&FSENGG)": {
+        "code": "IL&FSENGG"
+    },
+    "IL&FS Transportation Networks Limited (IL&FSTRANS)": {
+        "code": "IL&FSTRANS"
+    },
+    "Imagicaaworld Entertainment Limited (IMAGICAA)": {
+        "code": "IMAGICAA"
+    },
+    "Indian Metals & Ferro Alloys Limited (IMFA)": {
+        "code": "IMFA"
+    },
+    "India Motor Parts and Accessories Limited (IMPAL)": {
+        "code": "IMPAL"
+    },
+    "Impex Ferro Tech Limited (IMPEXFERRO)": {
+        "code": "IMPEXFERRO"
+    },
+    "INCREDIBLE INDUSTRIES LIMITED (INCREDIBLE)": {
+        "code": "INCREDIBLE"
+    },
+    "Indbank Merchant Banking Services Limited (INDBANK)": {
+        "code": "INDBANK"
+    },
+    "The Indian Hotels Company Limited (INDHOTEL)": {
+        "code": "INDHOTEL"
+    },
+    "The India Cements Limited (INDIACEM)": {
+        "code": "INDIACEM"
+    },
+    "India Glycols Limited (INDIAGLYCO)": {
+        "code": "INDIAGLYCO"
+    },
+    "Indiamart Intermesh Limited (INDIAMART)": {
+        "code": "INDIAMART"
+    },
+    "Indian Bank (INDIANB)": {
+        "code": "INDIANB"
+    },
+    "Indian Card Clothing Company Limited (INDIANCARD)": {
+        "code": "INDIANCARD"
+    },
+    "Indian Hume Pipe Company Limited (INDIANHUME)": {
+        "code": "INDIANHUME"
+    },
+    "InterGlobe Aviation Limited (INDIGO)": {
+        "code": "INDIGO"
+    },
+    "Indigo Paints Limited (INDIGOPNTS)": {
+        "code": "INDIGOPNTS"
+    },
+    "IMP Powers Limited (INDLMETER)": {
+        "code": "INDLMETER"
+    },
+    "India Nippon Electricals Limited (INDNIPPON)": {
+        "code": "INDNIPPON"
+    },
+    "Indo Amines Limited (INDOAMIN)": {
+        "code": "INDOAMIN"
+    },
+    "Indo Borax & Chemicals Limited (INDOBORAX)": {
+        "code": "INDOBORAX"
+    },
+    "Indoco Remedies Limited (INDOCO)": {
+        "code": "INDOCO"
+    },
+    "Indo Rama Synthetics (India) Limited (INDORAMA)": {
+        "code": "INDORAMA"
+    },
+    "IndoStar Capital Finance Limited (INDOSTAR)": {
+        "code": "INDOSTAR"
+    },
+    "Indo Tech Transformers Limited (INDOTECH)": {
+        "code": "INDOTECH"
+    },
+    "Indo Thai Securities Limited (INDOTHAI)": {
+        "code": "INDOTHAI"
+    },
+    "Indowind Energy Limited (INDOWIND)": {
+        "code": "INDOWIND"
+    },
+    "Indraprastha Medical Corporation Limited (INDRAMEDCO)": {
+        "code": "INDRAMEDCO"
+    },
+    "Ind-Swift Laboratories Limited (INDSWFTLAB)": {
+        "code": "INDSWFTLAB"
+    },
+    "Ind-Swift Limited (INDSWFTLTD)": {
+        "code": "INDSWFTLTD"
+    },
+    "Indian Terrain Fashions Limited (INDTERRAIN)": {
+        "code": "INDTERRAIN"
+    },
+    "IndusInd Bank Limited (INDUSINDBK)": {
+        "code": "INDUSINDBK"
+    },
+    "Indus Towers Limited (INDUSTOWER)": {
+        "code": "INDUSTOWER"
+    },
+    "Infibeam Avenues Limited (INFIBEAM)": {
+        "code": "INFIBEAM"
+    },
+    "InfoBeans Technologies Limited (INFOBEAN)": {
+        "code": "INFOBEAN"
+    },
+    "Infomedia Press Limited (INFOMEDIA)": {
+        "code": "INFOMEDIA"
+    },
+    "Infosys Limited (INFY)": {
+        "code": "INFY"
+    },
+    "Ingersoll Rand (India) Limited (INGERRAND)": {
+        "code": "INGERRAND"
+    },
+    "Inox Green Energy Services Limited (INOXGREEN)": {
+        "code": "INOXGREEN"
+    },
+    "Inox Wind Limited (INOXWIND)": {
+        "code": "INOXWIND"
+    },
+    "Insecticides (India) Limited (INSECTICID)": {
+        "code": "INSECTICID"
+    },
+    "Inspirisys Solutions Limited (INSPIRISYS)": {
+        "code": "INSPIRISYS"
+    },
+    "Intellect Design Arena Limited (INTELLECT)": {
+        "code": "INTELLECT"
+    },
+    "Intense Technologies Limited (INTENTECH)": {
+        "code": "INTENTECH"
+    },
+    "International Conveyors Limited (INTLCONV)": {
+        "code": "INTLCONV"
+    },
+    "Inventure Growth & Securities Limited (INVENTURE)": {
+        "code": "INVENTURE"
+    },
+    "Indian Overseas Bank (IOB)": {
+        "code": "IOB"
+    },
+    "Indian Oil Corporation Limited (IOC)": {
+        "code": "IOC"
+    },
+    "IOL Chemicals and Pharmaceuticals Limited (IOLCP)": {
+        "code": "IOLCP"
+    },
+    "ION Exchange (India) Limited (IONEXCHANG)": {
+        "code": "IONEXCHANG"
+    },
+    "IPCA Laboratories Limited (IPCALAB)": {
+        "code": "IPCALAB"
+    },
+    "India Pesticides Limited (IPL)": {
+        "code": "IPL"
+    },
+    "IRB Infrastructure Developers Limited (IRB)": {
+        "code": "IRB"
+    },
+    "Ircon International Limited (IRCON)": {
+        "code": "IRCON"
+    },
+    "Indian Railway Catering And Tourism Corporation Limited (IRCTC)": {
+        "code": "IRCTC"
+    },
+    "Indian Railway Finance Corporation Limited (IRFC)": {
+        "code": "IRFC"
+    },
+    "Iris Business Services Limited (IRIS)": {
+        "code": "IRIS"
+    },
+    "Iris Clothings Limited (IRISDOREME)": {
+        "code": "IRISDOREME"
+    },
+    "ICICI Securities Limited (ISEC)": {
+        "code": "ISEC"
+    },
+    "Intrasoft Technologies Limited (ISFT)": {
+        "code": "ISFT"
+    },
+    "Isgec Heavy Engineering Limited (ISGEC)": {
+        "code": "ISGEC"
+    },
+    "ISMT Limited (ISMTLTD)": {
+        "code": "ISMTLTD"
+    },
+    "ITC Limited (ITC)": {
+        "code": "ITC"
+    },
+    "India Tourism Development Corporation Limited (ITDC)": {
+        "code": "ITDC"
+    },
+    "ITD Cementation India Limited (ITDCEM)": {
+        "code": "ITDCEM"
+    },
+    "ITI Limited (ITI)": {
+        "code": "ITI"
+    },
+    "IL&FS Investment Managers Limited (IVC)": {
+        "code": "IVC"
+    },
+    "IVP Limited (IVP)": {
+        "code": "IVP"
+    },
+    "Inox Wind Energy Limited (IWEL)": {
+        "code": "IWEL"
+    },
+    "IZMO Limited (IZMO)": {
+        "code": "IZMO"
+    },
+    "The Jammu & Kashmir Bank Limited (J&KBANK)": {
+        "code": "J&KBANK"
+    },
+    "Jagran Prakashan Limited (JAGRAN)": {
+        "code": "JAGRAN"
+    },
+    "Jagsonpal Pharmaceuticals Limited (JAGSNPHARM)": {
+        "code": "JAGSNPHARM"
+    },
+    "Jai Balaji Industries Limited (JAIBALAJI)": {
+        "code": "JAIBALAJI"
+    },
+    "Jai Corp Limited (JAICORPLTD)": {
+        "code": "JAICORPLTD"
+    },
+    "Nandani Creation Limited (JAIPURKURT)": {
+        "code": "JAIPURKURT"
+    },
+    "Jamna Auto Industries Limited (JAMNAAUTO)": {
+        "code": "JAMNAAUTO"
+    },
+    "Jash Engineering Limited (JASH)": {
+        "code": "JASH"
+    },
+    "Jayant Agro Organics Limited (JAYAGROGN)": {
+        "code": "JAYAGROGN"
+    },
+    "Jay Bharat Maruti Limited (JAYBARMARU)": {
+        "code": "JAYBARMARU"
+    },
+    "Jayaswal Neco Industries Limited (JAYNECOIND)": {
+        "code": "JAYNECOIND"
+    },
+    "Jayshree Tea & Industries Limited (JAYSREETEA)": {
+        "code": "JAYSREETEA"
+    },
+    "JB Chemicals & Pharmaceuticals Limited (JBCHEPHARM)": {
+        "code": "JBCHEPHARM"
+    },
+    "JBM Auto Limited (JBMA)": {
+        "code": "JBMA"
+    },
+    "Johnson Controls - Hitachi Air Conditioning India Limited (JCHAC)": {
+        "code": "JCHAC"
+    },
+    "Jet Airways (India) Limited (JETAIRWAYS)": {
+        "code": "JETAIRWAYS"
+    },
+    "Jet Freight Logistics Limited (JETFREIGHT)": {
+        "code": "JETFREIGHT"
+    },
+    "JHS Svendgaard Laboratories Limited (JHS)": {
+        "code": "JHS"
+    },
+    "Jindal Photo Limited (JINDALPHOT)": {
+        "code": "JINDALPHOT"
+    },
+    "Jindal Poly Films Limited (JINDALPOLY)": {
+        "code": "JINDALPOLY"
+    },
+    "Jindal Saw Limited (JINDALSAW)": {
+        "code": "JINDALSAW"
+    },
+    "Jindal Steel & Power Limited (JINDALSTEL)": {
+        "code": "JINDALSTEL"
+    },
+    "Jindal Drilling And Industries Limited (JINDRILL)": {
+        "code": "JINDRILL"
+    },
+    "Jindal Worldwide Limited (JINDWORLD)": {
+        "code": "JINDWORLD"
+    },
+    "Jain Irrigation Systems Limited (JISLDVREQS)": {
+        "code": "JISLDVREQS"
+    },
+    "Jain Irrigation Systems Limited (JISLJALEQS)": {
+        "code": "JISLJALEQS"
+    },
+    "JITF Infralogistics Limited (JITFINFRA)": {
+        "code": "JITFINFRA"
+    },
+    "JK Cement Limited (JKCEMENT)": {
+        "code": "JKCEMENT"
+    },
+    "J.Kumar Infraprojects Limited (JKIL)": {
+        "code": "JKIL"
+    },
+    "JK Lakshmi Cement Limited (JKLAKSHMI)": {
+        "code": "JKLAKSHMI"
+    },
+    "JK Paper Limited (JKPAPER)": {
+        "code": "JKPAPER"
+    },
+    "JK Tyre & Industries Limited (JKTYRE)": {
+        "code": "JKTYRE"
+    },
+    "Jullundur Motor Agency (Delhi) Limited (JMA)": {
+        "code": "JMA"
+    },
+    "JM Financial Limited (JMFINANCIL)": {
+        "code": "JMFINANCIL"
+    },
+    "Jocil Limited (JOCIL)": {
+        "code": "JOCIL"
+    },
+    "Jaiprakash Associates Limited (JPASSOCIAT)": {
+        "code": "JPASSOCIAT"
+    },
+    "Jindal Poly Investment and Finance Company Limited (JPOLYINVST)": {
+        "code": "JPOLYINVST"
+    },
+    "Jaiprakash Power Ventures Limited (JPPOWER)": {
+        "code": "JPPOWER"
+    },
+    "Jindal Stainless Limited (JSL)": {
+        "code": "JSL"
+    },
+    "JSW Energy Limited (JSWENERGY)": {
+        "code": "JSWENERGY"
+    },
+    "JSW Holdings Limited (JSWHL)": {
+        "code": "JSWHL"
+    },
+    "JSW Ispat Special Products Limited (JSWISPL)": {
+        "code": "JSWISPL"
+    },
+    "JSW Steel Limited (JSWSTEEL)": {
+        "code": "JSWSTEEL"
+    },
+    "Jtekt India Limited (JTEKTINDIA)": {
+        "code": "JTEKTINDIA"
+    },
+    "JTL INDUSTRIES LIMITED (JTLIND)": {
+        "code": "JTLIND"
+    },
+    "Jubilant Foodworks Limited (JUBLFOOD)": {
+        "code": "JUBLFOOD"
+    },
+    "Jubilant Industries Limited (JUBLINDS)": {
+        "code": "JUBLINDS"
+    },
+    "Jubilant Ingrevia Limited (JUBLINGREA)": {
+        "code": "JUBLINGREA"
+    },
+    "Jubilant Pharmova Limited (JUBLPHARMA)": {
+        "code": "JUBLPHARMA"
+    },
+    "Just Dial Limited (JUSTDIAL)": {
+        "code": "JUSTDIAL"
+    },
+    "Jupiter Wagons Limited (JWL)": {
+        "code": "JWL"
+    },
+    "Jyothy Labs Limited (JYOTHYLAB)": {
+        "code": "JYOTHYLAB"
+    },
+    "Jyoti Structures Limited (JYOTISTRUC)": {
+        "code": "JYOTISTRUC"
+    },
+    "Kabra Extrusion Technik Limited (KABRAEXTRU)": {
+        "code": "KABRAEXTRU"
+    },
+    "Kajaria Ceramics Limited (KAJARIACER)": {
+        "code": "KAJARIACER"
+    },
+    "Kakatiya Cement Sugar & Industries Limited (KAKATCEM)": {
+        "code": "KAKATCEM"
+    },
+    "Kalpataru Power Transmission Limited (KALPATPOWR)": {
+        "code": "KALPATPOWR"
+    },
+    "Kalyani Forge Limited (KALYANIFRG)": {
+        "code": "KALYANIFRG"
+    },
+    "Kalyan Jewellers India Limited (KALYANKJIL)": {
+        "code": "KALYANKJIL"
+    },
+    "Kamat Hotels (I) Limited (KAMATHOTEL)": {
+        "code": "KAMATHOTEL"
+    },
+    "Kamdhenu Limited (KAMDHENU)": {
+        "code": "KAMDHENU"
+    },
+    "Kamdhenu Ventures Limited (KAMOPAINTS)": {
+        "code": "KAMOPAINTS"
+    },
+    "Kanani Industries Limited (KANANIIND)": {
+        "code": "KANANIIND"
+    },
+    "Kanoria Chemicals & Industries Limited (KANORICHEM)": {
+        "code": "KANORICHEM"
+    },
+    "Kanpur Plastipack Limited (KANPRPLA)": {
+        "code": "KANPRPLA"
+    },
+    "Kansai Nerolac Paints Limited (KANSAINER)": {
+        "code": "KANSAINER"
+    },
+    "Kapston Services Limited (KAPSTON)": {
+        "code": "KAPSTON"
+    },
+    "Karma Energy Limited (KARMAENG)": {
+        "code": "KARMAENG"
+    },
+    "Karur Vysya Bank Limited (KARURVYSYA)": {
+        "code": "KARURVYSYA"
+    },
+    "Kaushalya Infrastructure Development Corporation Limited (KAUSHALYA)": {
+        "code": "KAUSHALYA"
+    },
+    "Kavveri Telecom Products Limited (KAVVERITEL)": {
+        "code": "KAVVERITEL"
+    },
+    "Kaya Limited (KAYA)": {
+        "code": "KAYA"
+    },
+    "Kaynes Technology India Limited (KAYNES)": {
+        "code": "KAYNES"
+    },
+    "KBC Global Limited (KBCGLOBAL)": {
+        "code": "KBCGLOBAL"
+    },
+    "KCP Limited (KCP)": {
+        "code": "KCP"
+    },
+    "KCP Sugar and Industries Corporation Limited (KCPSUGIND)": {
+        "code": "KCPSUGIND"
+    },
+    "KDDL Limited (KDDL)": {
+        "code": "KDDL"
+    },
+    "KEC International Limited (KEC)": {
+        "code": "KEC"
+    },
+    "Kirloskar Electric Company Limited (KECL)": {
+        "code": "KECL"
+    },
+    "DSJ Keep Learning Limited (KEEPLEARN)": {
+        "code": "KEEPLEARN"
+    },
+    "KEI Industries Limited (KEI)": {
+        "code": "KEI"
+    },
+    "Kellton Tech Solutions Limited (KELLTONTEC)": {
+        "code": "KELLTONTEC"
+    },
+    "Kennametal India Limited (KENNAMET)": {
+        "code": "KENNAMET"
+    },
+    "Kernex Microsystems (India) Limited (KERNEX)": {
+        "code": "KERNEX"
+    },
+    "Kesoram Industries Limited (KESORAMIND)": {
+        "code": "KESORAMIND"
+    },
+    "Keynote Financial Services Limited (KEYFINSERV)": {
+        "code": "KEYFINSERV"
+    },
+    "Kfin Technologies Limited (KFINTECH)": {
+        "code": "KFINTECH"
+    },
+    "Khadim India Limited (KHADIM)": {
+        "code": "KHADIM"
+    },
+    "Khaitan Chemicals & Fertilizers Limited (KHAICHEM)": {
+        "code": "KHAICHEM"
+    },
+    "Khaitan (India) Limited (KHAITANLTD)": {
+        "code": "KHAITANLTD"
+    },
+    "Khandwala Securities Limited (KHANDSE)": {
+        "code": "KHANDSE"
+    },
+    "Kalyani Investment Company Limited (KICL)": {
+        "code": "KICL"
+    },
+    "Kilitch Drugs (India) Limited (KILITCH)": {
+        "code": "KILITCH"
+    },
+    "Krishna Institute of Medical Sciences Limited (KIMS)": {
+        "code": "KIMS"
+    },
+    "Kingfa Science & Technology (India) Limited (KINGFA)": {
+        "code": "KINGFA"
+    },
+    "KIOCL Limited (KIOCL)": {
+        "code": "KIOCL"
+    },
+    "Kiri Industries Limited (KIRIINDUS)": {
+        "code": "KIRIINDUS"
+    },
+    "Kirloskar Ferrous Industries Ltd (KIRLFER)": {
+        "code": "KIRLFER"
+    },
+    "Kirloskar Brothers Limited (KIRLOSBROS)": {
+        "code": "KIRLOSBROS"
+    },
+    "Kirloskar Oil Engines Limited (KIRLOSENG)": {
+        "code": "KIRLOSENG"
+    },
+    "Kirloskar Industries Limited (KIRLOSIND)": {
+        "code": "KIRLOSIND"
+    },
+    "Kitex Garments Limited (KITEX)": {
+        "code": "KITEX"
+    },
+    "Kewal Kiran Clothing Limited (KKCL)": {
+        "code": "KKCL"
+    },
+    "K.M.Sugar Mills Limited (KMSUGAR)": {
+        "code": "KMSUGAR"
+    },
+    "KNR Constructions Limited (KNRCON)": {
+        "code": "KNRCON"
+    },
+    "Kohinoor Foods Limited (KOHINOOR)": {
+        "code": "KOHINOOR"
+    },
+    "Kokuyo Camlin Limited (KOKUYOCMLN)": {
+        "code": "KOKUYOCMLN"
+    },
+    "Kolte - Patil Developers Limited (KOLTEPATIL)": {
+        "code": "KOLTEPATIL"
+    },
+    "Kopran Limited (KOPRAN)": {
+        "code": "KOPRAN"
+    },
+    "Kotak Mahindra Bank Limited (KOTAKBANK)": {
+        "code": "KOTAKBANK"
+    },
+    "Kothari Sugars And Chemicals Limited (KOTARISUG)": {
+        "code": "KOTARISUG"
+    },
+    "Kothari Petrochemicals Limited (KOTHARIPET)": {
+        "code": "KOTHARIPET"
+    },
+    "Kothari Products Limited (KOTHARIPRO)": {
+        "code": "KOTHARIPRO"
+    },
+    "Kovai Medical Center and Hospital Limited (KOVAI)": {
+        "code": "KOVAI"
+    },
+    "KPI Green Energy Limited (KPIGREEN)": {
+        "code": "KPIGREEN"
+    },
+    "KPIT Technologies Limited (KPITTECH)": {
+        "code": "KPITTECH"
+    },
+    "K.P.R. Mill Limited (KPRMILL)": {
+        "code": "KPRMILL"
+    },
+    "KRBL Limited (KRBL)": {
+        "code": "KRBL"
+    },
+    "Krebs Biochemicals and Industries Limited (KREBSBIO)": {
+        "code": "KREBSBIO"
+    },
+    "Kridhan Infra Limited (KRIDHANINF)": {
+        "code": "KRIDHANINF"
+    },
+    "Krishana Phoschem Limited (KRISHANA)": {
+        "code": "KRISHANA"
+    },
+    "Kriti Industries (India) Limited (KRITI)": {
+        "code": "KRITI"
+    },
+    "Kritika Wires Limited (KRITIKA)": {
+        "code": "KRITIKA"
+    },
+    "Kriti Nutrients Limited (KRITINUT)": {
+        "code": "KRITINUT"
+    },
+    "Krsnaa Diagnostics Limited (KRSNAA)": {
+        "code": "KRSNAA"
+    },
+    "Ksb Limited (KSB)": {
+        "code": "KSB"
+    },
+    "Kaveri Seed Company Limited (KSCL)": {
+        "code": "KSCL"
+    },
+    "Kshitij Polyline Limited (KSHITIJPOL)": {
+        "code": "KSHITIJPOL"
+    },
+    "Kalyani Steels Limited (KSL)": {
+        "code": "KSL"
+    },
+    "Ksolves India Limited (KSOLVES)": {
+        "code": "KSOLVES"
+    },
+    "The Karnataka Bank Limited (KTKBANK)": {
+        "code": "KTKBANK"
+    },
+    "Kuantum Papers Limited (KUANTUM)": {
+        "code": "KUANTUM"
+    },
+    "L&T Finance Holdings Limited (L&TFH)": {
+        "code": "L&TFH"
+    },
+    "Lagnam Spintex Limited (LAGNAM)": {
+        "code": "LAGNAM"
+    },
+    "Lakshmi Precision Screws Limited (LAKPRE)": {
+        "code": "LAKPRE"
+    },
+    "Dr. Lal Path Labs Ltd. (LALPATHLAB)": {
+        "code": "LALPATHLAB"
+    },
+    "Lambodhara Textiles Limited (LAMBODHARA)": {
+        "code": "LAMBODHARA"
+    },
+    "Lancer Container Lines Limited (LANCER)": {
+        "code": "LANCER"
+    },
+    "Landmark Cars Limited (LANDMARK)": {
+        "code": "LANDMARK"
+    },
+    "La Opala RG Limited (LAOPALA)": {
+        "code": "LAOPALA"
+    },
+    "Lasa Supergenerics Limited (LASA)": {
+        "code": "LASA"
+    },
+    "Latent View Analytics Limited (LATENTVIEW)": {
+        "code": "LATENTVIEW"
+    },
+    "Laurus Labs Limited (LAURUSLABS)": {
+        "code": "LAURUSLABS"
+    },
+    "Laxmi Cotspin Limited (LAXMICOT)": {
+        "code": "LAXMICOT"
+    },
+    "Lakshmi Machine Works Limited (LAXMIMACH)": {
+        "code": "LAXMIMACH"
+    },
+    "LCC Infotech Limited (LCCINFOTEC)": {
+        "code": "LCCINFOTEC"
+    },
+    "Lemon Tree Hotels Limited (LEMONTREE)": {
+        "code": "LEMONTREE"
+    },
+    "Lexus Granito (India) Limited (LEXUS)": {
+        "code": "LEXUS"
+    },
+    "Lakshmi Finance & Industrial Corporation Limited (LFIC)": {
+        "code": "LFIC"
+    },
+    "LG Balakrishnan & Bros Limited (LGBBROSLTD)": {
+        "code": "LGBBROSLTD"
+    },
+    "LGB Forge Limited (LGBFORGE)": {
+        "code": "LGBFORGE"
+    },
+    "Libas Consumer Products Limited (LIBAS)": {
+        "code": "LIBAS"
+    },
+    "Liberty Shoes Limited (LIBERTSHOE)": {
+        "code": "LIBERTSHOE"
+    },
+    "LIC Housing Finance Limited (LICHSGFIN)": {
+        "code": "LICHSGFIN"
+    },
+    "Life Insurance Corporation Of India (LICI)": {
+        "code": "LICI"
+    },
+    "Likhitha Infrastructure Limited (LIKHITHA)": {
+        "code": "LIKHITHA"
+    },
+    "Linc Limited (LINC)": {
+        "code": "LINC"
+    },
+    "Lincoln Pharmaceuticals Limited (LINCOLN)": {
+        "code": "LINCOLN"
+    },
+    "Linde India Limited (LINDEINDIA)": {
+        "code": "LINDEINDIA"
+    },
+    "Macrotech Developers Limited (LODHA)": {
+        "code": "LODHA"
+    },
+    "Lokesh Machines Limited (LOKESHMACH)": {
+        "code": "LOKESHMACH"
+    },
+    "Lotus Eye Hospital and Institute Limited (LOTUSEYE)": {
+        "code": "LOTUSEYE"
+    },
+    "Lovable Lingerie Limited (LOVABLE)": {
+        "code": "LOVABLE"
+    },
+    "Loyal Textile Mills Limited (LOYALTEX)": {
+        "code": "LOYALTEX"
+    },
+    "Landmark Property Development Company Limited (LPDC)": {
+        "code": "LPDC"
+    },
+    "Lloyds Steels Industries Limited (LSIL)": {
+        "code": "LSIL"
+    },
+    "Larsen & Toubro Limited (LT)": {
+        "code": "LT"
+    },
+    "LTIMindtree Limited (LTIM)": {
+        "code": "LTIM"
+    },
+    "L&T Technology Services Limited (LTTS)": {
+        "code": "LTTS"
+    },
+    "Lumax Industries Limited (LUMAXIND)": {
+        "code": "LUMAXIND"
+    },
+    "Lumax Auto Technologies Limited (LUMAXTECH)": {
+        "code": "LUMAXTECH"
+    },
+    "Lupin Limited (LUPIN)": {
+        "code": "LUPIN"
+    },
+    "Lux Industries Limited (LUXIND)": {
+        "code": "LUXIND"
+    },
+    "Laxmi Organic Industries Limited (LXCHEM)": {
+        "code": "LXCHEM"
+    },
+    "Lyka Labs Limited (LYKALABS)": {
+        "code": "LYKALABS"
+    },
+    "Lypsa Gems & Jewellery Limited (LYPSAGEMS)": {
+        "code": "LYPSAGEMS"
+    },
+    "Mahindra & Mahindra Limited (M&M)": {
+        "code": "M&M"
+    },
+    "Mahindra & Mahindra Financial Services Limited (M&MFIN)": {
+        "code": "M&MFIN"
+    },
+    "Maan Aluminium Limited (MAANALU)": {
+        "code": "MAANALU"
+    },
+    "Macpower CNC Machines Limited (MACPOWER)": {
+        "code": "MACPOWER"
+    },
+    "Madhav Marbles and Granites Limited (MADHAV)": {
+        "code": "MADHAV"
+    },
+    "Madhucon Projects Limited (MADHUCON)": {
+        "code": "MADHUCON"
+    },
+    "Madras Fertilizers Limited (MADRASFERT)": {
+        "code": "MADRASFERT"
+    },
+    "Magadh Sugar & Energy Limited (MAGADSUGAR)": {
+        "code": "MAGADSUGAR"
+    },
+    "Magnum Ventures Limited (MAGNUM)": {
+        "code": "MAGNUM"
+    },
+    "Bank of Maharashtra (MAHABANK)": {
+        "code": "MAHABANK"
+    },
+    "Maha Rashtra Apex Corporation Limited (MAHAPEXLTD)": {
+        "code": "MAHAPEXLTD"
+    },
+    "Mahamaya Steel Industries Limited (MAHASTEEL)": {
+        "code": "MAHASTEEL"
+    },
+    "Mahindra EPC Irrigation Limited (MAHEPC)": {
+        "code": "MAHEPC"
+    },
+    "Maheshwari Logistics Limited (MAHESHWARI)": {
+        "code": "MAHESHWARI"
+    },
+    "Mahindra CIE Automotive Limited (MAHINDCIE)": {
+        "code": "MAHINDCIE"
+    },
+    "Mahindra Lifespace Developers Limited (MAHLIFE)": {
+        "code": "MAHLIFE"
+    },
+    "Mahindra Logistics Limited (MAHLOG)": {
+        "code": "MAHLOG"
+    },
+    "Maharashtra Scooters Limited (MAHSCOOTER)": {
+        "code": "MAHSCOOTER"
+    },
+    "Maharashtra Seamless Limited (MAHSEAMLES)": {
+        "code": "MAHSEAMLES"
+    },
+    "Maithan Alloys Limited (MAITHANALL)": {
+        "code": "MAITHANALL"
+    },
+    "Mallcom (India) Limited (MALLCOM)": {
+        "code": "MALLCOM"
+    },
+    "Malu Paper Mills Limited (MALUPAPER)": {
+        "code": "MALUPAPER"
+    },
+    "Manaksia Aluminium Company Limited (MANAKALUCO)": {
+        "code": "MANAKALUCO"
+    },
+    "Manaksia Coated Metals & Industries Limited (MANAKCOAT)": {
+        "code": "MANAKCOAT"
+    },
+    "Manaksia Limited (MANAKSIA)": {
+        "code": "MANAKSIA"
+    },
+    "Manaksia Steels Limited (MANAKSTEEL)": {
+        "code": "MANAKSTEEL"
+    },
+    "Manali Petrochemicals Limited (MANALIPETC)": {
+        "code": "MANALIPETC"
+    },
+    "Manappuram Finance Limited (MANAPPURAM)": {
+        "code": "MANAPPURAM"
+    },
+    "Mangalam Drugs And Organics Limited (MANGALAM)": {
+        "code": "MANGALAM"
+    },
+    "Mangalore Chemicals & Fertilizers Limited (MANGCHEFER)": {
+        "code": "MANGCHEFER"
+    },
+    "Mangalam Cement Limited (MANGLMCEM)": {
+        "code": "MANGLMCEM"
+    },
+    "Man Industries (India) Limited (MANINDS)": {
+        "code": "MANINDS"
+    },
+    "Man Infraconstruction Limited (MANINFRA)": {
+        "code": "MANINFRA"
+    },
+    "Manomay Tex India Limited (MANOMAY)": {
+        "code": "MANOMAY"
+    },
+    "Manorama Industries Limited (MANORAMA)": {
+        "code": "MANORAMA"
+    },
+    "Mangalam Organics Limited (MANORG)": {
+        "code": "MANORG"
+    },
+    "Manugraph India Limited (MANUGRAPH)": {
+        "code": "MANUGRAPH"
+    },
+    "Vedant Fashions Limited (MANYAVAR)": {
+        "code": "MANYAVAR"
+    },
+    "C.E. Info Systems Limited (MAPMYINDIA)": {
+        "code": "MAPMYINDIA"
+    },
+    "Maral Overseas Limited (MARALOVER)": {
+        "code": "MARALOVER"
+    },
+    "Marathon Nextgen Realty Limited (MARATHON)": {
+        "code": "MARATHON"
+    },
+    "Marico Limited (MARICO)": {
+        "code": "MARICO"
+    },
+    "Marine Electricals (India) Limited (MARINE)": {
+        "code": "MARINE"
+    },
+    "Marksans Pharma Limited (MARKSANS)": {
+        "code": "MARKSANS"
+    },
+    "Marshall Machines Limited (MARSHALL)": {
+        "code": "MARSHALL"
+    },
+    "Maruti Suzuki India Limited (MARUTI)": {
+        "code": "MARUTI"
+    },
+    "MAS Financial Services Limited (MASFIN)": {
+        "code": "MASFIN"
+    },
+    "Mask Investments Limited (MASKINVEST)": {
+        "code": "MASKINVEST"
+    },
+    "Mastek Limited (MASTEK)": {
+        "code": "MASTEK"
+    },
+    "Matrimony.Com Limited (MATRIMONY)": {
+        "code": "MATRIMONY"
+    },
+    "Mawana Sugars Limited (MAWANASUG)": {
+        "code": "MAWANASUG"
+    },
+    "Max Healthcare Institute Limited (MAXHEALTH)": {
+        "code": "MAXHEALTH"
+    },
+    "Max India Limited (MAXIND)": {
+        "code": "MAXIND"
+    },
+    "Max Ventures and Industries Limited (MAXVIL)": {
+        "code": "MAXVIL"
+    },
+    "Mayur Uniquoters Ltd (MAYURUNIQ)": {
+        "code": "MAYURUNIQ"
+    },
+    "Mazda Limited (MAZDA)": {
+        "code": "MAZDA"
+    },
+    "Mazagon Dock Shipbuilders Limited (MAZDOCK)": {
+        "code": "MAZDOCK"
+    },
+    "Madhya Bharat Agro Products Limited (MBAPL)": {
+        "code": "MBAPL"
+    },
+    "MBL Infrastructure Limited (MBLINFRA)": {
+        "code": "MBLINFRA"
+    },
+    "United Spirits Limited (MCDOWELL-N)": {
+        "code": "MCDOWELL-N"
+    },
+    "Madhav Copper Limited (MCL)": {
+        "code": "MCL"
+    },
+    "Mcleod Russel India Limited (MCLEODRUSS)": {
+        "code": "MCLEODRUSS"
+    },
+    "Multi Commodity Exchange of India Limited (MCX)": {
+        "code": "MCX"
+    },
+    "Global Health Limited (MEDANTA)": {
+        "code": "MEDANTA"
+    },
+    "Medicamen Biotech Limited (MEDICAMEQ)": {
+        "code": "MEDICAMEQ"
+    },
+    "Medico Remedies Limited (MEDICO)": {
+        "code": "MEDICO"
+    },
+    "Medplus Health Services Limited (MEDPLUS)": {
+        "code": "MEDPLUS"
+    },
+    "Megasoft Limited (MEGASOFT)": {
+        "code": "MEGASOFT"
+    },
+    "Megastar Foods Limited (MEGASTAR)": {
+        "code": "MEGASTAR"
+    },
+    "Melstar Information Technologies Limited (MELSTAR)": {
+        "code": "MELSTAR"
+    },
+    "Menon Bearings Limited (MENONBE)": {
+        "code": "MENONBE"
+    },
+    "MEP Infrastructure Developers Limited (MEP)": {
+        "code": "MEP"
+    },
+    "Metalyst Forgings Limited (METALFORGE)": {
+        "code": "METALFORGE"
+    },
+    "Metro Brands Limited (METROBRAND)": {
+        "code": "METROBRAND"
+    },
+    "Metropolis Healthcare Limited (METROPOLIS)": {
+        "code": "METROPOLIS"
+    },
+    "Meghmani Finechem Limited (MFL)": {
+        "code": "MFL"
+    },
+    "Max Financial Services Limited (MFSL)": {
+        "code": "MFSL"
+    },
+    "Mangalam Global Enterprise Limited (MGEL)": {
+        "code": "MGEL"
+    },
+    "Mahanagar Gas Limited (MGL)": {
+        "code": "MGL"
+    },
+    "Mahalaxmi Rubtech Limited (MHLXMIRU)": {
+        "code": "MHLXMIRU"
+    },
+    "Mahindra Holidays & Resorts India Limited (MHRIL)": {
+        "code": "MHRIL"
+    },
+    "MIC Electronics Limited (MICEL)": {
+        "code": "MICEL"
+    },
+    "Mishra Dhatu Nigam Limited (MIDHANI)": {
+        "code": "MIDHANI"
+    },
+    "Minda Corporation Limited (MINDACORP)": {
+        "code": "MINDACORP"
+    },
+    "Mindteck (India) Limited (MINDTECK)": {
+        "code": "MINDTECK"
+    },
+    "MIRC Electronics Limited (MIRCELECTR)": {
+        "code": "MIRCELECTR"
+    },
+    "Mirza International Limited (MIRZAINT)": {
+        "code": "MIRZAINT"
+    },
+    "MITCON Consultancy & Engineering Services Limited (MITCON)": {
+        "code": "MITCON"
+    },
+    "Mittal Life Style Limited (MITTAL)": {
+        "code": "MITTAL"
+    },
+    "MM Forgings Limited (MMFL)": {
+        "code": "MMFL"
+    },
+    "MMP Industries Limited (MMP)": {
+        "code": "MMP"
+    },
+    "MMTC Limited (MMTC)": {
+        "code": "MMTC"
+    },
+    "Modi Rubber Limited (MODIRUBBER)": {
+        "code": "MODIRUBBER"
+    },
+    "MODISON LIMITED (MODISONLTD)": {
+        "code": "MODISONLTD"
+    },
+    "Mohit Industries Limited (MOHITIND)": {
+        "code": "MOHITIND"
+    },
+    "MOIL Limited (MOIL)": {
+        "code": "MOIL"
+    },
+    "Moksh Ornaments Limited (MOKSH)": {
+        "code": "MOKSH"
+    },
+    "Meghmani Organics Limited (MOL)": {
+        "code": "MOL"
+    },
+    "Mold-Tek Technologies Limited (MOLDTECH)": {
+        "code": "MOLDTECH"
+    },
+    "Mold-Tek Packaging Limited (MOLDTKPAC)": {
+        "code": "MOLDTKPAC"
+    },
+    "Monarch Networth Capital Limited (MONARCH)": {
+        "code": "MONARCH"
+    },
+    "Monte Carlo Fashions Limited (MONTECARLO)": {
+        "code": "MONTECARLO"
+    },
+    "Morarjee Textiles Limited (MORARJEE)": {
+        "code": "MORARJEE"
+    },
+    "Morepen Laboratories Limited (MOREPENLAB)": {
+        "code": "MOREPENLAB"
+    },
+    "Samvardhana Motherson International Limited (MOTHERSON)": {
+        "code": "MOTHERSON"
+    },
+    "Motilal Oswal Financial Services Limited (MOTILALOFS)": {
+        "code": "MOTILALOFS"
+    },
+    "The Motor & General Finance Limited (MOTOGENFIN)": {
+        "code": "MOTOGENFIN"
+    },
+    "MphasiS Limited (MPHASIS)": {
+        "code": "MPHASIS"
+    },
+    "MPS Limited (MPSLTD)": {
+        "code": "MPSLTD"
+    },
+    "MRF Limited (MRF)": {
+        "code": "MRF"
+    },
+    "MRO-TEK Realty Limited (MRO-TEK)": {
+        "code": "MRO-TEK"
+    },
+    "Mangalore Refinery and Petrochemicals Limited (MRPL)": {
+        "code": "MRPL"
+    },
+    "MSP Steel & Power Limited (MSPL)": {
+        "code": "MSPL"
+    },
+    "Mstc Limited (MSTCLTD)": {
+        "code": "MSTCLTD"
+    },
+    "Motherson Sumi Wiring India Limited (MSUMI)": {
+        "code": "MSUMI"
+    },
+    "Mtar Technologies Limited (MTARTECH)": {
+        "code": "MTARTECH"
+    },
+    "MT Educare Limited (MTEDUCARE)": {
+        "code": "MTEDUCARE"
+    },
+    "Mahanagar Telephone Nigam Limited (MTNL)": {
+        "code": "MTNL"
+    },
+    "Mukand Limited (MUKANDLTD)": {
+        "code": "MUKANDLTD"
+    },
+    "Mukta Arts Limited (MUKTAARTS)": {
+        "code": "MUKTAARTS"
+    },
+    "Munjal Auto Industries Limited (MUNJALAU)": {
+        "code": "MUNJALAU"
+    },
+    "Munjal Showa Limited (MUNJALSHOW)": {
+        "code": "MUNJALSHOW"
+    },
+    "Murudeshwar Ceramics Limited (MURUDCERA)": {
+        "code": "MURUDCERA"
+    },
+    "Muthoot Capital Services Limited (MUTHOOTCAP)": {
+        "code": "MUTHOOTCAP"
+    },
+    "Muthoot Finance Limited (MUTHOOTFIN)": {
+        "code": "MUTHOOTFIN"
+    },
+    "NACL Industries Limited (NACLIND)": {
+        "code": "NACLIND"
+    },
+    "Nagarjuna Fertilizers and Chemicals Limited (NAGAFERT)": {
+        "code": "NAGAFERT"
+    },
+    "Nagreeka Capital & Infrastructure Limited (NAGREEKCAP)": {
+        "code": "NAGREEKCAP"
+    },
+    "Nagreeka Exports Limited (NAGREEKEXP)": {
+        "code": "NAGREEKEXP"
+    },
+    "Nahar Capital and Financial Services Limited (NAHARCAP)": {
+        "code": "NAHARCAP"
+    },
+    "Nahar Industrial Enterprises Limited (NAHARINDUS)": {
+        "code": "NAHARINDUS"
+    },
+    "Nahar Poly Films Limited (NAHARPOLY)": {
+        "code": "NAHARPOLY"
+    },
+    "Nahar Spinning Mills Limited (NAHARSPING)": {
+        "code": "NAHARSPING"
+    },
+    "Nippon Life India Asset Management Limited (NAM-INDIA)": {
+        "code": "NAM-INDIA"
+    },
+    "Narmada Agrobase Limited (NARMADA)": {
+        "code": "NARMADA"
+    },
+    "Natco Pharma Limited (NATCOPHARM)": {
+        "code": "NATCOPHARM"
+    },
+    "Nath Bio-Genes (India) Limited (NATHBIOGEN)": {
+        "code": "NATHBIOGEN"
+    },
+    "National Aluminium Company Limited (NATIONALUM)": {
+        "code": "NATIONALUM"
+    },
+    "National Steel And Agro Industries Limited (NATNLSTEEL)": {
+        "code": "NATNLSTEEL"
+    },
+    "Info Edge (India) Limited (NAUKRI)": {
+        "code": "NAUKRI"
+    },
+    "NAVA LIMITED (NAVA)": {
+        "code": "NAVA"
+    },
+    "Navin Fluorine International Limited (NAVINFLUOR)": {
+        "code": "NAVINFLUOR"
+    },
+    "Navkar Corporation Limited (NAVKARCORP)": {
+        "code": "NAVKARCORP"
+    },
+    "Navneet Education Limited (NAVNETEDUL)": {
+        "code": "NAVNETEDUL"
+    },
+    "Nazara Technologies Limited (NAZARA)": {
+        "code": "NAZARA"
+    },
+    "NBCC (India) Limited (NBCC)": {
+        "code": "NBCC"
+    },
+    "N. B. I. Industrial Finance Company Limited (NBIFIN)": {
+        "code": "NBIFIN"
+    },
+    "NCC Limited (NCC)": {
+        "code": "NCC"
+    },
+    "NCL Industries Limited (NCLIND)": {
+        "code": "NCLIND"
+    },
+    "Naga Dhunseri Group Limited (NDGL)": {
+        "code": "NDGL"
+    },
+    "Nandan Denim Limited (NDL)": {
+        "code": "NDL"
+    },
+    "Ndr Auto Components Limited (NDRAUTO)": {
+        "code": "NDRAUTO"
+    },
+    "New Delhi Television Limited (NDTV)": {
+        "code": "NDTV"
+    },
+    "North Eastern Carrying Corporation Limited (NECCLTD)": {
+        "code": "NECCLTD"
+    },
+    "Nectar Lifesciences Limited (NECLIFE)": {
+        "code": "NECLIFE"
+    },
+    "Nelcast Limited (NELCAST)": {
+        "code": "NELCAST"
+    },
+    "NELCO Limited (NELCO)": {
+        "code": "NELCO"
+    },
+    "Neogen Chemicals Limited (NEOGEN)": {
+        "code": "NEOGEN"
+    },
+    "Nesco Limited (NESCO)": {
+        "code": "NESCO"
+    },
+    "Nestle India Limited (NESTLEIND)": {
+        "code": "NESTLEIND"
+    },
+    "Network18 Media & Investments Limited (NETWORK18)": {
+        "code": "NETWORK18"
+    },
+    "Neuland Laboratories Limited (NEULANDLAB)": {
+        "code": "NEULANDLAB"
+    },
+    "Newgen Software Technologies Limited (NEWGEN)": {
+        "code": "NEWGEN"
+    },
+    "Next Mediaworks Limited (NEXTMEDIA)": {
+        "code": "NEXTMEDIA"
+    },
+    "National Fertilizers Limited (NFL)": {
+        "code": "NFL"
+    },
+    "Nakoda Group of Industries Limited (NGIL)": {
+        "code": "NGIL"
+    },
+    "NGL Fine-Chem Limited (NGLFINE)": {
+        "code": "NGLFINE"
+    },
+    "Narayana Hrudayalaya Ltd. (NH)": {
+        "code": "NH"
+    },
+    "NHPC Limited (NHPC)": {
+        "code": "NHPC"
+    },
+    "The New India Assurance Company Limited (NIACL)": {
+        "code": "NIACL"
+    },
+    "NRB Industrial Bearings Limited (NIBL)": {
+        "code": "NIBL"
+    },
+    "NIIT Limited (NIITLTD)": {
+        "code": "NIITLTD"
+    },
+    "Nila Infrastructures Limited (NILAINFRA)": {
+        "code": "NILAINFRA"
+    },
+    "Nila Spaces Limited (NILASPACES)": {
+        "code": "NILASPACES"
+    },
+    "Nilkamal Limited (NILKAMAL)": {
+        "code": "NILKAMAL"
+    },
+    "NINtec Systems Limited (NINSYS)": {
+        "code": "NINSYS"
+    },
+    "Indo-National Limited (NIPPOBATRY)": {
+        "code": "NIPPOBATRY"
+    },
+    "Niraj Cement Structurals Limited (NIRAJ)": {
+        "code": "NIRAJ"
+    },
+    "Nitco Limited (NITCO)": {
+        "code": "NITCO"
+    },
+    "Nitin Spinners Limited (NITINSPIN)": {
+        "code": "NITINSPIN"
+    },
+    "Nitiraj Engineers Limited (NITIRAJ)": {
+        "code": "NITIRAJ"
+    },
+    "NK Industries Limited (NKIND)": {
+        "code": "NKIND"
+    },
+    "NLC India Limited (NLCINDIA)": {
+        "code": "NLCINDIA"
+    },
+    "NMDC Limited (NMDC)": {
+        "code": "NMDC"
+    },
+    "NOCIL Limited (NOCIL)": {
+        "code": "NOCIL"
+    },
+    "Noida Toll Bridge Company Limited (NOIDATOLL)": {
+        "code": "NOIDATOLL"
+    },
+    "Novartis India Limited (NOVARTIND)": {
+        "code": "NOVARTIND"
+    },
+    "N R Agarwal Industries Limited (NRAIL)": {
+        "code": "NRAIL"
+    },
+    "NRB Bearing Limited (NRBBEARING)": {
+        "code": "NRBBEARING"
+    },
+    "Nupur Recyclers Limited (NRL)": {
+        "code": "NRL"
+    },
+    "Nalwa Sons Investments Limited (NSIL)": {
+        "code": "NSIL"
+    },
+    "NMDC Steel Limited (NSLNISP)": {
+        "code": "NSLNISP"
+    },
+    "NTPC Limited (NTPC)": {
+        "code": "NTPC"
+    },
+    "Nucleus Software Exports Limited (NUCLEUS)": {
+        "code": "NUCLEUS"
+    },
+    "Nureca Limited (NURECA)": {
+        "code": "NURECA"
+    },
+    "Nuvoco Vistas Corporation Limited (NUVOCO)": {
+        "code": "NUVOCO"
+    },
+    "NXTDIGITAL LIMITED (NXTDIGITAL)": {
+        "code": "NXTDIGITAL"
+    },
+    "FSN E-Commerce Ventures Limited (NYKAA)": {
+        "code": "NYKAA"
+    },
+    "Oriental Aromatics Limited (OAL)": {
+        "code": "OAL"
+    },
+    "Orissa Bengal Carrier Limited (OBCL)": {
+        "code": "OBCL"
+    },
+    "Oberoi Realty Limited (OBEROIRLTY)": {
+        "code": "OBEROIRLTY"
+    },
+    "Oriental Carbon & Chemicals Limited (OCCL)": {
+        "code": "OCCL"
+    },
+    "Oracle Financial Services Software Limited (OFSS)": {
+        "code": "OFSS"
+    },
+    "Oil India Limited (OIL)": {
+        "code": "OIL"
+    },
+    "Oil Country Tubular Limited (OILCOUNTUB)": {
+        "code": "OILCOUNTUB"
+    },
+    "Olectra Greentech Limited (OLECTRA)": {
+        "code": "OLECTRA"
+    },
+    "Omax Autos Limited (OMAXAUTO)": {
+        "code": "OMAXAUTO"
+    },
+    "Omaxe Limited (OMAXE)": {
+        "code": "OMAXE"
+    },
+    "OM INFRA LIMITED (OMINFRAL)": {
+        "code": "OMINFRAL"
+    },
+    "Onelife Capital Advisors Limited (ONELIFECAP)": {
+        "code": "ONELIFECAP"
+    },
+    "One Point One Solutions Limited (ONEPOINT)": {
+        "code": "ONEPOINT"
+    },
+    "Oil & Natural Gas Corporation Limited (ONGC)": {
+        "code": "ONGC"
+    },
+    "OnMobile Global Limited (ONMOBILE)": {
+        "code": "ONMOBILE"
+    },
+    "Onward Technologies Limited (ONWARDTEC)": {
+        "code": "ONWARDTEC"
+    },
+    "Optiemus Infracom Limited (OPTIEMUS)": {
+        "code": "OPTIEMUS"
+    },
+    "Orbit Exports Limited (ORBTEXP)": {
+        "code": "ORBTEXP"
+    },
+    "Orchid Pharma Limited (ORCHPHARMA)": {
+        "code": "ORCHPHARMA"
+    },
+    "Oricon Enterprises Limited (ORICONENT)": {
+        "code": "ORICONENT"
+    },
+    "Orient Abrasives Limited (ORIENTABRA)": {
+        "code": "ORIENTABRA"
+    },
+    "Oriental Trimex Limited (ORIENTALTL)": {
+        "code": "ORIENTALTL"
+    },
+    "Orient Bell Limited (ORIENTBELL)": {
+        "code": "ORIENTBELL"
+    },
+    "Orient Cement Limited (ORIENTCEM)": {
+        "code": "ORIENTCEM"
+    },
+    "Orient Electric Limited (ORIENTELEC)": {
+        "code": "ORIENTELEC"
+    },
+    "Oriental Hotels Limited (ORIENTHOT)": {
+        "code": "ORIENTHOT"
+    },
+    "Orient Press Limited (ORIENTLTD)": {
+        "code": "ORIENTLTD"
+    },
+    "Orient Paper & Industries Limited (ORIENTPPR)": {
+        "code": "ORIENTPPR"
+    },
+    "The Orissa Minerals Development Company Limited (ORISSAMINE)": {
+        "code": "ORISSAMINE"
+    },
+    "Ortin Laboratories Limited (ORTINLAB)": {
+        "code": "ORTINLAB"
+    },
+    "Osia Hyper Retail Limited (OSIAHYPER)": {
+        "code": "OSIAHYPER"
+    },
+    "Oswal Agro Mills Limited (OSWALAGRO)": {
+        "code": "OSWALAGRO"
+    },
+    "ShreeOswal Seeds And Chemicals Limited (OSWALSEEDS)": {
+        "code": "OSWALSEEDS"
+    },
+    "Page Industries Limited (PAGEIND)": {
+        "code": "PAGEIND"
+    },
+    "Paisalo Digital Limited (PAISALO)": {
+        "code": "PAISALO"
+    },
+    "Palash Securities Limited (PALASHSECU)": {
+        "code": "PALASHSECU"
+    },
+    "Palred Technologies Limited (PALREDTEC)": {
+        "code": "PALREDTEC"
+    },
+    "Panacea Biotec Limited (PANACEABIO)": {
+        "code": "PANACEABIO"
+    },
+    "Panache Digilife Limited (PANACHE)": {
+        "code": "PANACHE"
+    },
+    "Panama Petrochem Limited (PANAMAPET)": {
+        "code": "PANAMAPET"
+    },
+    "Pansari Developers Limited (PANSARI)": {
+        "code": "PANSARI"
+    },
+    "Par Drugs And Chemicals Limited (PAR)": {
+        "code": "PAR"
+    },
+    "Paramount Communications Limited (PARACABLES)": {
+        "code": "PARACABLES"
+    },
+    "Paradeep Phosphates Limited (PARADEEP)": {
+        "code": "PARADEEP"
+    },
+    "Parag Milk Foods Limited (PARAGMILK)": {
+        "code": "PARAGMILK"
+    },
+    "Paras Defence and Space Technologies Limited (PARAS)": {
+        "code": "PARAS"
+    },
+    "Paras Petrofils Limited (PARASPETRO)": {
+        "code": "PARASPETRO"
+    },
+    "Parsvnath Developers Limited (PARSVNATH)": {
+        "code": "PARSVNATH"
+    },
+    "Pasupati Acrylon Limited (PASUPTAC)": {
+        "code": "PASUPTAC"
+    },
+    "Patanjali Foods Limited (PATANJALI)": {
+        "code": "PATANJALI"
+    },
+    "Patel Engineering Limited (PATELENG)": {
+        "code": "PATELENG"
+    },
+    "Patel Integrated Logistics Limited (PATINTLOG)": {
+        "code": "PATINTLOG"
+    },
+    "One 97 Communications Limited (PAYTM)": {
+        "code": "PAYTM"
+    },
+    "PCBL LIMITED (PCBL)": {
+        "code": "PCBL"
+    },
+    "PC Jeweller Limited (PCJEWELLER)": {
+        "code": "PCJEWELLER"
+    },
+    "Pudumjee Paper Products Limited (PDMJEPAPER)": {
+        "code": "PDMJEPAPER"
+    },
+    "PDS Limited (PDSL)": {
+        "code": "PDSL"
+    },
+    "Pearl Polymers Limited (PEARLPOLY)": {
+        "code": "PEARLPOLY"
+    },
+    "Piramal Enterprises Limited (PEL)": {
+        "code": "PEL"
+    },
+    "Pennar Industries Limited (PENIND)": {
+        "code": "PENIND"
+    },
+    "Peninsula Land Limited (PENINLAND)": {
+        "code": "PENINLAND"
+    },
+    "Persistent Systems Limited (PERSISTENT)": {
+        "code": "PERSISTENT"
+    },
+    "Petronet LNG Limited (PETRONET)": {
+        "code": "PETRONET"
+    },
+    "Power Finance Corporation Limited (PFC)": {
+        "code": "PFC"
+    },
+    "Pfizer Limited (PFIZER)": {
+        "code": "PFIZER"
+    },
+    "Prime Focus Limited (PFOCUS)": {
+        "code": "PFOCUS"
+    },
+    "PTC India Financial Services Limited (PFS)": {
+        "code": "PFS"
+    },
+    "PG Electroplast Limited (PGEL)": {
+        "code": "PGEL"
+    },
+    "Procter & Gamble Hygiene and Health Care Limited (PGHH)": {
+        "code": "PGHH"
+    },
+    "Procter & Gamble Health Limited (PGHL)": {
+        "code": "PGHL"
+    },
+    "Pearl Global Industries Limited (PGIL)": {
+        "code": "PGIL"
+    },
+    "The Phoenix Mills Limited (PHOENIXLTD)": {
+        "code": "PHOENIXLTD"
+    },
+    "Pidilite Industries Limited (PIDILITIND)": {
+        "code": "PIDILITIND"
+    },
+    "PI Industries Limited (PIIND)": {
+        "code": "PIIND"
+    },
+    "Pilani Investment and Industries Corporation Limited (PILANIINVS)": {
+        "code": "PILANIINVS"
+    },
+    "PIL ITALICA LIFESTYLE LIMITED (PILITA)": {
+        "code": "PILITA"
+    },
+    "Pioneer Embroideries Limited (PIONEEREMB)": {
+        "code": "PIONEEREMB"
+    },
+    "Pitti Engineering Limited (PITTIENG)": {
+        "code": "PITTIENG"
+    },
+    "Pix Transmissions Limited (PIXTRANS)": {
+        "code": "PIXTRANS"
+    },
+    "The Peria Karamalai Tea & Produce Company Limited (PKTEA)": {
+        "code": "PKTEA"
+    },
+    "Plastiblends India Limited (PLASTIBLEN)": {
+        "code": "PLASTIBLEN"
+    },
+    "Punjab National Bank (PNB)": {
+        "code": "PNB"
+    },
+    "PNB Gilts Limited (PNBGILTS)": {
+        "code": "PNBGILTS"
+    },
+    "PNB Housing Finance Limited (PNBHOUSING)": {
+        "code": "PNBHOUSING"
+    },
+    "Pritish Nandy Communications Limited (PNC)": {
+        "code": "PNC"
+    },
+    "PNC Infratech Limited (PNCINFRA)": {
+        "code": "PNCINFRA"
+    },
+    "Pondy Oxides & Chemicals Limited (POCL)": {
+        "code": "POCL"
+    },
+    "Poddar Housing and Development Limited (PODDARHOUS)": {
+        "code": "PODDARHOUS"
+    },
+    "Poddar Pigments Limited (PODDARMENT)": {
+        "code": "PODDARMENT"
+    },
+    "Pokarna Limited (POKARNA)": {
+        "code": "POKARNA"
+    },
+    "PB Fintech Limited (POLICYBZR)": {
+        "code": "POLICYBZR"
+    },
+    "Polycab India Limited (POLYCAB)": {
+        "code": "POLYCAB"
+    },
+    "Poly Medicure Limited (POLYMED)": {
+        "code": "POLYMED"
+    },
+    "Polyplex Corporation Limited (POLYPLEX)": {
+        "code": "POLYPLEX"
+    },
+    "Ponni Sugars (Erode) Limited (PONNIERODE)": {
+        "code": "PONNIERODE"
+    },
+    "Poonawalla Fincorp Limited (POONAWALLA)": {
+        "code": "POONAWALLA"
+    },
+    "Power Grid Corporation of India Limited (POWERGRID)": {
+        "code": "POWERGRID"
+    },
+    "Hitachi Energy India Limited (POWERINDIA)": {
+        "code": "POWERINDIA"
+    },
+    "Power Mech Projects Limited (POWERMECH)": {
+        "code": "POWERMECH"
+    },
+    "PPAP Automotive Limited (PPAP)": {
+        "code": "PPAP"
+    },
+    "Prakash Pipes Limited (PPL)": {
+        "code": "PPL"
+    },
+    "Piramal Pharma Limited (PPLPHARMA)": {
+        "code": "PPLPHARMA"
+    },
+    "Prajay Engineers Syndicate Limited (PRAENG)": {
+        "code": "PRAENG"
+    },
+    "Praj Industries Limited (PRAJIND)": {
+        "code": "PRAJIND"
+    },
+    "Prakash Industries Limited (PRAKASH)": {
+        "code": "PRAKASH"
+    },
+    "Prakash Steelage Limited (PRAKASHSTL)": {
+        "code": "PRAKASHSTL"
+    },
+    "Praxis Home Retail Limited (PRAXIS)": {
+        "code": "PRAXIS"
+    },
+    "Precision Camshafts Limited (PRECAM)": {
+        "code": "PRECAM"
+    },
+    "Precot Limited (PRECOT)": {
+        "code": "PRECOT"
+    },
+    "Precision Wires India Limited (PRECWIRE)": {
+        "code": "PRECWIRE"
+    },
+    "Premier Explosives Limited (PREMEXPLN)": {
+        "code": "PREMEXPLN"
+    },
+    "Premier Limited (PREMIER)": {
+        "code": "PREMIER"
+    },
+    "Premier Polyfilm Limited (PREMIERPOL)": {
+        "code": "PREMIERPOL"
+    },
+    "Pressman Advertising Limited (PRESSMN)": {
+        "code": "PRESSMN"
+    },
+    "Prestige Estates Projects Limited (PRESTIGE)": {
+        "code": "PRESTIGE"
+    },
+    "Pricol Limited (PRICOLLTD)": {
+        "code": "PRICOLLTD"
+    },
+    "Prime Securities Limited (PRIMESECU)": {
+        "code": "PRIMESECU"
+    },
+    "Prince Pipes And Fittings Limited (PRINCEPIPE)": {
+        "code": "PRINCEPIPE"
+    },
+    "Priti International Limited (PRITI)": {
+        "code": "PRITI"
+    },
+    "Pritika Auto Industries Limited (PRITIKAUTO)": {
+        "code": "PRITIKAUTO"
+    },
+    "Privi Speciality Chemicals Limited (PRIVISCL)": {
+        "code": "PRIVISCL"
+    },
+    "Prozone Intu Properties Limited (PROZONINTU)": {
+        "code": "PROZONINTU"
+    },
+    "Prism Johnson Limited (PRSMJOHNSN)": {
+        "code": "PRSMJOHNSN"
+    },
+    "Prudent Corporate Advisory Services Limited (PRUDENT)": {
+        "code": "PRUDENT"
+    },
+    "Punjab & Sind Bank (PSB)": {
+        "code": "PSB"
+    },
+    "PSP Projects Limited (PSPPROJECT)": {
+        "code": "PSPPROJECT"
+    },
+    "PTC India Limited (PTC)": {
+        "code": "PTC"
+    },
+    "PTL Enterprises Limited (PTL)": {
+        "code": "PTL"
+    },
+    "Punjab Chemicals & Crop Protection Limited (PUNJABCHEM)": {
+        "code": "PUNJABCHEM"
+    },
+    "Puravankara Limited (PURVA)": {
+        "code": "PURVA"
+    },
+    "PVP Ventures Limited (PVP)": {
+        "code": "PVP"
+    },
+    "PVR Limited (PVR)": {
+        "code": "PVR"
+    },
+    "Quess Corp Limited (QUESS)": {
+        "code": "QUESS"
+    },
+    "Quick Heal Technologies Limited (QUICKHEAL)": {
+        "code": "QUICKHEAL"
+    },
+    "Radaan Mediaworks India Limited (RADAAN)": {
+        "code": "RADAAN"
+    },
+    "Radhika Jeweltech Limited (RADHIKAJWE)": {
+        "code": "RADHIKAJWE"
+    },
+    "Radiant Cash Management Services Limited (RADIANTCMS)": {
+        "code": "RADIANTCMS"
+    },
+    "Radico Khaitan Limited (RADICO)": {
+        "code": "RADICO"
+    },
+    "Music Broadcast Limited (RADIOCITY)": {
+        "code": "RADIOCITY"
+    },
+    "Railtel Corporation Of India Limited (RAILTEL)": {
+        "code": "RAILTEL"
+    },
+    "Rain Industries Limited (RAIN)": {
+        "code": "RAIN"
+    },
+    "Rainbow Childrens Medicare Limited (RAINBOW)": {
+        "code": "RAINBOW"
+    },
+    "Rajesh Exports Limited (RAJESHEXPO)": {
+        "code": "RAJESHEXPO"
+    },
+    "Rajnandini Metal Limited (RAJMET)": {
+        "code": "RAJMET"
+    },
+    "Rajratan Global Wire Limited (RAJRATAN)": {
+        "code": "RAJRATAN"
+    },
+    "Raj Rayon Industries Limited (RAJRILTD)": {
+        "code": "RAJRILTD"
+    },
+    "Rajshree Sugars & Chemicals Limited (RAJSREESUG)": {
+        "code": "RAJSREESUG"
+    },
+    "Raj Television Network Limited (RAJTV)": {
+        "code": "RAJTV"
+    },
+    "Rallis India Limited (RALLIS)": {
+        "code": "RALLIS"
+    },
+    "Shree Rama Newsprint Limited (RAMANEWS)": {
+        "code": "RAMANEWS"
+    },
+    "Rama Phosphates Limited (RAMAPHO)": {
+        "code": "RAMAPHO"
+    },
+    "Rama Steel Tubes Limited (RAMASTEEL)": {
+        "code": "RAMASTEEL"
+    },
+    "The Ramco Cements Limited (RAMCOCEM)": {
+        "code": "RAMCOCEM"
+    },
+    "Ramco Industries Limited (RAMCOIND)": {
+        "code": "RAMCOIND"
+    },
+    "Ramco Systems Limited (RAMCOSYS)": {
+        "code": "RAMCOSYS"
+    },
+    "Ramky Infrastructure Limited (RAMKY)": {
+        "code": "RAMKY"
+    },
+    "Ram Ratna Wires Limited (RAMRAT)": {
+        "code": "RAMRAT"
+    },
+    "Rana Sugars Limited (RANASUG)": {
+        "code": "RANASUG"
+    },
+    "Rane Engine Valve Limited (RANEENGINE)": {
+        "code": "RANEENGINE"
+    },
+    "Rane Holdings Limited (RANEHOLDIN)": {
+        "code": "RANEHOLDIN"
+    },
+    "Rategain Travel Technologies Limited (RATEGAIN)": {
+        "code": "RATEGAIN"
+    },
+    "Ratnamani Metals & Tubes Limited (RATNAMANI)": {
+        "code": "RATNAMANI"
+    },
+    "Raymond Limited (RAYMOND)": {
+        "code": "RAYMOND"
+    },
+    "Restaurant Brands Asia Limited (RBA)": {
+        "code": "RBA"
+    },
+    "Rane Brake Lining Limited (RBL)": {
+        "code": "RBL"
+    },
+    "RBL Bank Limited (RBLBANK)": {
+        "code": "RBLBANK"
+    },
+    "Rashtriya Chemicals and Fertilizers Limited (RCF)": {
+        "code": "RCF"
+    },
+    "Reliance Communications Limited (RCOM)": {
+        "code": "RCOM"
+    },
+    "REC Limited (RECLTD)": {
+        "code": "RECLTD"
+    },
+    "Redington Limited (REDINGTON)": {
+        "code": "REDINGTON"
+    },
+    "Refex Industries Limited (REFEX)": {
+        "code": "REFEX"
+    },
+    "Regency Ceramics Limited (REGENCERAM)": {
+        "code": "REGENCERAM"
+    },
+    "Relaxo Footwears Limited (RELAXO)": {
+        "code": "RELAXO"
+    },
+    "Reliance Capital Limited (RELCAPITAL)": {
+        "code": "RELCAPITAL"
+    },
+    "Reliance Chemotex Industries Limited (RELCHEMQ)": {
+        "code": "RELCHEMQ"
+    },
+    "Reliance Industries Limited (RELIANCE)": {
+        "code": "RELIANCE"
+    },
+    "Religare Enterprises Limited (RELIGARE)": {
+        "code": "RELIGARE"
+    },
+    "Reliance Infrastructure Limited (RELINFRA)": {
+        "code": "RELINFRA"
+    },
+    "Remsons Industries Limited (REMSONSIND)": {
+        "code": "REMSONSIND"
+    },
+    "Shree Renuka Sugars Limited (RENUKA)": {
+        "code": "RENUKA"
+    },
+    "Repco Home Finance Limited (REPCOHOME)": {
+        "code": "REPCOHOME"
+    },
+    "Rudrabhishek Enterprises Limited (REPL)": {
+        "code": "REPL"
+    },
+    "Repro India Limited (REPRO)": {
+        "code": "REPRO"
+    },
+    "Responsive Industries Limited (RESPONIND)": {
+        "code": "RESPONIND"
+    },
+    "Revathi Equipment Limited (REVATHI)": {
+        "code": "REVATHI"
+    },
+    "Renaissance Global Limited (RGL)": {
+        "code": "RGL"
+    },
+    "Reliance Home Finance Limited (RHFL)": {
+        "code": "RHFL"
+    },
+    "RHI MAGNESITA INDIA LIMITED (RHIM)": {
+        "code": "RHIM"
+    },
+    "Rico Auto Industries Limited (RICOAUTO)": {
+        "code": "RICOAUTO"
+    },
+    "Reliance Industrial Infrastructure Limited (RIIL)": {
+        "code": "RIIL"
+    },
+    "Ritco Logistics Limited (RITCO)": {
+        "code": "RITCO"
+    },
+    "RITES Limited (RITES)": {
+        "code": "RITES"
+    },
+    "Ravi Kumar Distilleries Limited (RKDL)": {
+        "code": "RKDL"
+    },
+    "RKEC Projects Limited (RKEC)": {
+        "code": "RKEC"
+    },
+    "Ramkrishna Forgings Limited (RKFORGE)": {
+        "code": "RKFORGE"
+    },
+    "Radha Madhav Corporation Limited (RMCL)": {
+        "code": "RMCL"
+    },
+    "Rane (Madras) Limited (RML)": {
+        "code": "RML"
+    },
+    "Reliance Naval and Engineering Limited (RNAVAL)": {
+        "code": "RNAVAL"
+    },
+    "Royal Orchid Hotels Limited (ROHLTD)": {
+        "code": "ROHLTD"
+    },
+    "Rolex Rings Limited (ROLEXRINGS)": {
+        "code": "ROLEXRINGS"
+    },
+    "Rollatainers Limited (ROLLT)": {
+        "code": "ROLLT"
+    },
+    "Rolta India Limited (ROLTA)": {
+        "code": "ROLTA"
+    },
+    "Raj Oil Mills Limited (ROML)": {
+        "code": "ROML"
+    },
+    "Raj Oil Mills Limited-RE (ROML-RE)": {
+        "code": "ROML-RE"
+    },
+    "Rossari Biotech Limited (ROSSARI)": {
+        "code": "ROSSARI"
+    },
+    "Rossell India Limited (ROSSELLIND)": {
+        "code": "ROSSELLIND"
+    },
+    "Roto Pumps Limited (ROTO)": {
+        "code": "ROTO"
+    },
+    "ROUTE MOBILE LIMITED (ROUTE)": {
+        "code": "ROUTE"
+    },
+    "RPG Life Sciences Limited (RPGLIFE)": {
+        "code": "RPGLIFE"
+    },
+    "Reliance Power Limited (RPOWER)": {
+        "code": "RPOWER"
+    },
+    "R.P.P. Infra Projects Limited (RPPINFRA)": {
+        "code": "RPPINFRA"
+    },
+    "Rajshree Polypack Limited (RPPL)": {
+        "code": "RPPL"
+    },
+    "RPSG VENTURES LIMITED (RPSGVENT)": {
+        "code": "RPSGVENT"
+    },
+    "R. S. Software (India) Limited (RSSOFTWARE)": {
+        "code": "RSSOFTWARE"
+    },
+    "RSWM Limited (RSWM)": {
+        "code": "RSWM"
+    },
+    "R Systems International Limited (RSYSTEMS)": {
+        "code": "RSYSTEMS"
+    },
+    "RattanIndia Enterprises Limited (RTNINDIA)": {
+        "code": "RTNINDIA"
+    },
+    "RattanIndia Power Limited (RTNPOWER)": {
+        "code": "RTNPOWER"
+    },
+    "The Ruby Mills Limited (RUBYMILLS)": {
+        "code": "RUBYMILLS"
+    },
+    "Ruchi Infrastructure Limited (RUCHINFRA)": {
+        "code": "RUCHINFRA"
+    },
+    "Ruchira Papers Limited (RUCHIRA)": {
+        "code": "RUCHIRA"
+    },
+    "Rupa & Company Limited (RUPA)": {
+        "code": "RUPA"
+    },
+    "Rushil Decor Limited (RUSHIL)": {
+        "code": "RUSHIL"
+    },
+    "Keystone Realtors Limited (RUSTOMJEE)": {
+        "code": "RUSTOMJEE"
+    },
+    "Ravinder Heights Limited (RVHL)": {
+        "code": "RVHL"
+    },
+    "Rail Vikas Nigam Limited (RVNL)": {
+        "code": "RVNL"
+    },
+    "Sri Adhikari Brothers Television Network Limited (SABTN)": {
+        "code": "SABTN"
+    },
+    "Sadbhav Engineering Limited (SADBHAV)": {
+        "code": "SADBHAV"
+    },
+    "Sadbhav Infrastructure Project Limited (SADBHIN)": {
+        "code": "SADBHIN"
+    },
+    "Safari Industries (India) Limited (SAFARI)": {
+        "code": "SAFARI"
+    },
+    "Sagardeep Alloys Limited (SAGARDEEP)": {
+        "code": "SAGARDEEP"
+    },
+    "Sagar Cements Limited (SAGCEM)": {
+        "code": "SAGCEM"
+    },
+    "Sah Polymers Limited (SAH)": {
+        "code": "SAH"
+    },
+    "Steel Authority of India Limited (SAIL)": {
+        "code": "SAIL"
+    },
+    "Sakar Healthcare Limited (SAKAR)": {
+        "code": "SAKAR"
+    },
+    "Sakthi Sugars Limited (SAKHTISUG)": {
+        "code": "SAKHTISUG"
+    },
+    "Saksoft Limited (SAKSOFT)": {
+        "code": "SAKSOFT"
+    },
+    "Sakuma Exports Limited (SAKUMA)": {
+        "code": "SAKUMA"
+    },
+    "Salasar Techno Engineering Limited (SALASAR)": {
+        "code": "SALASAR"
+    },
+    "Salona Cotspin Limited (SALONA)": {
+        "code": "SALONA"
+    },
+    "S.A.L. Steel Limited (SALSTEEL)": {
+        "code": "SALSTEEL"
+    },
+    "Salzer Electronics Limited (SALZERELEC)": {
+        "code": "SALZERELEC"
+    },
+    "Sambhaav Media Limited (SAMBHAAV)": {
+        "code": "SAMBHAAV"
+    },
+    "Sanco Industries Limited (SANCO)": {
+        "code": "SANCO"
+    },
+    "The Sandesh Limited (SANDESH)": {
+        "code": "SANDESH"
+    },
+    "Sandhar Technologies Limited (SANDHAR)": {
+        "code": "SANDHAR"
+    },
+    "Sangam (India) Limited (SANGAMIND)": {
+        "code": "SANGAMIND"
+    },
+    "Sanghi Industries Limited (SANGHIIND)": {
+        "code": "SANGHIIND"
+    },
+    "Sanghvi Movers Limited (SANGHVIMOV)": {
+        "code": "SANGHVIMOV"
+    },
+    "Sanginita Chemicals Limited (SANGINITA)": {
+        "code": "SANGINITA"
+    },
+    "Sanofi India Limited (SANOFI)": {
+        "code": "SANOFI"
+    },
+    "Sansera Engineering Limited (SANSERA)": {
+        "code": "SANSERA"
+    },
+    "Sanwaria Consumer Limited (SANWARIA)": {
+        "code": "SANWARIA"
+    },
+    "Sapphire Foods India Limited (SAPPHIRE)": {
+        "code": "SAPPHIRE"
+    },
+    "Sarda Energy & Minerals Limited (SARDAEN)": {
+        "code": "SARDAEN"
+    },
+    "Saregama India Limited (SAREGAMA)": {
+        "code": "SAREGAMA"
+    },
+    "Sarla Performance Fibers Limited (SARLAPOLY)": {
+        "code": "SARLAPOLY"
+    },
+    "Sarveshwar Foods Limited (SARVESHWAR)": {
+        "code": "SARVESHWAR"
+    },
+    "Sasken Technologies Limited (SASKEN)": {
+        "code": "SASKEN"
+    },
+    "Sastasundar Ventures Limited (SASTASUNDR)": {
+        "code": "SASTASUNDR"
+    },
+    "Satia Industries Limited (SATIA)": {
+        "code": "SATIA"
+    },
+    "Satin Creditcare Network Limited (SATIN)": {
+        "code": "SATIN"
+    },
+    "Sat Industries Limited (SATINDLTD)": {
+        "code": "SATINDLTD"
+    },
+    "SBC Exports Limited (SBC)": {
+        "code": "SBC"
+    },
+    "Shivalik Bimetal Controls Limited (SBCL)": {
+        "code": "SBCL"
+    },
+    "Suratwwala Business Group Limited (SBGLP)": {
+        "code": "SBGLP"
+    },
+    "SBI Cards and Payment Services Limited (SBICARD)": {
+        "code": "SBICARD"
+    },
+    "SBI Life Insurance Company Limited (SBILIFE)": {
+        "code": "SBILIFE"
+    },
+    "State Bank of India (SBIN)": {
+        "code": "SBIN"
+    },
+    "Stampede Capital Limited (SCAPDVR)": {
+        "code": "SCAPDVR"
+    },
+    "Schaeffler India Limited (SCHAEFFLER)": {
+        "code": "SCHAEFFLER"
+    },
+    "S Chand And Company Limited (SCHAND)": {
+        "code": "SCHAND"
+    },
+    "Schneider Electric Infrastructure Limited (SCHNEIDER)": {
+        "code": "SCHNEIDER"
+    },
+    "Shipping Corporation Of India Limited (SCI)": {
+        "code": "SCI"
+    },
+    "Sheetal Cool Products Limited (SCPL)": {
+        "code": "SCPL"
+    },
+    "Som Distilleries & Breweries Limited (SDBL)": {
+        "code": "SDBL"
+    },
+    "Seamec Limited (SEAMECLTD)": {
+        "code": "SEAMECLTD"
+    },
+    "SecUR Credentials Limited (SECURCRED)": {
+        "code": "SECURCRED"
+    },
+    "SECUREKLOUD TECHNOLOGIES LIMITED (SECURKLOUD)": {
+        "code": "SECURKLOUD"
+    },
+    "Sejal Glass Limited (SEJALLTD)": {
+        "code": "SEJALLTD"
+    },
+    "Selan Exploration Technology Limited (SELAN)": {
+        "code": "SELAN"
+    },
+    "SEL Manufacturing Company Limited (SELMC)": {
+        "code": "SELMC"
+    },
+    "SEPC Limited (SEPC)": {
+        "code": "SEPC"
+    },
+    "S.E. Power Limited (SEPOWER)": {
+        "code": "SEPOWER"
+    },
+    "Sequent Scientific Limited (SEQUENT)": {
+        "code": "SEQUENT"
+    },
+    "Servotech Power Systems Limited (SERVOTECH)": {
+        "code": "SERVOTECH"
+    },
+    "Seshasayee Paper and Boards Limited (SESHAPAPER)": {
+        "code": "SESHAPAPER"
+    },
+    "Setco Automotive Limited (SETCO)": {
+        "code": "SETCO"
+    },
+    "Setubandhan Infrastructure Limited (SETUINFRA)": {
+        "code": "SETUINFRA"
+    },
+    "Seya Industries Limited (SEYAIND)": {
+        "code": "SEYAIND"
+    },
+    "Sheela Foam Limited (SFL)": {
+        "code": "SFL"
+    },
+    "Synergy Green Industries Limited (SGIL)": {
+        "code": "SGIL"
+    },
+    "STL Global Limited (SGL)": {
+        "code": "SGL"
+    },
+    "Shah Alloys Limited (SHAHALLOYS)": {
+        "code": "SHAHALLOYS"
+    },
+    "Shaily Engineering Plastics Limited (SHAILY)": {
+        "code": "SHAILY"
+    },
+    "Shakti Pumps (India) Limited (SHAKTIPUMP)": {
+        "code": "SHAKTIPUMP"
+    },
+    "Shalby Limited (SHALBY)": {
+        "code": "SHALBY"
+    },
+    "Shalimar Paints Limited (SHALPAINTS)": {
+        "code": "SHALPAINTS"
+    },
+    "Shankara Building Products Limited (SHANKARA)": {
+        "code": "SHANKARA"
+    },
+    "Shanti Overseas (India) Limited (SHANTI)": {
+        "code": "SHANTI"
+    },
+    "Shanthi Gears Limited (SHANTIGEAR)": {
+        "code": "SHANTIGEAR"
+    },
+    "Sharda Cropchem Limited (SHARDACROP)": {
+        "code": "SHARDACROP"
+    },
+    "Sharda Motor Industries Limited (SHARDAMOTR)": {
+        "code": "SHARDAMOTR"
+    },
+    "Share India Securities Limited (SHAREINDIA)": {
+        "code": "SHAREINDIA"
+    },
+    "Shemaroo Entertainment Limited (SHEMAROO)": {
+        "code": "SHEMAROO"
+    },
+    "Shilpa Medicare Limited (SHILPAMED)": {
+        "code": "SHILPAMED"
+    },
+    "Shivalik Rasayan Limited (SHIVALIK)": {
+        "code": "SHIVALIK"
+    },
+    "Shivam Autotech Limited (SHIVAMAUTO)": {
+        "code": "SHIVAMAUTO"
+    },
+    "Shiva Mills Limited (SHIVAMILLS)": {
+        "code": "SHIVAMILLS"
+    },
+    "Shiva Texyarn Limited (SHIVATEX)": {
+        "code": "SHIVATEX"
+    },
+    "S H Kelkar and Company Limited (SHK)": {
+        "code": "SHK"
+    },
+    "Shoppers Stop Limited (SHOPERSTOP)": {
+        "code": "SHOPERSTOP"
+    },
+    "Shradha Infraprojects Limited (SHRADHA)": {
+        "code": "SHRADHA"
+    },
+    "Shree Digvijay Cement Co.Ltd (SHREDIGCEM)": {
+        "code": "SHREDIGCEM"
+    },
+    "SHREE CEMENT LIMITED (SHREECEM)": {
+        "code": "SHREECEM"
+    },
+    "Shree Pushkar Chemicals & Fertilisers Limited (SHREEPUSHK)": {
+        "code": "SHREEPUSHK"
+    },
+    "Shree Rama Multi-Tech Limited (SHREERAMA)": {
+        "code": "SHREERAMA"
+    },
+    "Shrenik Limited (SHRENIK)": {
+        "code": "SHRENIK"
+    },
+    "Shreyans Industries Limited (SHREYANIND)": {
+        "code": "SHREYANIND"
+    },
+    "Shreyas Shipping & Logistics Limited (SHREYAS)": {
+        "code": "SHREYAS"
+    },
+    "Shriram Pistons & Rings Limited (SHRIPISTON)": {
+        "code": "SHRIPISTON"
+    },
+    "Shriram Finance Limited (SHRIRAMFIN)": {
+        "code": "SHRIRAMFIN"
+    },
+    "Shriram Properties Limited (SHRIRAMPPS)": {
+        "code": "SHRIRAMPPS"
+    },
+    "Shyam Century Ferrous Limited (SHYAMCENT)": {
+        "code": "SHYAMCENT"
+    },
+    "Shyam Metalics and Energy Limited (SHYAMMETL)": {
+        "code": "SHYAMMETL"
+    },
+    "Shyam Telecom Limited (SHYAMTEL)": {
+        "code": "SHYAMTEL"
+    },
+    "Siemens Limited (SIEMENS)": {
+        "code": "SIEMENS"
+    },
+    "Sigachi Industries Limited (SIGACHI)": {
+        "code": "SIGACHI"
+    },
+    "Signet Industries Limited (SIGIND)": {
+        "code": "SIGIND"
+    },
+    "Sikko Industries Limited (SIKKO)": {
+        "code": "SIKKO"
+    },
+    "Standard Industries Limited (SIL)": {
+        "code": "SIL"
+    },
+    "Silgo Retail Limited (SILGO)": {
+        "code": "SILGO"
+    },
+    "SIL Investments Limited (SILINV)": {
+        "code": "SILINV"
+    },
+    "Silly Monks Entertainment Limited (SILLYMONKS)": {
+        "code": "SILLYMONKS"
+    },
+    "Silver Touch Technologies Limited (SILVERTUC)": {
+        "code": "SILVERTUC"
+    },
+    "Simbhaoli Sugars Limited (SIMBHALS)": {
+        "code": "SIMBHALS"
+    },
+    "Simplex Infrastructures Limited (SIMPLEXINF)": {
+        "code": "SIMPLEXINF"
+    },
+    "Sintercom India Limited (SINTERCOM)": {
+        "code": "SINTERCOM"
+    },
+    "Sirca Paints India Limited (SIRCA)": {
+        "code": "SIRCA"
+    },
+    "SIS LIMITED (SIS)": {
+        "code": "SIS"
+    },
+    "Siti Networks Limited (SITINET)": {
+        "code": "SITINET"
+    },
+    "Siyaram Silk Mills Limited (SIYSIL)": {
+        "code": "SIYSIL"
+    },
+    "S.J.S. Enterprises Limited (SJS)": {
+        "code": "SJS"
+    },
+    "SJVN Limited (SJVN)": {
+        "code": "SJVN"
+    },
+    "SKF India Limited (SKFINDIA)": {
+        "code": "SKFINDIA"
+    },
+    "Skipper Limited (SKIPPER)": {
+        "code": "SKIPPER"
+    },
+    "SKM Egg Products Export (India) Limited (SKMEGGPROD)": {
+        "code": "SKMEGGPROD"
+    },
+    "Sky Gold Limited (SKYGOLD)": {
+        "code": "SKYGOLD"
+    },
+    "Smartlink Holdings Limited (SMARTLINK)": {
+        "code": "SMARTLINK"
+    },
+    "SMC Global Securities Limited (SMCGLOBAL)": {
+        "code": "SMCGLOBAL"
+    },
+    "SML Isuzu Limited (SMLISUZU)": {
+        "code": "SMLISUZU"
+    },
+    "Sarthak Metals Limited (SMLT)": {
+        "code": "SMLT"
+    },
+    "SMS Lifesciences India Limited (SMSLIFE)": {
+        "code": "SMSLIFE"
+    },
+    "SMS Pharmaceuticals Limited (SMSPHARMA)": {
+        "code": "SMSPHARMA"
+    },
+    "Snowman Logistics Limited (SNOWMAN)": {
+        "code": "SNOWMAN"
+    },
+    "Sobha Limited (SOBHA)": {
+        "code": "SOBHA"
+    },
+    "Softtech Engineers Limited (SOFTTECH)": {
+        "code": "SOFTTECH"
+    },
+    "Solara Active Pharma Sciences Limited (SOLARA)": {
+        "code": "SOLARA"
+    },
+    "Solar Industries India Limited (SOLARINDS)": {
+        "code": "SOLARINDS"
+    },
+    "Somany Ceramics Limited (SOMANYCERA)": {
+        "code": "SOMANYCERA"
+    },
+    "Soma Textiles & Industries Limited (SOMATEX)": {
+        "code": "SOMATEX"
+    },
+    "Somi Conveyor Beltings Limited (SOMICONVEY)": {
+        "code": "SOMICONVEY"
+    },
+    "Sona BLW Precision Forgings Limited (SONACOMS)": {
+        "code": "SONACOMS"
+    },
+    "Sonam Clock Limited (SONAMCLOCK)": {
+        "code": "SONAMCLOCK"
+    },
+    "Sonata Software Limited (SONATSOFTW)": {
+        "code": "SONATSOFTW"
+    },
+    "Savita Oil Technologies Limited (SOTL)": {
+        "code": "SOTL"
+    },
+    "The South Indian Bank Limited (SOUTHBANK)": {
+        "code": "SOUTHBANK"
+    },
+    "South West Pinnacle Exploration Limited (SOUTHWEST)": {
+        "code": "SOUTHWEST"
+    },
+    "S. P. Apparels Limited (SPAL)": {
+        "code": "SPAL"
+    },
+    "Spandana Sphoorty Financial Limited (SPANDANA)": {
+        "code": "SPANDANA"
+    },
+    "Sun Pharma Advanced Research Company Limited (SPARC)": {
+        "code": "SPARC"
+    },
+    "Spacenet Enterprises India Limited (SPCENET)": {
+        "code": "SPCENET"
+    },
+    "Speciality Restaurants Limited (SPECIALITY)": {
+        "code": "SPECIALITY"
+    },
+    "Spencer's Retail Limited (SPENCERS)": {
+        "code": "SPENCERS"
+    },
+    "Spentex Industries Limited (SPENTEX)": {
+        "code": "SPENTEX"
+    },
+    "Southern Petrochemicals Industries Corporation  Limited (SPIC)": {
+        "code": "SPIC"
+    },
+    "SPICEJET LTD (SPICEJET)": {
+        "code": "SPICEJET"
+    },
+    "SPL Industries Limited (SPLIL)": {
+        "code": "SPLIL"
+    },
+    "Supreme Petrochem Limited (SPLPETRO)": {
+        "code": "SPLPETRO"
+    },
+    "SPML Infra Limited (SPMLINFRA)": {
+        "code": "SPMLINFRA"
+    },
+    "Sportking India Limited (SPORTKING)": {
+        "code": "SPORTKING"
+    },
+    "Sintex Plastics Technology Limited (SPTL)": {
+        "code": "SPTL"
+    },
+    "Shekhawati Poly-Yarn Limited (SPYL)": {
+        "code": "SPYL"
+    },
+    "Sreeleathers Limited (SREEL)": {
+        "code": "SREEL"
+    },
+    "SRF Limited (SRF)": {
+        "code": "SRF"
+    },
+    "Sree Rayalaseema Hi-Strength Hypo Limited (SRHHYPOLTD)": {
+        "code": "SRHHYPOLTD"
+    },
+    "Shree Ram Proteins Limited (SRPL)": {
+        "code": "SRPL"
+    },
+    "Steel Strips Wheels Limited (SSWL)": {
+        "code": "SSWL"
+    },
+    "Strides Pharma Science Limited (STAR)": {
+        "code": "STAR"
+    },
+    "Star Cement Limited (STARCEMENT)": {
+        "code": "STARCEMENT"
+    },
+    "Star Health and Allied Insurance Company Limited (STARHEALTH)": {
+        "code": "STARHEALTH"
+    },
+    "Star Paper Mills Limited (STARPAPER)": {
+        "code": "STARPAPER"
+    },
+    "Starteck Finance Limited (STARTECK)": {
+        "code": "STARTECK"
+    },
+    "The State Trading Corporation of India Limited (STCINDIA)": {
+        "code": "STCINDIA"
+    },
+    "Steelcast Limited (STEELCAS)": {
+        "code": "STEELCAS"
+    },
+    "Steel City Securities Limited (STEELCITY)": {
+        "code": "STEELCITY"
+    },
+    "STEEL EXCHANGE INDIA LIMITED (STEELXIND)": {
+        "code": "STEELXIND"
+    },
+    "Stel Holdings Limited (STEL)": {
+        "code": "STEL"
+    },
+    "Sterling Tools Limited (STERTOOLS)": {
+        "code": "STERTOOLS"
+    },
+    "Sterlite Technologies Limited (STLTECH)": {
+        "code": "STLTECH"
+    },
+    "Stove Kraft Limited (STOVEKRAFT)": {
+        "code": "STOVEKRAFT"
+    },
+    "Stylam Industries Limited (STYLAMIND)": {
+        "code": "STYLAMIND"
+    },
+    "Styrenix Performance Materials Limited (STYRENIX)": {
+        "code": "STYRENIX"
+    },
+    "Subex Limited (SUBEXLTD)": {
+        "code": "SUBEXLTD"
+    },
+    "Subros Limited (SUBROS)": {
+        "code": "SUBROS"
+    },
+    "Sudarshan Chemical Industries Limited (SUDARSCHEM)": {
+        "code": "SUDARSCHEM"
+    },
+    "Sukhjit Starch & Chemicals Limited (SUKHJITS)": {
+        "code": "SUKHJITS"
+    },
+    "Sula Vineyards Limited (SULA)": {
+        "code": "SULA"
+    },
+    "Sumeet Industries Limited (SUMEETINDS)": {
+        "code": "SUMEETINDS"
+    },
+    "Sumitomo Chemical India Limited (SUMICHEM)": {
+        "code": "SUMICHEM"
+    },
+    "Sumit Woods Limited (SUMIT)": {
+        "code": "SUMIT"
+    },
+    "Summit Securities Limited (SUMMITSEC)": {
+        "code": "SUMMITSEC"
+    },
+    "Sundaram Clayton Limited (SUNCLAYLTD)": {
+        "code": "SUNCLAYLTD"
+    },
+    "Sundaram Multi Pap Limited (SUNDARAM)": {
+        "code": "SUNDARAM"
+    },
+    "Sundaram Finance Limited (SUNDARMFIN)": {
+        "code": "SUNDARMFIN"
+    },
+    "Sundaram Finance Holdings Limited (SUNDARMHLD)": {
+        "code": "SUNDARMHLD"
+    },
+    "Sundaram Brake Linings Limited (SUNDRMBRAK)": {
+        "code": "SUNDRMBRAK"
+    },
+    "Sundram Fasteners Limited (SUNDRMFAST)": {
+        "code": "SUNDRMFAST"
+    },
+    "Sunflag Iron And Steel Company Limited (SUNFLAG)": {
+        "code": "SUNFLAG"
+    },
+    "Sun Pharmaceutical Industries Limited (SUNPHARMA)": {
+        "code": "SUNPHARMA"
+    },
+    "Sunteck Realty Limited (SUNTECK)": {
+        "code": "SUNTECK"
+    },
+    "Sun TV Network Limited (SUNTV)": {
+        "code": "SUNTV"
+    },
+    "Superhouse Limited (SUPERHOUSE)": {
+        "code": "SUPERHOUSE"
+    },
+    "Super Spinning Mills Limited (SUPERSPIN)": {
+        "code": "SUPERSPIN"
+    },
+    "Suprajit Engineering Limited (SUPRAJIT)": {
+        "code": "SUPRAJIT"
+    },
+    "Supreme Engineering Limited (SUPREMEENG)": {
+        "code": "SUPREMEENG"
+    },
+    "Supreme Industries Limited (SUPREMEIND)": {
+        "code": "SUPREMEIND"
+    },
+    "Supreme Infrastructure India Limited (SUPREMEINF)": {
+        "code": "SUPREMEINF"
+    },
+    "Supriya Lifescience Limited (SUPRIYA)": {
+        "code": "SUPRIYA"
+    },
+    "Surana Solar Limited (SURANASOL)": {
+        "code": "SURANASOL"
+    },
+    "Surana Telecom and Power Limited (SURANAT&P)": {
+        "code": "SURANAT&P"
+    },
+    "Suryalakshmi Cotton Mills Limited (SURYALAXMI)": {
+        "code": "SURYALAXMI"
+    },
+    "Surya Roshni Limited (SURYAROSNI)": {
+        "code": "SURYAROSNI"
+    },
+    "Suryoday Small Finance Bank Limited (SURYODAY)": {
+        "code": "SURYODAY"
+    },
+    "Sutlej Textiles and Industries Limited (SUTLEJTEX)": {
+        "code": "SUTLEJTEX"
+    },
+    "Suumaya Industries Limited (SUULD)": {
+        "code": "SUULD"
+    },
+    "Suven Life Sciences Limited (SUVEN)": {
+        "code": "SUVEN"
+    },
+    "Suven Pharmaceuticals Limited (SUVENPHAR)": {
+        "code": "SUVENPHAR"
+    },
+    "Suvidhaa Infoserve Limited (SUVIDHAA)": {
+        "code": "SUVIDHAA"
+    },
+    "Suzlon Energy Limited (SUZLON)": {
+        "code": "SUZLON"
+    },
+    "SVP GLOBAL TEXTILES LIMITED (SVPGLOB)": {
+        "code": "SVPGLOB"
+    },
+    "Swan Energy Limited (SWANENERGY)": {
+        "code": "SWANENERGY"
+    },
+    "Swaraj Engines Limited (SWARAJENG)": {
+        "code": "SWARAJENG"
+    },
+    "Swelect Energy Systems Limited (SWELECTES)": {
+        "code": "SWELECTES"
+    },
+    "Sterling and Wilson Renewable Energy Limited (SWSOLAR)": {
+        "code": "SWSOLAR"
+    },
+    "Symphony Limited (SYMPHONY)": {
+        "code": "SYMPHONY"
+    },
+    "Syncom Formulations (India) Limited (SYNCOMF)": {
+        "code": "SYNCOMF"
+    },
+    "Syngene International Limited (SYNGENE)": {
+        "code": "SYNGENE"
+    },
+    "Syrma SGS Technology Limited (SYRMA)": {
+        "code": "SYRMA"
+    },
+    "Tainwala Chemical and Plastic (I) Limited (TAINWALCHM)": {
+        "code": "TAINWALCHM"
+    },
+    "Taj GVK Hotels & Resorts Limited (TAJGVK)": {
+        "code": "TAJGVK"
+    },
+    "Take Solutions Limited (TAKE)": {
+        "code": "TAKE"
+    },
+    "Talbros Automotive Components Limited (TALBROAUTO)": {
+        "code": "TALBROAUTO"
+    },
+    "Tanla Platforms Limited (TANLA)": {
+        "code": "TANLA"
+    },
+    "Tantia Constructions Limited (TANTIACONS)": {
+        "code": "TANTIACONS"
+    },
+    "TARC Limited (TARC)": {
+        "code": "TARC"
+    },
+    "Tarmat Limited (TARMAT)": {
+        "code": "TARMAT"
+    },
+    "Tarsons Products Limited (TARSONS)": {
+        "code": "TARSONS"
+    },
+    "Tasty Bite Eatables Limited (TASTYBITE)": {
+        "code": "TASTYBITE"
+    },
+    "Tata Chemicals Limited (TATACHEM)": {
+        "code": "TATACHEM"
+    },
+    "Tata Coffee Limited (TATACOFFEE)": {
+        "code": "TATACOFFEE"
+    },
+    "Tata Communications Limited (TATACOMM)": {
+        "code": "TATACOMM"
+    },
+    "TATA CONSUMER PRODUCTS LIMITED (TATACONSUM)": {
+        "code": "TATACONSUM"
+    },
+    "Tata Elxsi Limited (TATAELXSI)": {
+        "code": "TATAELXSI"
+    },
+    "Tata Investment Corporation Limited (TATAINVEST)": {
+        "code": "TATAINVEST"
+    },
+    "Tata Metaliks Limited (TATAMETALI)": {
+        "code": "TATAMETALI"
+    },
+    "Tata Motors Limited (TATAMOTORS)": {
+        "code": "TATAMOTORS"
+    },
+    "Tata Motors Limited (TATAMTRDVR)": {
+        "code": "TATAMTRDVR"
+    },
+    "Tata Power Company Limited (TATAPOWER)": {
+        "code": "TATAPOWER"
+    },
+    "Tata Steel Limited (TATASTEEL)": {
+        "code": "TATASTEEL"
+    },
+    "Tata Steel Long Products Limited (TATASTLLP)": {
+        "code": "TATASTLLP"
+    },
+    "Tatva Chintan Pharma Chem Limited (TATVA)": {
+        "code": "TATVA"
+    },
+    "Tribhovandas Bhimji Zaveri Limited (TBZ)": {
+        "code": "TBZ"
+    },
+    "Transport Corporation of India Limited (TCI)": {
+        "code": "TCI"
+    },
+    "TCI Express Limited (TCIEXP)": {
+        "code": "TCIEXP"
+    },
+    "TCNS Clothing Co. Limited (TCNSBRANDS)": {
+        "code": "TCNSBRANDS"
+    },
+    "TCPL Packaging Limited (TCPLPACK)": {
+        "code": "TCPLPACK"
+    },
+    "Tata Consultancy Services Limited (TCS)": {
+        "code": "TCS"
+    },
+    "TD Power Systems Limited (TDPOWERSYS)": {
+        "code": "TDPOWERSYS"
+    },
+    "Teamlease Services Limited (TEAMLEASE)": {
+        "code": "TEAMLEASE"
+    },
+    "Techindia Nirman Limited (TECHIN)": {
+        "code": "TECHIN"
+    },
+    "Tech Mahindra Limited (TECHM)": {
+        "code": "TECHM"
+    },
+    "Techno Electric & Engineering Company Limited (TECHNOE)": {
+        "code": "TECHNOE"
+    },
+    "Tega Industries Limited (TEGA)": {
+        "code": "TEGA"
+    },
+    "Tejas Networks Limited (TEJASNET)": {
+        "code": "TEJASNET"
+    },
+    "Tembo Global Industries Limited (TEMBO)": {
+        "code": "TEMBO"
+    },
+    "Tera Software Limited (TERASOFT)": {
+        "code": "TERASOFT"
+    },
+    "Texmaco Infrastructure & Holdings Limited (TEXINFRA)": {
+        "code": "TEXINFRA"
+    },
+    "Texmo Pipes and Products Limited (TEXMOPIPES)": {
+        "code": "TEXMOPIPES"
+    },
+    "Texmaco Rail & Engineering Limited (TEXRAIL)": {
+        "code": "TEXRAIL"
+    },
+    "Tourism Finance Corporation of India Limited (TFCILTD)": {
+        "code": "TFCILTD"
+    },
+    "Transwarranty Finance Limited (TFL)": {
+        "code": "TFL"
+    },
+    "TGB Banquets And Hotels Limited (TGBHOTELS)": {
+        "code": "TGBHOTELS"
+    },
+    "Thangamayil Jewellery Limited (THANGAMAYL)": {
+        "code": "THANGAMAYL"
+    },
+    "The Investment Trust Of India Limited (THEINVEST)": {
+        "code": "THEINVEST"
+    },
+    "Themis Medicare Limited (THEMISMED)": {
+        "code": "THEMISMED"
+    },
+    "Thermax Limited (THERMAX)": {
+        "code": "THERMAX"
+    },
+    "Thomas Cook  (India)  Limited (THOMASCOOK)": {
+        "code": "THOMASCOOK"
+    },
+    "Thomas Scott (India) Limited (THOMASCOTT)": {
+        "code": "THOMASCOTT"
+    },
+    "Thyrocare Technologies Limited (THYROCARE)": {
+        "code": "THYROCARE"
+    },
+    "Tilaknagar Industries Limited (TI)": {
+        "code": "TI"
+    },
+    "Tide Water Oil Company (India) Limited (TIDEWATER)": {
+        "code": "TIDEWATER"
+    },
+    "Technocraft Industries (India) Limited (TIIL)": {
+        "code": "TIIL"
+    },
+    "Tube Investments of India Limited (TIINDIA)": {
+        "code": "TIINDIA"
+    },
+    "Tijaria Polypipes Limited (TIJARIA)": {
+        "code": "TIJARIA"
+    },
+    "TIL Limited (TIL)": {
+        "code": "TIL"
+    },
+    "Times Guaranty Limited (TIMESGTY)": {
+        "code": "TIMESGTY"
+    },
+    "Time Technoplast Limited (TIMETECHNO)": {
+        "code": "TIMETECHNO"
+    },
+    "Timken India Limited (TIMKEN)": {
+        "code": "TIMKEN"
+    },
+    "The Tinplate Company of India Limited (TINPLATE)": {
+        "code": "TINPLATE"
+    },
+    "Tips Films Limited (TIPSFILMS)": {
+        "code": "TIPSFILMS"
+    },
+    "TIPS Industries Limited (TIPSINDLTD)": {
+        "code": "TIPSINDLTD"
+    },
+    "Thirumalai Chemicals Limited (TIRUMALCHM)": {
+        "code": "TIRUMALCHM"
+    },
+    "Tirupati Forge Limited (TIRUPATIFL)": {
+        "code": "TIRUPATIFL"
+    },
+    "Titan Company Limited (TITAN)": {
+        "code": "TITAN"
+    },
+    "Tamilnad Mercantile Bank Limited (TMB)": {
+        "code": "TMB"
+    },
+    "Tamilnadu PetroProducts Limited (TNPETRO)": {
+        "code": "TNPETRO"
+    },
+    "Tamil Nadu Newsprint & Papers Limited (TNPL)": {
+        "code": "TNPL"
+    },
+    "Tamilnadu Telecommunication Limited (TNTELE)": {
+        "code": "TNTELE"
+    },
+    "Tokyo Plast International Limited (TOKYOPLAST)": {
+        "code": "TOKYOPLAST"
+    },
+    "Torrent Pharmaceuticals Limited (TORNTPHARM)": {
+        "code": "TORNTPHARM"
+    },
+    "Torrent Power Limited (TORNTPOWER)": {
+        "code": "TORNTPOWER"
+    },
+    "Total Transport Systems Limited (TOTAL)": {
+        "code": "TOTAL"
+    },
+    "Touchwood Entertainment Limited (TOUCHWOOD)": {
+        "code": "TOUCHWOOD"
+    },
+    "TPL Plastech Limited (TPLPLASTEH)": {
+        "code": "TPLPLASTEH"
+    },
+    "Tracxn Technologies Limited (TRACXN)": {
+        "code": "TRACXN"
+    },
+    "Tree House Education & Accessories Limited (TREEHOUSE)": {
+        "code": "TREEHOUSE"
+    },
+    "TREJHARA SOLUTIONS LIMITED (TREJHARA)": {
+        "code": "TREJHARA"
+    },
+    "Trent Limited (TRENT)": {
+        "code": "TRENT"
+    },
+    "TRF Limited (TRF)": {
+        "code": "TRF"
+    },
+    "Trident Limited (TRIDENT)": {
+        "code": "TRIDENT"
+    },
+    "Trigyn Technologies Limited (TRIGYN)": {
+        "code": "TRIGYN"
+    },
+    "Transformers And Rectifiers (India) Limited (TRIL)": {
+        "code": "TRIL"
+    },
+    "Triveni Turbine Limited (TRITURBINE)": {
+        "code": "TRITURBINE"
+    },
+    "Triveni Engineering & Industries Limited (TRIVENI)": {
+        "code": "TRIVENI"
+    },
+    "TruCap Finance Limited (TRU)": {
+        "code": "TRU"
+    },
+    "TTK Healthcare Limited (TTKHLTCARE)": {
+        "code": "TTKHLTCARE"
+    },
+    "TTK Prestige Limited (TTKPRESTIG)": {
+        "code": "TTKPRESTIG"
+    },
+    "T T Limited (TTL)": {
+        "code": "TTL"
+    },
+    "Tata Teleservices (Maharashtra) Limited (TTML)": {
+        "code": "TTML"
+    },
+    "TV18 Broadcast Limited (TV18BRDCST)": {
+        "code": "TV18BRDCST"
+    },
+    "TVS Electronics Limited (TVSELECT)": {
+        "code": "TVSELECT"
+    },
+    "TVS Motor Company Limited (TVSMOTOR)": {
+        "code": "TVSMOTOR"
+    },
+    "TVS Srichakra Limited (TVSSRICHAK)": {
+        "code": "TVSSRICHAK"
+    },
+    "TV Today Network Limited (TVTODAY)": {
+        "code": "TVTODAY"
+    },
+    "TV Vision Limited (TVVISION)": {
+        "code": "TVVISION"
+    },
+    "Titagarh Wagons Limited (TWL)": {
+        "code": "TWL"
+    },
+    "United Breweries Limited (UBL)": {
+        "code": "UBL"
+    },
+    "Ucal Fuel Systems Limited (UCALFUEL)": {
+        "code": "UCALFUEL"
+    },
+    "UCO Bank (UCOBANK)": {
+        "code": "UCOBANK"
+    },
+    "Udaipur Cement Works Limited (UDAICEMENT)": {
+        "code": "UDAICEMENT"
+    },
+    "UFLEX Limited (UFLEX)": {
+        "code": "UFLEX"
+    },
+    "UFO Moviez India Limited (UFO)": {
+        "code": "UFO"
+    },
+    "The Ugar Sugar Works Limited (UGARSUGAR)": {
+        "code": "UGARSUGAR"
+    },
+    "Ugro Capital Limited (UGROCAP)": {
+        "code": "UGROCAP"
+    },
+    "Ujaas Energy Limited (UJAAS)": {
+        "code": "UJAAS"
+    },
+    "Ujjivan Financial Services Limited (UJJIVAN)": {
+        "code": "UJJIVAN"
+    },
+    "Ujjivan Small Finance Bank Limited (UJJIVANSFB)": {
+        "code": "UJJIVANSFB"
+    },
+    "UltraTech Cement Limited (ULTRACEMCO)": {
+        "code": "ULTRACEMCO"
+    },
+    "Uma Exports Limited (UMAEXPORTS)": {
+        "code": "UMAEXPORTS"
+    },
+    "Umang Dairies Limited (UMANGDAIRY)": {
+        "code": "UMANGDAIRY"
+    },
+    "Usha Martin Education & Solutions Limited (UMESLTD)": {
+        "code": "UMESLTD"
+    },
+    "Unichem Laboratories Limited (UNICHEMLAB)": {
+        "code": "UNICHEMLAB"
+    },
+    "United Drilling Tools Limited (UNIDT)": {
+        "code": "UNIDT"
+    },
+    "Uniphos Enterprises Limited (UNIENTER)": {
+        "code": "UNIENTER"
+    },
+    "Uniinfo Telecom Services Limited (UNIINFO)": {
+        "code": "UNIINFO"
+    },
+    "Union Bank of India (UNIONBANK)": {
+        "code": "UNIONBANK"
+    },
+    "Uniparts India Limited (UNIPARTS)": {
+        "code": "UNIPARTS"
+    },
+    "Unitech Limited (UNITECH)": {
+        "code": "UNITECH"
+    },
+    "United Polyfab Gujarat Limited (UNITEDPOLY)": {
+        "code": "UNITEDPOLY"
+    },
+    "The United Nilgiri Tea Estates Company Limited (UNITEDTEA)": {
+        "code": "UNITEDTEA"
+    },
+    "Univastu India Limited (UNIVASTU)": {
+        "code": "UNIVASTU"
+    },
+    "Universal Cables Limited (UNIVCABLES)": {
+        "code": "UNIVCABLES"
+    },
+    "Universus Photo Imagings Limited (UNIVPHOTO)": {
+        "code": "UNIVPHOTO"
+    },
+    "UNO Minda Limited (UNOMINDA)": {
+        "code": "UNOMINDA"
+    },
+    "UPL Limited (UPL)": {
+        "code": "UPL"
+    },
+    "Urja Global Limited (URJA)": {
+        "code": "URJA"
+    },
+    "Usha Martin Limited (USHAMART)": {
+        "code": "USHAMART"
+    },
+    "UTI Asset Management Company Limited (UTIAMC)": {
+        "code": "UTIAMC"
+    },
+    "Uttam Sugar Mills Limited (UTTAMSUGAR)": {
+        "code": "UTTAMSUGAR"
+    },
+    "V2 Retail Limited (V2RETAIL)": {
+        "code": "V2RETAIL"
+    },
+    "Vadilal Industries Limited (VADILALIND)": {
+        "code": "VADILALIND"
+    },
+    "Vaibhav Global Limited (VAIBHAVGBL)": {
+        "code": "VAIBHAVGBL"
+    },
+    "Vaishali Pharma Limited (VAISHALI)": {
+        "code": "VAISHALI"
+    },
+    "Vakrangee Limited (VAKRANGEE)": {
+        "code": "VAKRANGEE"
+    },
+    "Valiant Organics Limited (VALIANTORG)": {
+        "code": "VALIANTORG"
+    },
+    "Vardhman Acrylics Limited (VARDHACRLC)": {
+        "code": "VARDHACRLC"
+    },
+    "Vardhman Polytex Limited (VARDMNPOLY)": {
+        "code": "VARDMNPOLY"
+    },
+    "Varroc Engineering Limited (VARROC)": {
+        "code": "VARROC"
+    },
+    "Vascon Engineers Limited (VASCONEQ)": {
+        "code": "VASCONEQ"
+    },
+    "Vaswani Industries Limited (VASWANI)": {
+        "code": "VASWANI"
+    },
+    "Varun Beverages Limited (VBL)": {
+        "code": "VBL"
+    },
+    "Vaxtex Cotfab Limited (VCL)": {
+        "code": "VCL"
+    },
+    "Vedanta Limited (VEDL)": {
+        "code": "VEDL"
+    },
+    "Venky's (India) Limited (VENKEYS)": {
+        "code": "VENKEYS"
+    },
+    "Venus Pipes & Tubes Limited (VENUSPIPES)": {
+        "code": "VENUSPIPES"
+    },
+    "Venus Remedies Limited (VENUSREM)": {
+        "code": "VENUSREM"
+    },
+    "Veranda Learning Solutions Limited (VERANDA)": {
+        "code": "VERANDA"
+    },
+    "Vertoz Advertising Limited (VERTOZ)": {
+        "code": "VERTOZ"
+    },
+    "Vesuvius India Limited (VESUVIUS)": {
+        "code": "VESUVIUS"
+    },
+    "Veto Switchgears And Cables Limited (VETO)": {
+        "code": "VETO"
+    },
+    "V-Guard Industries Limited (VGUARD)": {
+        "code": "VGUARD"
+    },
+    "Vardhman Holdings Limited (VHL)": {
+        "code": "VHL"
+    },
+    "Vidhi Specialty Food Ingredients Limited (VIDHIING)": {
+        "code": "VIDHIING"
+    },
+    "Vijaya Diagnostic Centre Limited (VIJAYA)": {
+        "code": "VIJAYA"
+    },
+    "Viji Finance Limited (VIJIFIN)": {
+        "code": "VIJIFIN"
+    },
+    "Vikas EcoTech Limited (VIKASECO)": {
+        "code": "VIKASECO"
+    },
+    "Vikas Lifecare Limited (VIKASLIFE)": {
+        "code": "VIKASLIFE"
+    },
+    "Vikas WSP Limited (VIKASWSP)": {
+        "code": "VIKASWSP"
+    },
+    "Vimta Labs Limited (VIMTALABS)": {
+        "code": "VIMTALABS"
+    },
+    "Vinati Organics Limited (VINATIORGA)": {
+        "code": "VINATIORGA"
+    },
+    "Vindhya Telelinks Limited (VINDHYATEL)": {
+        "code": "VINDHYATEL"
+    },
+    "Vineet Laboratories Limited (VINEETLAB)": {
+        "code": "VINEETLAB"
+    },
+    "Vinny Overseas Limited (VINNY)": {
+        "code": "VINNY"
+    },
+    "Vinyl Chemicals (India) Limited (VINYLINDIA)": {
+        "code": "VINYLINDIA"
+    },
+    "VIP Clothing Limited (VIPCLOTHNG)": {
+        "code": "VIPCLOTHNG"
+    },
+    "VIP Industries Limited (VIPIND)": {
+        "code": "VIPIND"
+    },
+    "Vipul Limited (VIPULLTD)": {
+        "code": "VIPULLTD"
+    },
+    "Visaka Industries Limited (VISAKAIND)": {
+        "code": "VISAKAIND"
+    },
+    "Visa Steel Limited (VISASTEEL)": {
+        "code": "VISASTEEL"
+    },
+    "Visesh Infotecnics Limited (VISESHINFO)": {
+        "code": "VISESHINFO"
+    },
+    "Vishal Fabrics Limited (VISHAL)": {
+        "code": "VISHAL"
+    },
+    "Vishnu Chemicals Limited (VISHNU)": {
+        "code": "VISHNU"
+    },
+    "Vishwaraj Sugar Industries Limited (VISHWARAJ)": {
+        "code": "VISHWARAJ"
+    },
+    "Visagar Polytex Limited (VIVIDHA)": {
+        "code": "VIVIDHA"
+    },
+    "VLS Finance Limited (VLSFINANCE)": {
+        "code": "VLSFINANCE"
+    },
+    "V-Mart Retail Limited (VMART)": {
+        "code": "VMART"
+    },
+    "Voltamp Transformers Limited (VOLTAMP)": {
+        "code": "VOLTAMP"
+    },
+    "Voltas Limited (VOLTAS)": {
+        "code": "VOLTAS"
+    },
+    "VRL Logistics Limited (VRLLOG)": {
+        "code": "VRLLOG"
+    },
+    "Vardhman Special Steels Limited (VSSL)": {
+        "code": "VSSL"
+    },
+    "VST Industries Limited (VSTIND)": {
+        "code": "VSTIND"
+    },
+    "V.S.T Tillers Tractors Limited (VSTTILLERS)": {
+        "code": "VSTTILLERS"
+    },
+    "Vardhman Textiles Limited (VTL)": {
+        "code": "VTL"
+    },
+    "VA Tech Wabag Limited (WABAG)": {
+        "code": "WABAG"
+    },
+    "Walchandnagar Industries Limited (WALCHANNAG)": {
+        "code": "WALCHANNAG"
+    },
+    "Wanbury Limited (WANBURY)": {
+        "code": "WANBURY"
+    },
+    "Waterbase Limited (WATERBASE)": {
+        "code": "WATERBASE"
+    },
+    "Wealth First Portfolio Managers Limited (WEALTH)": {
+        "code": "WEALTH"
+    },
+    "Websol Energy System Limited (WEBELSOLAR)": {
+        "code": "WEBELSOLAR"
+    },
+    "Weizmann Limited (WEIZMANIND)": {
+        "code": "WEIZMANIND"
+    },
+    "Wonder Electricals Limited (WEL)": {
+        "code": "WEL"
+    },
+    "Welspun Corp Limited (WELCORP)": {
+        "code": "WELCORP"
+    },
+    "Welspun Enterprises Limited (WELENT)": {
+        "code": "WELENT"
+    },
+    "Welspun Investments and Commercials Limited (WELINV)": {
+        "code": "WELINV"
+    },
+    "Welspun India Limited (WELSPUNIND)": {
+        "code": "WELSPUNIND"
+    },
+    "Wendt (India) Limited (WENDT)": {
+        "code": "WENDT"
+    },
+    "WESTLIFE FOODWORLD LIMITED (WESTLIFE)": {
+        "code": "WESTLIFE"
+    },
+    "WE WIN LIMITED (WEWIN)": {
+        "code": "WEWIN"
+    },
+    "Wheels India Limited (WHEELS)": {
+        "code": "WHEELS"
+    },
+    "Whirlpool of India Limited (WHIRLPOOL)": {
+        "code": "WHIRLPOOL"
+    },
+    "Williamson Magor & Company Limited (WILLAMAGOR)": {
+        "code": "WILLAMAGOR"
+    },
+    "Windlas Biotech Limited (WINDLAS)": {
+        "code": "WINDLAS"
+    },
+    "Windsor Machines Limited (WINDMACHIN)": {
+        "code": "WINDMACHIN"
+    },
+    "WinPro Industries Limited (WINPRO)": {
+        "code": "WINPRO"
+    },
+    "The Western India Plywoods Limited (WIPL)": {
+        "code": "WIPL"
+    },
+    "Wipro Limited (WIPRO)": {
+        "code": "WIPRO"
+    },
+    "Wockhardt Limited (WOCKPHARMA)": {
+        "code": "WOCKPHARMA"
+    },
+    "Wonderla Holidays Limited (WONDERLA)": {
+        "code": "WONDERLA"
+    },
+    "Worth Peripherals Limited (WORTH)": {
+        "code": "WORTH"
+    },
+    "W S Industries (I) Limited (WSI)": {
+        "code": "WSI"
+    },
+    "West Coast Paper Mills Limited (WSTCSTPAPR)": {
+        "code": "WSTCSTPAPR"
+    },
+    "Xchanging Solutions Limited (XCHANGING)": {
+        "code": "XCHANGING"
+    },
+    "Xelpmoc Design And Tech Limited (XELPMOC)": {
+        "code": "XELPMOC"
+    },
+    "Xpro India Limited (XPROINDIA)": {
+        "code": "XPROINDIA"
+    },
+    "Yaari Digital Integrated Services Limited (YAARI)": {
+        "code": "YAARI"
+    },
+    "Yes Bank Limited (YESBANK)": {
+        "code": "YESBANK"
+    },
+    "Yuken India Limited (YUKEN)": {
+        "code": "YUKEN"
+    },
+    "Zee Entertainment Enterprises Limited (ZEEL)": {
+        "code": "ZEEL"
+    },
+    "Zee Learn Limited (ZEELEARN)": {
+        "code": "ZEELEARN"
+    },
+    "Zee Media Corporation Limited (ZEEMEDIA)": {
+        "code": "ZEEMEDIA"
+    },
+    "Zenith Exports Limited (ZENITHEXPO)": {
+        "code": "ZENITHEXPO"
+    },
+    "Zenith Steel Pipes & Industries Limited (ZENITHSTL)": {
+        "code": "ZENITHSTL"
+    },
+    "Zensar Technologies Limited (ZENSARTECH)": {
+        "code": "ZENSARTECH"
+    },
+    "Zen Technologies Limited (ZENTEC)": {
+        "code": "ZENTEC"
+    },
+    "ZF Commercial Vehicle Control Systems India Limited (ZFCVINDIA)": {
+        "code": "ZFCVINDIA"
+    },
+    "Zim Laboratories Limited (ZIMLAB)": {
+        "code": "ZIMLAB"
+    },
+    "Zodiac Energy Limited (ZODIAC)": {
+        "code": "ZODIAC"
+    },
+    "Zodiac Clothing Company Limited (ZODIACLOTH)": {
+        "code": "ZODIACLOTH"
+    },
+    "Zomato Limited (ZOMATO)": {
+        "code": "ZOMATO"
+    },
+    "Zota Health Care LImited (ZOTA)": {
+        "code": "ZOTA"
+    },
+    "Zuari Agro Chemicals Limited (ZUARI)": {
+        "code": "ZUARI"
+    },
+    "ZUARI INDUSTRIES LIMITED (ZUARIIND)": {
+        "code": "ZUARIIND"
+    },
+    "Zydus Lifesciences Limited (ZYDUSLIFE)": {
+        "code": "ZYDUSLIFE"
+    },
+    "Zydus Wellness Limited (ZYDUSWELL)": {
+        "code": "ZYDUSWELL"
+    }
+}

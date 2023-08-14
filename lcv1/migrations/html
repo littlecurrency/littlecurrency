@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+{% load static %}
+{% load custom_filters %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stock Search</title>
+    <script>
+        const stockListJSONURL = "{% static 'data/stock_list.json' %}";
+    </script>
+</head>
+<body>
+    <h1>Stock Search</h1>
+    <form method="GET" action="{% url 'search_page' %}">
+        <input type="text" id="searchInput" name="search_query" placeholder="Search..." value="{{ search_query }}">
+        <button type="submit" id="searchButton">Search</button>
+    </form>
+
+    <div id="suggestions"></div>
+
+    {% if ns_stock_data %}
+    <div class="result-container">
+        <h2 class="stock-data-title">{{ ns_stock_data.longName }} - NSE </h2>
+        <div class="stock-data-info">
+            <p><strong>Symbol:</strong> {{ ns_stock_data.symbol }}</p>
+            <p><strong>Market Cap:</strong> {{ ns_stock_data.marketCap|human_readable_number }}</p>
+            <p><strong>Previous Close NSE:</strong> {{ ns_stock_data.regularMarketPreviousClose|human_readable_number }}</p>
+            <p><strong>52Week_low:</strong> {{  ns_stock_data.fiftyTwoWeekLow|human_readable_number }}</p>
+            <p><strong>52Week_high:</strong> {{  ns_stock_data.fiftyTwoWeekHigh|human_readable_number }}</p>
+            <p><strong>revenueGrowth:</strong> {{  ns_stock_data.revenueGrowth|human_readable_number }}</p>
+            <p><strong>revenuePerShare:</strong> {{  ns_stock_data.revenuePerShare|human_readable_number }}</p>
+            <p><strong>debtToEquity:</strong> {{  ns_stock_data.debtToEquity|human_readable_number }}</p>
+            <p><strong>bookValue:</strong> {{  ns_stock_data.bookValue|human_readable_number }}</p>
+            <p><strong>totalDebt:</strong> {{  ns_stock_data.totalDebt|human_readable_number }}</p>
+            <p><strong>industry:</strong> {{  ns_stock_data.industry }}</p>
+            <p><strong>regularMarketVolume:</strong> {{  ns_stock_data.regularMarketVolume|human_readable_number }}</p>
+            <p><strong>averageVolume10days:</strong> {{  ns_stock_data.averageVolume10days|human_readable_number }}</p>
+
+
+
+            <!-- Add other stock data fields here -->
+        </div>
+    </div>
+    {% endif %}
+
+    {% if bo_stock_data %}
+    <div class="result-container">
+        <h2 class="stock-data-title">{{ bo_stock_data.longName }} - BSE </h2>
+        <div class="stock-data-info">
+            <p><strong>Market Cap:</strong> {{ bo_stock_data.marketCap|human_readable_number }}</p>
+            <p><strong>Previous Close boE:</strong> {{ bo_stock_data.regularMarketPreviousClose|human_readable_number }}</p>
+            <p><strong>52Week_low:</strong> {{  bo_stock_data.fiftyTwoWeekLow|human_readable_number }}</p>
+            <p><strong>52Week_high:</strong> {{  bo_stock_data.fiftyTwoWeekHigh|human_readable_number }}</p>
+            <p><strong>revenueGrowth:</strong> {{  bo_stock_data.revenueGrowth|human_readable_number }}</p>
+            <p><strong>revenuePerShare:</strong> {{  bo_stock_data.revenuePerShare|human_readable_number }}</p>
+            <p><strong>debtToEquity:</strong> {{  bo_stock_data.debtToEquity|human_readable_number }}</p>
+            <p><strong>bookValue:</strong> {{  bo_stock_data.bookValue|human_readable_number }}</p>
+            <p><strong>totalDebt:</strong> {{  bo_stock_data.totalDebt|human_readable_number }}</p>
+            <p><strong>industry:</strong> {{  bo_stock_data.industry }}</p>
+            <p><strong>regularMarketVolume:</strong> {{  bo_stock_data.regularMarketVolume|human_readable_number }}</p>
+            <p><strong>averageVolume10days:</strong> {{  bo_stock_data.averageVolume10days|human_readable_number }}</p>
+            <!-- Add other stock data fields here -->
+        </div>
+    </div>
+    {% endif %}
+
+    <script src="{% static 'js/search.js' %}"></script>
+</body>
+</html>

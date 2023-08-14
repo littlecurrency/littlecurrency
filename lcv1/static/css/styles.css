@@ -1,0 +1,178 @@
+#header-left a {
+    text-decoration: none;
+    color: white;
+}
+
+@keyframes textBlink {
+    0% { color: #6528F7; } /* Initial color */
+    50% { color: #FF5733; } /* Midway color change */
+    100% { color: #7C4DFF; } /* Final color */
+}
+
+
+#header-left a:hover {
+    animation: textBlink 1s infinite; /* Apply the animation on hover */
+}
+
+
+body {
+    background-color: #0B666A;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px; /* Adjust the margin-top value as needed */
+}
+
+/* Header Styles */
+#header {
+    background-color: #071952;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    margin-bottom: 20px;
+}
+
+#header-left h2 {
+    color: white;
+    font-size: 24px;
+}
+
+#header-center {
+    text-align: center;
+    color: white;
+    flex-grow: 1;
+}
+
+#header-right button {
+    background-color: #6528F7;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+/* Search Box Styles */
+#searchBox {
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 0;
+}
+
+#searchInput {
+    padding: 10px;
+    width: 80%; /* Adjust the width as needed */
+    max-width: 400px; /* Set a maximum width */
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+#searchButton {
+    background-color: #071952;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+#suggestions-container {
+    position: relative;
+    text-align: center;
+}
+
+#suggestions {
+    position: absolute;
+    width: 100%; /* Adjust the width to match the search input */
+    top: calc(100% + 5px);
+    left: 0;
+    max-height: 200px;
+    overflow-y: auto;
+    background-color: #0B666A; /* Use the body background color */
+    border: 1px solid #ccc;
+    border-top: none;
+    border-radius: 0 0 8px 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    z-index: 1;
+    color: #181D31;
+}
+
+.suggestion-row {
+    padding: 10px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.suggestion-row:hover {
+    background-color: #f0f0f0; /* Change the background color on hover */
+}
+
+.suggestion-row.selected {
+    background-color: #f0f0f0; /* Change background color for selected suggestion */
+    color: white; /* Change text color for selected suggestion */
+}
+
+
+/* Results Table Styles */
+.result-container {
+        background-color: #35A29F;
+        margin-top: 20px;
+        padding: 20px; /* Added padding for space */
+        border-radius: 8px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+.stock-data-title {
+        font-size: 24px;
+        color: #071952;
+        margin-bottom: 10px;
+    }
+
+.stock-data-info {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 20px;
+        width: 100%; /* Cover entire screen width */
+    }
+
+/* Centered Text */
+.center-text {
+    text-align: center;
+}
+
+/* Additional Styling for Stock Values */
+.stock-values1 {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.stock-values {
+        background-color: #C4E1C5;
+        border: 1px solid #ccc;
+        padding: 10px;
+        border-radius: 8px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+
+stock-values p {
+        margin: 5px 0;
+    }
+
+.stock-key {
+    font-weight: bold;
+    color: white;
+    font-color: 000000;
+}
+
+.stock-value {
+    color: white; /* Different color for values */
+    font-color: white;
+}
+

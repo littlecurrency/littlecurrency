@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+{% load static %}
+{% load custom_filters %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>littlecurrency.com</title>
+    <script>
+        const stockListJSONURL = "{% static 'data/stock_list.json' %}";
+    </script>
+    <link rel="stylesheet" type="text/css" href="{% static 'css/styles.css' %}">
+
+</head>
+<body>
+     <div id="header">
+        <div id="header-left">
+          <h2><a href="{% url 'search_page' %}">LittleCurrency</a></h2>
+        </div>
+         <div id="header-center">
+            <div class="stock-values1 ">
+                <span class="stock-key">Nifty 50:</span>
+                <span class="stock-value">{{ current_nifty_value|floatformat:1 }}</span>
+            </div>
+            <div class="stock-values1">
+                <span class="stock-key">Bank Nifty:</span>
+                <span class="stock-value">{{ current_banknifty_value|floatformat:1 }}</span>
+            </div>
+            <div class="stock-values1">
+                <span class="stock-key">Sensex:</span>
+                <span class="stock-value">{{ current_sensex_value|floatformat:1 }}</span>
+            </div>
+         </div>
+
+        <div id="header-right">
+            <button>Login</button>
+            <button>Register</button>
+        </div>
+    </div>
+    <div id="searchBox">
+        <form method="GET" action="{% url 'search_page' %}">
+            <input type="text" id="searchInput" name="search_query" placeholder="Search..." value="{{ search_query }}" autocomplete="off">
+            <button type="submit" id="searchButton">Search</button>
+        </form>
+    </div>
+    <div id="suggestions-container">
+
+        <div id="suggestions"></div>
+    </div>
+
+    {% if ns_stock_data %}
+     <div class="result-container">
+         <div class="center-text">
+            <h2 class="stock-data-title">{{ ns_stock_data.longName }} - NSE </h2>
+         </div>
+        <div class="stock-data-info">
+             <div class="stock-values">
+                <p><strong>Symbol:</strong> {{ ns_stock_data.symbol }}</p>
+                <p><strong>Previous Close NSE:</strong> {{ ns_stock_data.regularMarketPreviousClose|human_readable_number }}</p>
+                <p><strong>52Week_low:</strong> {{  ns_stock_data.fiftyTwoWeekLow|human_readable_number }}</p>
+                <p><strong>52Week_high:</strong> {{  ns_stock_data.fiftyTwoWeekHigh|human_readable_number }}</p>
+             </div>
+             <div class="stock-values">
+                <p><strong>Market Cap:</strong> {{ ns_stock_data.marketCap|human_readable_number }}</p>
+                <p><strong>RevenueGrowth:</strong> {{  ns_stock_data.revenueGrowth|human_readable_number }}</p>
+                <p><strong>DebtToEquity:</strong> {{  ns_stock_data.debtToEquity|human_readable_number }}</p>
+                <p><strong>BookValue:</strong> {{  ns_stock_data.bookValue|human_readable_number }}</p>
+             </div>
+             <div class="stock-values">
+                <p><strong>TotalDebt:</strong> {{  ns_stock_data.totalDebt|human_readable_number }}</p>
+                <p><strong>Industry:</strong> {{  ns_stock_data.industry }}</p>
+                <p><strong>RegularMarketVolume:</strong> {{  ns_stock_data.regularMarketVolume|human_readable_number }}</p>
+                <p><strong>AverageVolume10days:</strong> {{  ns_stock_data.averageVolume10days|human_readable_number }}</p>
+             </div><!-- Add other stock data fields here -->
+        </div>
+    </div>
+    {% endif %}
+
+     {% if bo_stock_data %}
+     <div class="result-container" >
+         <div class="center-text">
+            <h2 class="stock-data-title">{{ bo_stock_data.longName }} - BSE </h2>
+         </div>
+        <div class="stock-data-info">
+             <div class="stock-values">
+                <p><strong>Symbol:</strong> {{ bo_stock_data.symbol }}</p>
+                <p><strong>Previous Close boE:</strong> {{ bo_stock_data.regularMarketPreviousClose|human_readable_number }}</p>
+                <p><strong>52Week_low:</strong> {{  bo_stock_data.fiftyTwoWeekLow|human_readable_number }}</p>
+                <p><strong>52Week_high:</strong> {{  bo_stock_data.fiftyTwoWeekHigh|human_readable_number }}</p>
+             </div>
+             <div class="stock-values">
+                <p><strong>Market Cap:</strong> {{ bo_stock_data.marketCap|human_readable_number }}</p>
+                <p><strong>RevenueGrowth:</strong> {{  bo_stock_data.revenueGrowth|human_readable_number }}</p>
+                <p><strong>DebtToEquity:</strong> {{  bo_stock_data.debtToEquity|human_readable_number }}</p>
+                <p><strong>BookValue:</strong> {{  bo_stock_data.bookValue|human_readable_number }}</p>
+             </div>
+             <div class="stock-values">
+                <p><strong>TotalDebt:</strong> {{  bo_stock_data.totalDebt|human_readable_number }}</p>
+                <p><strong>Industry:</strong> {{  bo_stock_data.industry }}</p>
+                <p><strong>RegularMarketVolume:</strong> {{  bo_stock_data.regularMarketVolume|human_readable_number }}</p>
+                <p><strong>AverageVolume10days:</strong> {{  bo_stock_data.averageVolume10days|human_readable_number }}</p>
+             </div><!-- Add other stock data fields here -->
+        </div>
+    </div>
+    {% endif %}
+
+    <script src="{% static 'js/search.js' %}"></script>
+</body>
+</html>
